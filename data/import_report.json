@@ -1,0 +1,126 @@
+{
+  "updated_at": "2026-10-29T23:05:15.824879+00:00",
+  "exchange_rates": {
+    "ARS": "1565",
+    "ARS_source": "DolarHoy - dólar blue venta",
+    "PYG_per_USD": "5808.852033",
+    "BRL_per_USD": "5.346831"
+  },
+  "total_products_extracted": 188,
+  "total_products_in_catalog": 198,
+  "providers": [
+    {
+      "provider": "Cellshop",
+      "pages_checked": 4,
+      "pages_loaded": 0,
+      "pages_blocked": 4,
+      "products_found": 0,
+      "status": "bloqueado por proveedor",
+      "details": [
+        "HTTP 403: https://cellshop.com.py/todos-los-departamentos/tecnologia/apple/iphone",
+        "HTTP 403: https://cellshop.com.py/todos-los-departamentos/tecnologia/apple/iphone?p=2",
+        "HTTP 403: https://cellshop.com.py/todos-los-departamentos/tecnologia/apple",
+        "HTTP 403: https://cellshop.com.py/5684267-adaptador-wireless-carplay-joog-ai-box-b11"
+      ]
+    },
+    {
+      "provider": "Nissei",
+      "pages_checked": 4,
+      "pages_loaded": 0,
+      "pages_blocked": 4,
+      "products_found": 0,
+      "status": "bloqueado por proveedor",
+      "details": [
+        "HTTP 403: https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/celulares-accesorios/xiaomi-redmi-note-17-4g-dual-128-gb-4-gb-ram-negro",
+        "HTTP 403: https://nissei.com/py/electronica/realme-p4-power-rmx5107-5g-dual-512-gb-silver",
+        "HTTP 403: https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/xiaomi-17t-5g-dual-512-gb-blue",
+        "HTTP 403: https://nissei.com/py/electronica/"
+      ]
+    },
+    {
+      "provider": "Madrid Center",
+      "pages_checked": 4,
+      "pages_loaded": 0,
+      "pages_blocked": 4,
+      "products_found": 0,
+      "status": "bloqueado por proveedor",
+      "details": [
+        "HTTP 403: https://madridcenterimportados.com/",
+        "HTTP 403: https://madridcenterimportados.com/es/home",
+        "HTTP 403: https://madridcenterimportados.com/es/celulares-y-smartphones",
+        "HTTP 403: https://madridcenterimportados.com/es/informatica"
+      ]
+    },
+    {
+      "provider": "Shopping China",
+      "pages_checked": 12,
+      "pages_loaded": 12,
+      "pages_blocked": 0,
+      "products_found": 188,
+      "status": "ok",
+      "details": []
+    }
+  ],
+  "warnings": [
+    {
+      "provider": "Cellshop",
+      "url": "https://cellshop.com.py/todos-los-departamentos/tecnologia/apple/iphone",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Cellshop",
+      "url": "https://cellshop.com.py/todos-los-departamentos/tecnologia/apple/iphone?p=2",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Cellshop",
+      "url": "https://cellshop.com.py/todos-los-departamentos/tecnologia/apple",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Cellshop",
+      "url": "https://cellshop.com.py/5684267-adaptador-wireless-carplay-joog-ai-box-b11",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Nissei",
+      "url": "https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/celulares-accesorios/xiaomi-redmi-note-17-4g-dual-128-gb-4-gb-ram-negro",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Nissei",
+      "url": "https://nissei.com/py/electronica/realme-p4-power-rmx5107-5g-dual-512-gb-silver",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Nissei",
+      "url": "https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/xiaomi-17t-5g-dual-512-gb-blue",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Nissei",
+      "url": "https://nissei.com/py/electronica/",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Madrid Center",
+      "url": "https://madridcenterimportados.com/",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Madrid Center",
+      "url": "https://madridcenterimportados.com/es/home",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Madrid Center",
+      "url": "https://madridcenterimportados.com/es/celulares-y-smartphones",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Madrid Center",
+      "url": "https://madridcenterimportados.com/es/informatica",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    }
+  ]
+}
