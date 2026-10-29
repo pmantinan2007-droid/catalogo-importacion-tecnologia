@@ -15,10 +15,10 @@ MARGIN=Decimal(os.getenv('MARGIN_PERCENT','40')); MAX_PAGES=int(os.getenv('MAX_P
 HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8','Accept-Language':'es-PY,es;q=0.9,pt-BR;q=0.8,en;q=0.7','Cache-Control':'no-cache'}
 S=requests.Session();S.headers.update(HEADERS); WARNINGS=[]; FETCH_STATS={}; FX={'PYG':None,'BRL':None,'ARS':None,'ars_source':None}
 PROVIDERS=[
- {'name':'Cellshop','domain':'cellshop.com.py','starts':['https://cellshop.com.py/','https://www.cellshop.com.py/','https://cellshop.com.py/celulares','https://cellshop.com.py/informatica','https://cellshop.com.py/audio']},
- {'name':'Nissei','domain':'nissei.com','starts':['https://nissei.com/py/electronica?p=1','https://nissei.com/py/electronica?p=2','https://nissei.com/py/celulares','https://nissei.com/py/consola-sony-playstation-5-pro-cfi-7019-2-tb-version-digital-blanco']},
- {'name':'Madrid Center','domain':'madridcenterimportados.com','starts':['https://madridcenterimportados.com/es/home','https://madridcenterimportados.com/','https://madridcenterimportados.com/es/celulares-y-smartphones','https://madridcenterimportados.com/es/informatica','https://madridcenterimportados.com/es/tv-y-video']},
- {'name':'Shopping China','domain':'shoppingchina.com.py','starts':['https://www.shoppingchina.com.py/site/search?query=smartphone','https://www.shoppingchina.com.py/site/search?query=notebook','https://www.shoppingchina.com.py/site/search?query=consola','https://www.shoppingchina.com.py/site/search?query=auricular','https://www.shoppingchina.com.py/site/search?query=smartwatch','https://www.shoppingchina.com.py/site/search?query=tablet','https://www.shoppingchina.com.py/site/search?query=computadora']},
+ {'name':'Cellshop','domain':'cellshop.com.py','starts':['https://cellshop.com.py/todos-los-departamentos/tecnologia/apple/iphone','https://cellshop.com.py/todos-los-departamentos/tecnologia/apple/iphone?p=2','https://cellshop.com.py/todos-los-departamentos/tecnologia/apple','https://cellshop.com.py/5684267-adaptador-wireless-carplay-joog-ai-box-b11']},
+ {'name':'Nissei','domain':'nissei.com','starts':['https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/celulares-accesorios/xiaomi-redmi-note-17-4g-dual-128-gb-4-gb-ram-negro','https://nissei.com/py/electronica/realme-p4-power-rmx5107-5g-dual-512-gb-silver','https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/xiaomi-17t-5g-dual-512-gb-blue','https://nissei.com/py/electronica/']},
+ {'name':'Madrid Center','domain':'madridcenterimportados.com','starts':['https://madridcenterimportados.com/','https://madridcenterimportados.com/es/home','https://madridcenterimportados.com/es/celulares-y-smartphones','https://madridcenterimportados.com/es/informatica']},
+ {'name':'Shopping China','domain':'shoppingchina.com.py','starts':['https://www.shoppingchina.com.py/electronicos/video-games','https://www.shoppingchina.com.py/electronicos.celulares?page=1','https://www.shoppingchina.com.py/electronicos.auriculares?page=1','https://www.shoppingchina.com.py/informatica.notebooks?page=1','https://www.shoppingchina.com.py/site/search?query=smartphone','https://www.shoppingchina.com.py/site/search?query=notebook','https://www.shoppingchina.com.py/site/search?query=consola','https://www.shoppingchina.com.py/site/search?query=auricular','https://www.shoppingchina.com.py/site/search?query=smartwatch']},
 ]
 INCLUDE=re.compile(r'iphone|smartphone|celular|phone|galaxy|xiaomi|motorola|playstation|ps5|ps4|xbox|nintendo|consola|gaming|gamer|gamepad|joystick|smart.?watch|apple watch|galaxy watch|auricular|aud[ií]fono|headphone|headset|parlante|speaker|soundbar|jbl|audio|cable|cargador|adaptador|power.?bank|tablet|ipad|notebook|laptop|macbook|ssd|memoria ram|placa de video|teclado|mouse|webcam|dji|drone|airpods|monitor|router|wi.?fi|bluetooth|smart.?tv|televisor|proyector|impresora|streaming|disco s[oó]lido|procesador|placa madre|gpu|inform[aá]tica|computadora',re.I)
 EXCLUDE=re.compile(r'perfume|colonia|bebida|alimento|suplemento|cigarrillo|tabaco|ropa|calzado|maquillaje|mueble|juguete infantil',re.I)
@@ -86,7 +86,7 @@ def currency(text,explicit=''):
  if re.search(r'\bARS\b|pesos argentinos',t,re.I):return 'ARS'
  return ''
 def price_in_text(text):
- for pat,cur in [(r'(?:Gs\.?|PYG|₲)\s*([\d.,]+)','PYG'),(r'([\d.,]+)\s*(?:Gs\.?|PYG|₲)','PYG'),(r'(?:US\$|USD)\s*([\d.,]+)','USD'),(r'R\$\s*([\d.,]+)','BRL'),(r'([\d.,]+)\s*USD\b','USD'),(r'ARS\s*\$?\s*([\d.,]+)','ARS')]:
+ for pat,cur in [(r'(?:Gs\.?|PYG|₲)\s*([\d.,]+)','PYG'),(r'([\d.,]+)\s*(?:Gs\.?|PYG|₲)','PYG'),(r'(?:US\$|USD)\s*([\d.,]+)','USD'),(r'(?<![A-Z])\$\s*([\d.,]+)','USD'),(r'AR\$\s*([\d.,]+)','ARS'),(r'R\$\s*([\d.,]+)','BRL'),(r'([\d.,]+)\s*USD\b','USD'),(r'ARS\s*\$?\s*([\d.,]+)','ARS')]:
   m=re.search(pat,str(text or ''),re.I)
   if m:
    n=number(m.group(1))
@@ -188,7 +188,15 @@ def cards(soup,url,provider):
    if el:val,cur=price_in_text(el.get_text(' ',strip=True))
    if not val and el and el.get('data-price-amount'):val=number(el.get('data-price-amount'));cur=currency(txt)
   if not val:continue
-  image=absurl((img.get('data-src') or img.get('data-lazy-src') or img.get('data-original') or img.get('src')) if img else '',url)
+  image_raw=''
+  if img:
+   image_raw=img.get('data-src') or img.get('data-lazy-src') or img.get('data-original') or img.get('data-original-src') or img.get('src') or ''
+   if not image_raw and img.get('srcset'):
+    image_raw=img.get('srcset').split(',')[0].strip().split(' ')[0]
+  if not image_raw:
+   pic=card.select_one('picture source[srcset]')
+   if pic:image_raw=pic.get('srcset','').split(',')[0].strip().split(' ')[0]
+  image=absurl(image_raw,url)
   rec=product_record(name,link,provider,val,cur,image,desc=txt,stock=in_stock('',txt))
   if rec:out.append(rec);seen.add(link)
  return out
@@ -240,12 +248,24 @@ def main():
    report.append({'provider':p['name'],'pages_checked':0,'products_found':0,'status':'error'})
  unique={x['source_url']:x for x in all_products if x.get('source_url') and x.get('price_usd')}
  OUT.parent.mkdir(parents=True,exist_ok=True)
- # Never wipe out a working catalogue if a provider blocks scraping.
- if unique or not OUT.exists():
-  data={'updated_at':datetime.now(timezone.utc).isoformat(),'ars_per_usd':float(FX['ARS']) if FX['ARS'] else None,'ars_source':FX['ars_source'],'pyg_per_usd':float(FX['PYG']) if FX['PYG'] else None,'brl_per_usd':float(FX['BRL']) if FX['BRL'] else None,'markup_percent':float(MARGIN),'products':list(unique.values()),'failures':WARNINGS,'note':'Precio de referencia con margen configurado; verificar precio y stock con el proveedor antes de confirmar la venta.'}
+ # Fusionar: si un proveedor bloquea el scraping, no se borra el catálogo que ya se ve.
+ previous={}
+ if OUT.exists():
+  try:
+   old_data=json.loads(OUT.read_text(encoding='utf-8'))
+   for item in old_data.get('products',[]):
+    k=(item.get('provider','')+'|'+item.get('name','')).lower()
+    if k: previous[k]=item
+  except Exception: pass
+ for item in unique.values():
+  k=(item.get('provider','')+'|'+item.get('name','')).lower()
+  previous[k]=item
+ merged=list(previous.values())
+ if merged or not OUT.exists():
+  data={'updated_at':datetime.now(timezone.utc).isoformat(),'ars_per_usd':float(FX['ARS']) if FX['ARS'] else None,'ars_source':FX['ars_source'],'pyg_per_usd':float(FX['PYG']) if FX['PYG'] else None,'brl_per_usd':float(FX['BRL']) if FX['BRL'] else None,'markup_percent':float(MARGIN),'products':merged,'failures':WARNINGS,'note':'Catálogo combinado: los productos capturados se actualizan; los de referencia previos se conservan si un proveedor bloquea la extracción. Confirmar precio y stock antes de vender.'}
   OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
  else:WARNINGS.append({'warning':'Sin resultados nuevos: se conservó el catálogo anterior.'})
- REPORT.write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'exchange_rates':{'ARS':str(FX['ARS']) if FX['ARS'] else None,'ARS_source':FX['ars_source'],'PYG_per_USD':str(FX['PYG']) if FX['PYG'] else None,'BRL_per_USD':str(FX['BRL']) if FX['BRL'] else None},'total_products_extracted':len(unique),'providers':report,'warnings':WARNINGS},ensure_ascii=False,indent=2),encoding='utf-8')
+ REPORT.write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'exchange_rates':{'ARS':str(FX['ARS']) if FX['ARS'] else None,'ARS_source':FX['ars_source'],'PYG_per_USD':str(FX['PYG']) if FX['PYG'] else None,'BRL_per_USD':str(FX['BRL']) if FX['BRL'] else None},'total_products_extracted':len(unique),'total_products_in_catalog':len(merged),'providers':report,'warnings':WARNINGS},ensure_ascii=False,indent=2),encoding='utf-8')
  print('PRODUCTOS REALES EXTRAÍDOS:',len(unique))
  for r in report:print(f"- {r['provider']}: {r['products_found']} productos; {r.get('pages_loaded',0)} páginas leídas, {r.get('pages_blocked',0)} bloqueadas ({r['status']})")
  print('Informe escrito en data/import_report.json')

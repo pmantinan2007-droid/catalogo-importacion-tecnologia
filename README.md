@@ -1,34 +1,23 @@
-# Catálogo de importación de tecnología — NEXO TECH
+# NEXO TECH — corrección urgente del catálogo
 
-Catálogo estático con diseño oscuro/azul, búsqueda, filtros, precios en USD/ARS y consultas por WhatsApp. El catálogo se alimenta desde `data/products.json`.
+## Qué incluye
+- `data/products.json`: catálogo inicial con 13 productos encontrados en páginas públicas de los cuatro proveedores. Los precios son referencias capturadas el 29/10/2026, con margen del 40%; confirmar antes de vender. Las imágenes quedan pendientes cuando el proveedor no permite extraerlas.
+- `importer/import_catalog.py`: importador con rutas de categorías reales de los sitios, más extracción de imágenes `srcset`/lazy-load, reconocimiento de precios con `$`, y fusión de resultados para que un bloqueo no borre productos que ya están publicados.
+- El sitio estático original, sin cambiar su diseño.
 
-## Importación automática
+## Aplicar al repositorio existente
+No subas una carpeta anidada ni cambies todo el diseño. En el repositorio de GitHub reemplazá estos dos archivos por los del ZIP:
+1. `data/products.json`
+2. `importer/import_catalog.py`
 
-El workflow de GitHub Actions consulta los sitios públicos de **Cellshop, Nissei, Madrid Center Importados y Shopping China** cada 6 horas (también se puede ejecutar manualmente desde **Actions → Actualizar catálogo → Run workflow**).
+Hacé commit de los cambios. Luego ejecutá `Actions → Actualizar catálogo → Run workflow`.
 
-El importador intenta leer datos estructurados de producto (JSON-LD), metadatos y tarjetas de catálogo. Solo publica productos que tengan nombre, URL y precio verificable convertido a USD; no genera productos de demostración ni inventa precios. Aplica un margen del 40%.
+## Importante
+`Success` de GitHub Actions solo indica que el trabajo terminó sin error fatal. Mirá `data/import_report.json` y revisá `total_products_extracted` (productos nuevos detectados en esa ejecución) y `total_products_in_catalog` (productos que quedan visibles). Si un proveedor bloquea el acceso, el catálogo previo se conserva.
 
-- Conversión desde guaraníes/reales: intenta usar tasas de referencia públicas.
-- Precio ARS: intenta leer dólar blue venta de DolarHoy. Si no se puede, usa la variable `ARS_PER_USD` configurada en GitHub → Settings → Secrets and variables → Actions → Variables.
-- El detalle de páginas consultadas, productos por proveedor y errores se guarda en `data/import_report.json`.
-- Si una ejecución no encuentra ningún producto, conserva el catálogo anterior para evitar vaciar la web accidentalmente.
-- Los proveedores pueden cambiar sus páginas o bloquear consultas automatizadas. No se evaden CAPTCHAs, inicios de sesión ni controles de acceso. El primer resultado debe revisarse en Actions y en el informe.
-- Las imágenes se muestran desde la URL pública de origen; revisá los términos de uso de cada proveedor.
-- El stock se presenta como dato orientativo cuando la página lo permite. Antes de confirmar un pedido, hay que verificar disponibilidad y precio final con el proveedor.
+Los sitios pueden cambiar su HTML o bloquear robots. Este parche evita que la web vuelva a quedar vacía y mejora la extracción, pero no puede garantizar que los cuatro proveedores permitan una importación automática completa en cada ejecución.
 
-## Instalar el paquete
-
-1. Descargá y descomprimí el ZIP completo.
-2. En GitHub, abrí el repositorio `catalogo-importacion-tecnologia`.
-3. Reemplazá los archivos del repositorio por los de este paquete, manteniendo los nombres y carpetas. Si preferís hacerlo manualmente, reemplazá al menos `importer/import_catalog.py`, `.github/workflows/update-catalog.yml` y `README.md`.
-4. Confirmá/subí los cambios a la rama `main`.
-5. Entrá en **Actions → Actualizar catálogo → Run workflow**.
-6. Revisá el resultado del workflow. Si algún proveedor devuelve 0 productos, mirá `data/import_report.json`; puede requerir un ajuste específico si cambió el HTML o hay protección anti-bot.
-
-## WhatsApp
-
-Antes de publicar, editá `app.js` y cambiá `WHATSAPP_NUMBER` por tu número internacional sin `+`, espacios ni guiones.
-
-## Publicación en Cloudflare Pages
-
-La salida sigue siendo `data/products.json`, por lo que el frontend existente la consume sin cambios. Framework preset `None`, build command vacío y output directory `/`.
+## Configuración
+- Margen: `MARGIN_PERCENT=40` en el workflow.
+- Dólar ARS: el importador intenta leer una cotización pública; si falla, configurar `ARS_PER_USD` en GitHub → Settings → Secrets and variables → Actions → Variables.
+- WhatsApp: en `app.js`, cambiar `WHATSAPP_NUMBER` por el número internacional correcto antes de recibir consultas.
