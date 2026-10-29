@@ -1,27 +1,55 @@
 name: Actualizar catálogo
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 10 * * *" # diario 10:17 UTC
+    - cron: "17 10 * * *"
+
 permissions:
   contents: write
+
+concurrency:
+  group: actualizar-catalogo
+  cancel-in-progress: false
+
 jobs:
   import:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Instalar dependencias
         run: pip install -r requirements.txt
+
       - name: Importar catálogo
         env:
           ARS_PER_USD: ${{ vars.ARS_PER_USD }}
         run: python importer/import_catalog.py
+
       - name: Guardar cambios del catálogo
         run: |
           git config user.name "catalog-bot"
           git config user.email "catalog-bot@users.noreply.github.com"
+
           git add data/products.json
-          git diff --cached --quiet || (git commit -m "Actualizar catálogo automáticamente" && git push)
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios en el catálogo."
+            exit 0
+          fi
+
+          git commit -m "Actualizar catálogo automáticamente"
+
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
