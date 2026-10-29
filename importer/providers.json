@@ -1,14 +1,45 @@
 {
   "markup_percent": 40,
-  "max_category_pages_per_provider": 4,
-  "max_product_pages_per_provider": 60,
+  "max_category_pages_per_provider": 12,
+  "max_product_pages_per_provider": 120,
   "timeout_seconds": 25,
-  "user_agent": "Mozilla/5.0 (compatible; NexoTechCatalog/1.0; public product catalog)",
   "ars_per_usd_env": "ARS_PER_USD",
   "providers": [
-    {"name":"Cellshop","base_url":"https://cellshop.com.py/","category_urls":["https://cellshop.com.py/"],"enabled":true},
-    {"name":"Nissei","base_url":"https://nissei.com/py/","category_urls":["https://nissei.com/py/home"],"enabled":true},
-    {"name":"Madrid Center","base_url":"https://madridcenterimportados.com/","category_urls":["https://madridcenterimportados.com/es/home"],"enabled":true},
-    {"name":"Shopping China","base_url":"https://www.shoppingchina.com.py/","category_urls":["https://www.shoppingchina.com.py/"],"enabled":true}
+    {
+      "name": "Cellshop",
+      "base_url": "https://cellshop.com.py/",
+      "category_urls": [
+        "https://cellshop.com.py/"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Nissei",
+      "base_url": "https://nissei.com/py/",
+      "category_urls": [
+        "https://nissei.com/py/home",
+        "https://nissei.com/py/consola-sony-playstation-5-pro-cfi-7019-2-tb-version-digital-blanco"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Madrid Center",
+      "base_url": "https://madridcenterimportados.com/",
+      "category_urls": [
+        "https://madridcenterimportados.com/es/home",
+        "https://madridcenterimportados.com/"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Shopping China",
+      "base_url": "https://www.shoppingchina.com.py/",
+      "category_urls": [
+        "https://www.shoppingchina.com.py/site/index",
+        "https://www.shoppingchina.com.py/electronicos?page=1",
+        "https://www.shoppingchina.com.py/informatica?page=1"
+      ],
+      "enabled": true
+    }
   ]
 }
