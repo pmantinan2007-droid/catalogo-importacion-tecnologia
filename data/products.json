@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-10-29T16:56:46.517375+00:00",
+  "updated_at": null,
   "ars_per_usd": null,
-  "markup_percent": 40.0,
+  "markup_percent": 40,
   "products": [],
-  "failures": [
-    {
-      "provider": "Cellshop",
-      "url": "https://cellshop.com.py/todos-los-departamentos/tecnologia/accesorios-de-tecnologia",
-      "error": "403 Client Error: Forbidden for url: https://cellshop.com.py/todos-los-departamentos/tecnologia/accesorios-de-tecnologia"
-    },
-    {
-      "provider": "Nissei",
-      "url": "https://nissei.com/py/home",
-      "error": "No se detectaron productos JSON-LD/OG. Requiere integración específica."
-    },
-    {
-      "provider": "Madrid Center",
-      "url": "https://madridcenterimportados.com/es/home",
-      "error": "403 Client Error: Forbidden for url: https://madridcenterimportados.com/es/home"
-    },
-    {
-      "provider": "Shopping China",
-      "url": "https://www.shoppingchina.com.py/",
-      "error": "No se detectaron productos JSON-LD/OG. Requiere integración específica."
-    }
-  ],
-  "note": "Si products está vacío, hay que validar acceso y adaptar el importador de cada proveedor."
+  "failures": [],
+  "note": "Catálogo sin productos hasta validar importación real."
 }

@@ -1,12 +1,6 @@
 // Cambiá este valor por tu WhatsApp internacional sin +, espacios ni guiones.
 const WHATSAPP_NUMBER = "5491100000000";
 const DATA_URL = "data/products.json";
-const FALLBACK_PRODUCTS = [
-  {id:"demo-ps5",name:"Consola PlayStation 5 Slim Digital",brand:"Sony",category:"Gaming",provider:"Producto de ejemplo",price_usd:449,price_ars:0,image_url:"",description:"Consola de videojuegos. Ejemplo visual; reemplazar con datos importados.",source_url:"https://www.nissei.com/py/home",featured:true,demo:true},
-  {id:"demo-watch",name:"Smartwatch deportivo Bluetooth",brand:"Smartwatch",category:"Smartwatches",provider:"Producto de ejemplo",price_usd:79,price_ars:0,image_url:"",description:"Reloj inteligente. Ejemplo visual; reemplazar con datos importados.",source_url:"https://www.cellshop.com.py/",featured:true,demo:true},
-  {id:"demo-phone",name:"Smartphone Android 128 GB",brand:"Android",category:"Celulares",provider:"Producto de ejemplo",price_usd:219,price_ars:0,image_url:"",description:"Smartphone liberado. Ejemplo visual; reemplazar con datos importados.",source_url:"https://madridcenterimportados.com/es/home",featured:true,demo:true},
-  {id:"demo-audio",name:"Auriculares inalámbricos Bluetooth",brand:"Audio",category:"Audio",provider:"Producto de ejemplo",price_usd:45,price_ars:0,image_url:"",description:"Auriculares compactos. Ejemplo visual; reemplazar con datos importados.",source_url:"https://www.shoppingchina.com.py/",featured:false,demo:true}
-];
 let products = [];
 let activeCategory = "Todos";
 const $ = (s) => document.querySelector(s);
@@ -55,7 +49,7 @@ function render(){
   $("#productCount").textContent=`${filtered.length} producto${filtered.length===1?"":"s"}`;
   $("#productGrid").innerHTML=filtered.length?filtered.map(card).join(""):"";
   $("#emptyState").hidden=Boolean(filtered.length);
-  $("#catalogFooterText").textContent=products.some(p=>p.demo)?"Versión inicial: los artículos de ejemplo no son ofertas reales.":"Precios sujetos a confirmación con el proveedor.";
+  $("#catalogFooterText").textContent=products.length?"Precios de referencia: confirmar stock y precio final con el proveedor.":"Todavía no hay productos reales importados. No se muestran artículos de demostración.";
   document.querySelectorAll(".order-btn").forEach(btn=>btn.addEventListener("click",()=>window.open(waLink(btn.dataset.message),"_blank","noopener")));
 }
 function setCategory(category){
@@ -72,8 +66,8 @@ async function init(){
     if(!response.ok) throw new Error("No hay archivo de catálogo publicado");
     const data=await response.json();
     products=(Array.isArray(data.products)?data.products:[]).map(cleanProduct);
-    if(!products.length) products=FALLBACK_PRODUCTS.map(cleanProduct);
-  }catch(e){products=FALLBACK_PRODUCTS.map(cleanProduct);}
+    
+  }catch(e){products=[];}
   const providers=[...new Set(products.map(p=>p.provider).filter(Boolean))].sort();
   $("#providerFilter").innerHTML='<option value="">Todos los proveedores</option>'+providers.map(p=>`<option value="${escapeHtml(p)}">${escapeHtml(p)}</option>`).join("");
   document.querySelectorAll(".category-tile").forEach(btn=>btn.addEventListener("click",()=>{setCategory(btn.dataset.category);$("#catalogo").scrollIntoView({behavior:"smooth",block:"start"});}));
