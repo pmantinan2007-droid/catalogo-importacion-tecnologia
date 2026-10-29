@@ -1,0 +1,41 @@
+{
+  "markup_percent": 40,
+  "max_pages": 1,
+  "timeout_seconds": 25,
+  "user_agent": "NexoTechCatalogBot/0.1 (contact: admin@example.com; product-catalog-check)",
+  "ars_per_usd_env": "ARS_PER_USD",
+  "providers": [
+    {
+      "name": "Cellshop",
+      "base_url": "https://cellshop.com.py",
+      "category_urls": [
+        "https://cellshop.com.py/todos-los-departamentos/tecnologia/accesorios-de-tecnologia"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Nissei",
+      "base_url": "https://nissei.com/py",
+      "category_urls": [
+        "https://nissei.com/py/home"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Madrid Center",
+      "base_url": "https://madridcenterimportados.com",
+      "category_urls": [
+        "https://madridcenterimportados.com/es/home"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Shopping China",
+      "base_url": "https://www.shoppingchina.com.py",
+      "category_urls": [
+        "https://www.shoppingchina.com.py/"
+      ],
+      "enabled": true
+    }
+  ]
+}
