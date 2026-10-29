@@ -1,23 +1,25 @@
-# NEXO TECH — corrección urgente del catálogo
+# NEXO TECH — actualización de imágenes y cotizaciones
 
-## Qué incluye
-- `data/products.json`: catálogo inicial con 13 productos encontrados en páginas públicas de los cuatro proveedores. Los precios son referencias capturadas el 29/10/2026, con margen del 40%; confirmar antes de vender. Las imágenes quedan pendientes cuando el proveedor no permite extraerlas.
-- `importer/import_catalog.py`: importador con rutas de categorías reales de los sitios, más extracción de imágenes `srcset`/lazy-load, reconocimiento de precios con `$`, y fusión de resultados para que un bloqueo no borre productos que ya están publicados.
-- El sitio estático original, sin cambiar su diseño.
+Este parche conserva el diseño actual y actualiza únicamente el importador y el catálogo de datos.
 
-## Aplicar al repositorio existente
-No subas una carpeta anidada ni cambies todo el diseño. En el repositorio de GitHub reemplazá estos dos archivos por los del ZIP:
-1. `data/products.json`
-2. `importer/import_catalog.py`
+## Qué hace
+- Revisa las fichas de producto ya guardadas y completa `image_url` con `og:image`, Twitter Card, JSON-LD y galerías de producto.
+- En productos que exponen precio en JSON-LD, vuelve a leer el precio de la ficha y actualiza el precio de origen.
+- Convierte PYG y BRL a USD con la tasa de referencia pública USD del día; agrega 40% de margen una sola vez.
+- Para ARS intenta obtener el dólar blue vendedor de DolarHoy. Si no logra leerlo, utiliza la tasa USD/ARS de respaldo de la API de cambio y lo identifica explícitamente en `ars_source`. Se puede forzar el respaldo manual con la variable `ARS_PER_USD`.
+- Recalcula el equivalente en pesos en cada ejecución. No inventa URLs de imágenes ni precios que no haya podido leer.
+- El informe `data/import_report.json` ahora incluye `products_with_images` y `products_without_images`.
 
-Hacé commit de los cambios. Luego ejecutá `Actions → Actualizar catálogo → Run workflow`.
+## Archivos a reemplazar en el repositorio existente
+1. `importer/import_catalog.py`
+2. `README.md` (opcional, solo documentación)
 
-## Importante
-`Success` de GitHub Actions solo indica que el trabajo terminó sin error fatal. Mirá `data/import_report.json` y revisá `total_products_extracted` (productos nuevos detectados en esa ejecución) y `total_products_in_catalog` (productos que quedan visibles). Si un proveedor bloquea el acceso, el catálogo previo se conserva.
+No reemplazar `data/products.json`: el importador conserva los productos que ya aparecen en la web y completa sus imágenes desde sus fichas originales. No reemplazar `index.html`, `styles.css` ni `app.js`.
 
-Los sitios pueden cambiar su HTML o bloquear robots. Este parche evita que la web vuelva a quedar vacía y mejora la extracción, pero no puede garantizar que los cuatro proveedores permitan una importación automática completa en cada ejecución.
+Después del commit, ejecutar **Actions → Actualizar catálogo → Run workflow**. Esperar que finalice y revisar `data/import_report.json`.
 
-## Configuración
-- Margen: `MARGIN_PERCENT=40` en el workflow.
-- Dólar ARS: el importador intenta leer una cotización pública; si falla, configurar `ARS_PER_USD` en GitHub → Settings → Secrets and variables → Actions → Variables.
-- WhatsApp: en `app.js`, cambiar `WHATSAPP_NUMBER` por el número internacional correcto antes de recibir consultas.
+## Sobre precios
+La fórmula es: precio origen convertido a USD × 1,40. Luego precio USD × cotización ARS/USD. Para PYG, se usa la tasa PYG por USD de la API de cambio. Para ARS, se prioriza DolarHoy (dólar blue vendedor); si la lectura falla, el informe deja identificada la fuente de respaldo. Los importes del proveedor se consideran referencias y deben confirmarse con el comercio antes de vender. Si una ficha no expone precio estructurado, se conserva el último precio conocido y no se lo presenta como recién verificado.
+
+## Limitación real
+La descarga de imágenes depende de que el proveedor permita acceder a su ficha y de que la URL de imagen sea pública. Si el proveedor bloquea la automatización o requiere JavaScript, el informe lo reflejará; no se crean imágenes falsas ni URLs inventadas.
