@@ -1,79 +1,60 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Catálogo de tecnología importada a pedido. Celulares, gaming, smartwatches y accesorios.">
-  <title>NEXO TECH | Tecnología a pedido</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="NEXO TECH. Catálogo seleccionado de tecnología premium importada a pedido.">
+<meta name="theme-color" content="#071426">
+<title>NEXO TECH | Tecnología premium a pedido</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="nexo-professional.css">
 </head>
 <body>
-  <div class="topline">TECNOLOGÍA DE PARAGUAY · PRODUCTOS A PEDIDO · PRECIOS SUJETOS A CONFIRMACIÓN</div>
-  <header class="site-header">
-    <a class="brand" href="#" aria-label="Nexo Tech inicio"><span class="brand-mark">N</span><span>NEXO<span class="brand-light">TECH</span><small>IMPORTACIÓN A PEDIDO</small></span></a>
-    <nav class="main-nav"><a href="#catalogo">Catálogo</a><a href="#como-funciona">Cómo funciona</a><a href="#contacto">Contacto</a></nav>
-    <a class="header-cta" id="headerWhatsApp" href="#contacto">Consultar <span>↗</span></a>
-  </header>
-
-  <main>
-    <section class="hero">
-      <div class="hero-copy">
-        <div class="eyebrow"><span class="pulse"></span> TU PRÓXIMO GADGET, MÁS CERCA</div>
-        <h1>Tecnología que<br>te mueve<span>.</span></h1>
-        <p>Explorá celulares, gaming y electrónica seleccionada de proveedores de Paraguay. Encontrá tu próximo equipo y consultá para encargarlo.</p>
-        <div class="hero-actions"><a class="btn btn-primary" href="#catalogo">Explorar catálogo <span>↓</span></a><a class="btn btn-quiet" href="#como-funciona">Cómo comprar <span>↗</span></a></div>
-        <div class="hero-trust"><div class="trust-icon">✓</div><div><strong>Compra a pedido</strong><small>Confirmamos precio y disponibilidad antes de avanzar.</small></div></div>
-      </div>
-      <div class="hero-art" aria-label="Ilustración tecnológica">
-        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
-        <div class="hero-glow"></div>
-        <div class="device phone"><div class="phone-screen"><div class="screen-camera"></div><div class="screen-label">NEXO<br><b>FUTURE</b></div><div class="screen-wave"></div></div></div>
-        <div class="device watch"><div class="watch-strap"></div><div class="watch-face"><span>09:41</span><i>● ● ●</i></div></div>
-        <div class="floating-chip chip-top">TECH / 01</div><div class="floating-chip chip-bottom"><span class="chip-dot"></span> SELECCIÓN GLOBAL</div>
-      </div>
-    </section>
-
-    <section class="category-section">
-      <div class="section-heading"><div><span class="section-kicker">ENCONTRÁ LO TUYO</span><h2>Explorá por categoría</h2></div><span class="muted">Tecnología seleccionada para vos</span></div>
-      <div class="category-grid" id="categoryGrid">
-        <button class="category-tile active" data-category="Todos"><span class="cat-icon">▦</span><span>Todo el catálogo</span><b>↗</b></button>
-        <button class="category-tile" data-category="Celulares"><span class="cat-icon">▯</span><span>Celulares</span><b>↗</b></button>
-        <button class="category-tile" data-category="Gaming"><span class="cat-icon">⌁</span><span>Gaming & consolas</span><b>↗</b></button>
-        <button class="category-tile" data-category="Smartwatches"><span class="cat-icon">◷</span><span>Smartwatches</span><b>↗</b></button>
-        <button class="category-tile" data-category="Audio"><span class="cat-icon">♫</span><span>Audio</span><b>↗</b></button>
-        <button class="category-tile" data-category="Accesorios"><span class="cat-icon">⌘</span><span>Accesorios</span><b>↗</b></button>
-      </div>
-    </section>
-
-    <section class="catalog-section" id="catalogo">
-      <div class="section-heading catalog-heading"><div><span class="section-kicker">CATÁLOGO NEXO</span><h2>Encontrá tu próximo equipo</h2></div><span class="muted" id="productCount">Cargando productos…</span></div>
-      <div class="catalog-controls">
-        <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscá por nombre, marca o modelo…" autocomplete="off"><kbd>⌘ K</kbd></label>
-        <select id="providerFilter" aria-label="Filtrar por proveedor"><option value="">Todos los proveedores</option></select>
-        <select id="sortFilter" aria-label="Ordenar productos"><option value="featured">Destacados</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="name">Nombre A–Z</option></select>
-      </div>
-      <div class="notice"><span>ⓘ</span> Los precios son de referencia. Confirmamos stock, cotización y precio final antes de aceptar el pedido.</div>
-      <div class="product-grid" id="productGrid"><div class="loading-card">Preparando catálogo…</div></div>
-      <div class="empty-state" id="emptyState" hidden><div>⌕</div><h3>Estamos preparando el catálogo real</h3><p>Los productos aparecerán cuando la importación desde los proveedores esté configurada y verificada. No mostramos artículos ni precios ficticios.</p><button id="clearFilters" class="btn btn-quiet">Actualizar filtros</button></div>
-      <div class="catalog-footer"><span id="catalogFooterText">Productos sujetos a disponibilidad.</span><a href="#contacto">¿No encontrás lo que buscás? <b>Consultanos ↗</b></a></div>
-    </section>
-
-    <section class="how-section" id="como-funciona">
-      <div class="how-intro"><span class="section-kicker">SIMPLE Y TRANSPARENTE</span><h2>Tu próximo equipo,<br>en tres pasos.</h2><p>Te acompañamos desde la consulta hasta la confirmación de tu pedido.</p></div>
-      <div class="steps">
-        <article class="step"><span class="step-num">01</span><div class="step-icon">⌕</div><h3>Elegí tu producto</h3><p>Explorá el catálogo y encontrá el modelo que buscás.</p></article>
-        <article class="step"><span class="step-num">02</span><div class="step-icon">↗</div><h3>Consultá disponibilidad</h3><p>Te confirmamos el precio actualizado y las condiciones.</p></article>
-        <article class="step"><span class="step-num">03</span><div class="step-icon">✓</div><h3>Coordiná tu pedido</h3><p>Si estás de acuerdo, coordinamos los siguientes pasos por WhatsApp.</p></article>
-      </div>
-    </section>
-
-    <section class="contact-banner" id="contacto"><div class="contact-orb"></div><div><span class="section-kicker">¿BUSCÁS ALGO EN PARTICULAR?</span><h2>La tecnología que querés,<br>la buscamos con vos.</h2><p>Si no aparece en el catálogo, escribinos con la marca y el modelo.</p></div><a class="btn btn-primary" id="contactWhatsApp" href="#">Hablar por WhatsApp <span>↗</span></a></section>
-  </main>
-
-  <footer class="site-footer"><a class="brand" href="#"><span class="brand-mark">N</span><span>NEXO<span class="brand-light">TECH</span><small>IMPORTACIÓN A PEDIDO</small></span></a><p>Catálogo de referencia. Disponibilidad, precio final y condiciones sujetos a confirmación.</p><span>© <span id="year"></span> Nexo Tech</span></footer>
-  <script src="app.js"></script>
-</body>
-</html>
+<div class="topline">NEXO TECH <span>·</span> TECNOLOGÍA PREMIUM <span>·</span> IMPORTACIÓN A PEDIDO <span>·</span> PRECIOS SUJETOS A CONFIRMACIÓN</div>
+<header class="site-header">
+<a class="brand" href="#inicio" aria-label="Nexo Tech inicio"><span class="brand-mark">N</span><span>NEXO<span class="brand-light">TECH</span><small>TECNOLOGÍA SELECCIONADA</small></span></a>
+<nav class="main-nav"><a href="#catalogo">Catálogo</a><a href="#como-funciona">Cómo funciona</a><a href="#contacto">Contacto</a></nav>
+<a class="header-cta" id="headerWhatsApp" href="#contacto">Asesoramiento <span>↗</span></a>
+</header>
+<main id="inicio">
+<section class="hero">
+<div class="hero-copy">
+<div class="eyebrow"><span class="pulse"></span> CURADURÍA DE TECNOLOGÍA PREMIUM</div>
+<h1>Tecnología, informática y más.<br><span>Importado para vos.</span></h1>
+<p>Una selección de equipos y electrónica de proveedores de Paraguay. Encontrá productos de alto valor, compará referencias y consultá tu importación de forma directa.</p>
+<div class="hero-actions"><a class="btn btn-primary" href="#catalogo">Explorar selección <span>↓</span></a><a class="btn btn-quiet" href="#como-funciona">Cómo comprar <span>↗</span></a></div>
+<div class="hero-trust"><div class="trust-icon">✓</div><div><strong>Atención personalizada</strong><small>Confirmamos precio, disponibilidad y condiciones antes de cada pedido.</small></div></div>
+</div>
+<div class="hero-art" aria-label="Composición gráfica tecnológica"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="hero-glow"></div><div class="device phone"><div class="phone-screen"><div class="screen-camera"></div><div class="screen-label">NEXO<br><b>SELECT</b></div><div class="screen-wave"></div></div></div><div class="device watch"><div class="watch-strap"></div><div class="watch-face"><span>09:41</span><i>● ● ●</i></div></div><div class="floating-chip chip-top">NEXO / SELECT</div><div class="floating-chip chip-bottom"><span class="chip-dot"></span> PREMIUM TECH</div></div>
+</section>
+<section class="category-section">
+<div class="section-heading"><div><span class="section-kicker">DESCUBRÍ LA SELECCIÓN</span><h2>Explorá por categoría</h2></div><span class="muted">Tecnología, informática, fragancias y drones</span></div>
+<div class="category-grid" id="categoryGrid">
+<button class="category-tile active" data-category="Todos"><span class="cat-icon">▦</span><span>Todo el catálogo</span><b>↗</b></button>
+<button class="category-tile" data-category="Celulares"><span class="cat-icon">▯</span><span>Celulares</span><b>↗</b></button>
+<button class="category-tile" data-category="Gaming"><span class="cat-icon">⌁</span><span>Gaming & consolas</span><b>↗</b></button>
+<button class="category-tile" data-category="Smartwatches"><span class="cat-icon">◷</span><span>Smartwatches</span><b>↗</b></button>
+<button class="category-tile" data-category="Audio"><span class="cat-icon">♫</span><span>Audio</span><b>↗</b></button>
+<button class="category-tile" data-category="Informatica"><span class="cat-icon">▤</span><span>Informática <small>Notebooks · placas de video · memorias · discos</small></span><b>↗</b></button>
+<button class="category-tile" data-category="Drones"><span class="cat-icon">✣</span><span>Drones</span><b>↗</b></button>
+<button class="category-tile" data-category="Perfumes"><span class="cat-icon">✧</span><span>Perfumes</span><b>↗</b></button>
+<button class="category-tile" data-category="Accesorios"><span class="cat-icon">⌘</span><span>Accesorios</span><b>↗</b></button>
+</div></section>
+<section class="catalog-section" id="catalogo">
+<div class="section-heading catalog-heading"><div><span class="section-kicker">CATÁLOGO NEXO TECH</span><h2>Selección premium</h2><p class="catalog-subtitle">Mostramos productos cuyo costo de origen supera los USD 400.</p></div><span class="muted" id="productCount">Cargando productos…</span></div>
+<div class="catalog-controls"><label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscá por nombre, marca o modelo…" autocomplete="off"><kbd>⌘ K</kbd></label><select id="providerFilter" aria-label="Filtrar por proveedor"><option value="">Todos los proveedores</option></select><select id="sortFilter" aria-label="Ordenar productos"><option value="featured">Destacados</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="name">Nombre A–Z</option></select></div>
+<div class="selection-strip"><span class="selection-check">✓</span><div><strong>Filtro de valor activo</strong><small>Costo de compra superior a USD 400 · El margen comercial se aplica sobre ese costo.</small></div><span class="selection-threshold">+ USD 400</span></div>
+<div class="notice"><span>ⓘ</span> Los precios publicados son de referencia. Confirmamos cotización, stock y precio final con el proveedor antes de aceptar el pedido.</div>
+<div class="product-grid" id="productGrid"><div class="loading-card">Preparando catálogo…</div></div>
+<div class="empty-state" id="emptyState" hidden><div>⌕</div><h3>No encontramos productos para estos filtros</h3><p>Probá otra búsqueda o consultanos por un modelo específico.</p><button id="clearFilters" class="btn btn-quiet">Limpiar filtros</button></div>
+<div class="catalog-footer"><span id="catalogFooterText">Productos sujetos a disponibilidad.</span><a href="#contacto">¿No encontrás lo que buscás? <b>Consultanos ↗</b></a></div>
+</section>
+<section class="how-section" id="como-funciona"><div class="how-intro"><span class="section-kicker">UN PROCESO CLARO</span><h2>Tu próximo equipo,<br>en tres pasos.</h2><p>Te acompañamos desde la consulta hasta la confirmación de tu pedido.</p></div><div class="steps"><article class="step"><span class="step-num">01</span><div class="step-icon">⌕</div><h3>Elegí tu producto</h3><p>Explorá la selección y encontrá el equipo que buscás.</p></article><article class="step"><span class="step-num">02</span><div class="step-icon">↗</div><h3>Consultá disponibilidad</h3><p>Verificamos precio de origen, cotización y stock.</p></article><article class="step"><span class="step-num">03</span><div class="step-icon">✓</div><h3>Coordiná tu pedido</h3><p>Si confirmás, coordinamos los siguientes pasos por WhatsApp.</p></article></div></section>
+<section class="contact-banner" id="contacto"><div class="contact-orb"></div><div><span class="section-kicker">ATENCIÓN PERSONALIZADA</span><h2>¿Buscás un modelo puntual?</h2><p>Escribinos con la marca y el modelo. Buscamos la mejor opción entre nuestros proveedores.</p></div><a class="btn btn-primary" id="contactWhatsApp" href="#">Hablar por WhatsApp <span>↗</span></a></section>
+</main>
+<footer class="site-footer"><a class="brand" href="#inicio"><span class="brand-mark">N</span><span>NEXO<span class="brand-light">TECH</span><small>TECNOLOGÍA SELECCIONADA</small></span></a><p>Catálogo de referencia. Disponibilidad, precio final y condiciones sujetos a confirmación.</p><span>© <span id="year"></span> Nexo Tech</span></footer>
+<script src="app.js"></script>
+</body></html>

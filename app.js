@@ -1,81 +1,18 @@
-// Cambiá este valor por tu WhatsApp internacional sin +, espacios ni guiones.
+// Configurá aquí el WhatsApp comercial en formato internacional, sin +, espacios ni guiones.
 const WHATSAPP_NUMBER = "5491100000000";
 const DATA_URL = "data/products.json";
+const MIN_SOURCE_COST_USD = 400; // Filtro por costo de compra, antes del margen.
 let products = [];
 let activeCategory = "Todos";
 const $ = (s) => document.querySelector(s);
 const usd = (v) => new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:2}).format(Number(v)||0);
 const ars = (v) => new Intl.NumberFormat("es-AR",{style:"currency",currency:"ARS",maximumFractionDigits:0}).format(Number(v)||0);
 function waLink(message){return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;}
-function categoryOf(p){
-  const s = `${p.category||""} ${p.name||""} ${p.brand||""} ${p.description||""}`.toLowerCase();
-  if(/playstation|xbox|nintendo|consola|gaming|gamer|videojuego|joystick|gamepad/.test(s)) return "Gaming";
-  if(/smartwatch|smart watch|apple watch|galaxy watch|reloj inteligente|wearable/.test(s)) return "Smartwatches";
-  if(/iphone|smartphone|celular|telefono móvil|teléfono móvil|galaxy s\d|redmi note|moto g\d/.test(s)) return "Celulares";
-  if(/auricular|headphone|headset|parlante|speaker|jbl|soundbar|audio/.test(s)) return "Audio";
-  if(/cable|cargador|adaptador|funda|case|power bank|memoria|pendrive|usb|accesorio/.test(s)) return "Accesorios";
-  return p.category || "Electrónica";
-}
-function cleanProduct(p){return {...p,category:categoryOf(p),price_usd:Number(p.price_usd)||0,price_ars:Number(p.price_ars)||0};}
-function card(p){
-  const image = p.image_url ? `<img src="${escapeHtml(p.image_url)}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.remove();this.parentElement.querySelector('.product-placeholder').hidden=false">` : "";
-  const placeholder = p.image_url ? "hidden" : "";
-  const badge = p.featured ? `<span class="product-badge">Destacado</span>` : "";
-  const demoLabel = p.demo ? "EJEMPLO — NO ES PRECIO VIGENTE" : (p.stock_available===false ? "Consultar disponibilidad" : "A pedido");
-  const description = (p.description||"Consultá disponibilidad y características.").slice(0,115);
-  const message = `Hola, quiero consultar por: ${p.name}. Precio de referencia: ${usd(p.price_usd)}${p.price_ars ? " / "+ars(p.price_ars):""}. Proveedor: ${p.provider||"a confirmar"}. ¿Me confirmás disponibilidad y precio final?`;
-  return `<article class="product-card">
-    <div class="product-image">${badge}${image}<div class="product-placeholder" ${placeholder}>⌁</div></div>
-    <div class="product-info"><div class="product-provider">${escapeHtml(p.provider||"Catálogo")}</div>
-    <h3 class="product-title">${escapeHtml(p.name||"Producto sin nombre")}</h3>
-    <p class="product-desc">${escapeHtml(description)}</p>
-    <div class="price-row"><div><div class="price-usd">${usd(p.price_usd)}</div><div class="price-ars">${p.price_ars>0?ars(p.price_ars):"ARS a confirmar"} · ${escapeHtml(demoLabel)}</div></div>
-    <button class="order-btn" data-message="${escapeHtml(message)}">Consultar ↗</button></div>
-    ${p.source_url?`<a class="source-link" href="${escapeHtml(p.source_url)}" target="_blank" rel="noopener noreferrer">Ver referencia de origen ↗</a>`:""}</div></article>`;
-}
 function escapeHtml(v){return String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
-function render(){
-  const q=$("#searchInput").value.trim().toLowerCase();
-  const provider=$("#providerFilter").value;
-  const sort=$("#sortFilter").value;
-  let filtered=products.filter(p=>{
-    const hay=`${p.name} ${p.brand||""} ${p.category} ${p.description||""} ${p.provider||""}`.toLowerCase();
-    return (!q||hay.includes(q))&&(activeCategory==="Todos"||p.category===activeCategory)&&(!provider||p.provider===provider);
-  });
-  if(sort==="price-asc") filtered.sort((a,b)=>a.price_usd-b.price_usd);
-  if(sort==="price-desc") filtered.sort((a,b)=>b.price_usd-a.price_usd);
-  if(sort==="name") filtered.sort((a,b)=>a.name.localeCompare(b.name));
-  if(sort==="featured") filtered.sort((a,b)=>Number(Boolean(b.featured))-Number(Boolean(a.featured)));
-  $("#productCount").textContent=`${filtered.length} producto${filtered.length===1?"":"s"}`;
-  $("#productGrid").innerHTML=filtered.length?filtered.map(card).join(""):"";
-  $("#emptyState").hidden=Boolean(filtered.length);
-  $("#catalogFooterText").textContent=products.length?"Precios de referencia: confirmar stock y precio final con el proveedor.":"Todavía no hay productos reales importados. No se muestran artículos de demostración.";
-  document.querySelectorAll(".order-btn").forEach(btn=>btn.addEventListener("click",()=>window.open(waLink(btn.dataset.message),"_blank","noopener")));
-}
-function setCategory(category){
-  activeCategory=category;
-  document.querySelectorAll(".category-tile").forEach(btn=>btn.classList.toggle("active",btn.dataset.category===category));
-  render();
-}
-async function init(){
-  $("#year").textContent=new Date().getFullYear();
-  $("#headerWhatsApp").href=waLink("Hola, quiero consultar por el catálogo de tecnología.");
-  $("#contactWhatsApp").href=waLink("Hola, quiero consultar por un producto de tecnología que no encuentro en el catálogo.");
-  try{
-    const response=await fetch(DATA_URL,{cache:"no-store"});
-    if(!response.ok) throw new Error("No hay archivo de catálogo publicado");
-    const data=await response.json();
-    products=(Array.isArray(data.products)?data.products:[]).map(cleanProduct);
-    
-  }catch(e){products=[];}
-  const providers=[...new Set(products.map(p=>p.provider).filter(Boolean))].sort();
-  $("#providerFilter").innerHTML='<option value="">Todos los proveedores</option>'+providers.map(p=>`<option value="${escapeHtml(p)}">${escapeHtml(p)}</option>`).join("");
-  document.querySelectorAll(".category-tile").forEach(btn=>btn.addEventListener("click",()=>{setCategory(btn.dataset.category);$("#catalogo").scrollIntoView({behavior:"smooth",block:"start"});}));
-  $("#searchInput").addEventListener("input",render);
-  $("#providerFilter").addEventListener("change",render);
-  $("#sortFilter").addEventListener("change",render);
-  $("#clearFilters").addEventListener("click",()=>{$("#searchInput").value="";$("#providerFilter").value="";$("#sortFilter").value="featured";setCategory("Todos");});
-  document.addEventListener("keydown",e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==="k"){e.preventDefault();$("#searchInput").focus();}});
-  render();
-}
+function categoryOf(p){const s=`${p.category||""} ${p.name||""} ${p.brand||""} ${p.description||""}`.toLowerCase();if(/perfume|parfum|eau de toilette|eau de parfum|fragancia|fragrance/.test(s))return "Perfumes";if(/drone|dron|quadricopter|quadcopter|dji|fpv/.test(s))return "Drones";if(/notebook|laptop|placa de video|tarjeta grafica|gpu|geforce|radeon|memoria ram|ddr[345]|disco rigido|disco duro|ssd|nvme|motherboard|placa madre|procesador|intel core|ryzen/.test(s))return "Informatica";if(/playstation|xbox|nintendo|consola|gaming|gamer|videojuego|joystick|gamepad/.test(s))return "Gaming";if(/smartwatch|smart watch|apple watch|galaxy watch|reloj inteligente|wearable/.test(s))return "Smartwatches";if(/iphone|smartphone|celular|telefono móvil|teléfono móvil|galaxy s\d|redmi note|moto g\d/.test(s))return "Celulares";if(/auricular|headphone|headset|parlante|speaker|soundbar|jbl|audio/.test(s))return "Audio";if(/cable|cargador|adaptador|funda|case|power bank|pendrive|usb|accesorio/.test(s))return "Accesorios";return p.category||"Electrónica";}
+function sourceCostUsd(p,meta){const amount=Number(p.source_price);const cur=String(p.source_currency||"USD").toUpperCase();if(!Number.isFinite(amount)||amount<=0)return 0;if(cur==="USD")return amount;if(cur==="PYG"&&Number(meta.pyg_per_usd)>0)return amount/Number(meta.pyg_per_usd);if(cur==="BRL"&&Number(meta.brl_per_usd)>0)return amount/Number(meta.brl_per_usd);if(cur==="ARS"&&Number(meta.ars_per_usd)>0)return amount/Number(meta.ars_per_usd);return 0;}
+function card(p){const image=p.image_url?`<img src="${escapeHtml(p.image_url)}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.remove();this.parentElement.querySelector('.product-placeholder').hidden=false">`:"";const placeholder=p.image_url?"hidden":"";const badge=p.featured?`<span class="product-badge">Selección Nexo</span>`:"";const status=p.stock_available===false?"Consultar disponibilidad":"A pedido";const description=(p.description||"Consultá disponibilidad y características.").slice(0,115);const cost=Number(p.source_cost_usd)||0;const message=`Hola, quiero consultar por: ${p.name}. Precio de referencia: ${usd(p.price_usd)}${p.price_ars?" / "+ars(p.price_ars):""}. Proveedor: ${p.provider||"a confirmar"}. ¿Me confirmás disponibilidad y precio final?`;return `<article class="product-card"><div class="product-image">${badge}${image}<div class="product-placeholder" ${placeholder}>N</div></div><div class="product-info"><div class="product-provider">${escapeHtml(p.provider||"Catálogo")}</div><h3 class="product-title">${escapeHtml(p.name||"Producto sin nombre")}</h3><p class="product-desc">${escapeHtml(description)}</p><div class="price-row"><div><div class="price-usd">${usd(p.price_usd)}</div><div class="price-ars">${p.price_ars>0?ars(p.price_ars):"ARS a confirmar"} · ${status}</div></div><button class="order-btn" data-message="${escapeHtml(message)}">Consultar ↗</button></div>${cost?`<div class="source-cost">Costo de origen: ${usd(cost)}</div>`:""}${p.source_url?`<a class="source-link" href="${escapeHtml(p.source_url)}" target="_blank" rel="noopener noreferrer">Ver referencia de origen ↗</a>`:""}</div></article>`;}
+function render(){const q=$("#searchInput").value.trim().toLowerCase();const provider=$("#providerFilter").value;const sort=$("#sortFilter").value;let filtered=products.filter(p=>{const hay=`${p.name} ${p.brand||""} ${p.category} ${p.description||""} ${p.provider||""}`.toLowerCase();return(!q||hay.includes(q))&&(activeCategory==="Todos"||p.category===activeCategory)&&(!provider||p.provider===provider);});if(sort==="price-asc")filtered.sort((a,b)=>a.price_usd-b.price_usd);if(sort==="price-desc")filtered.sort((a,b)=>b.price_usd-a.price_usd);if(sort==="name")filtered.sort((a,b)=>a.name.localeCompare(b.name));if(sort==="featured")filtered.sort((a,b)=>Number(Boolean(b.featured))-Number(Boolean(a.featured)));$("#productCount").textContent=`${filtered.length} producto${filtered.length===1?"":"s"}`;$("#productGrid").innerHTML=filtered.length?filtered.map(card).join(""):"";$("#emptyState").hidden=Boolean(filtered.length);$("#catalogFooterText").textContent=`Selección filtrada por costo de origen superior a ${usd(MIN_SOURCE_COST_USD)}. Precios de venta con margen incluido; confirmar stock y precio final.`;document.querySelectorAll(".order-btn").forEach(btn=>btn.addEventListener("click",()=>window.open(waLink(btn.dataset.message),"_blank","noopener")));}
+function setCategory(category){activeCategory=category;document.querySelectorAll(".category-tile").forEach(btn=>btn.classList.toggle("active",btn.dataset.category===category));render();}
+async function init(){$("#year").textContent=new Date().getFullYear();$("#headerWhatsApp").href=waLink("Hola, quiero consultar por el catálogo NEXO TECH.");$("#contactWhatsApp").href=waLink("Hola, quiero consultar por un producto de tecnología.");try{const response=await fetch(DATA_URL,{cache:"no-store"});if(!response.ok)throw new Error("No hay archivo de catálogo publicado");const data=await response.json();const raw=Array.isArray(data.products)?data.products:[];products=raw.map(p=>({...p,category:categoryOf(p),price_usd:Number(p.price_usd)||0,price_ars:Number(p.price_ars)||0,source_cost_usd:sourceCostUsd(p,data)})).filter(p=>p.source_cost_usd>MIN_SOURCE_COST_USD);}catch(e){products=[];}const providers=[...new Set(products.map(p=>p.provider).filter(Boolean))].sort();$("#providerFilter").innerHTML='<option value="">Todos los proveedores</option>'+providers.map(p=>`<option value="${escapeHtml(p)}">${escapeHtml(p)}</option>`).join("");document.querySelectorAll(".category-tile").forEach(btn=>btn.addEventListener("click",()=>{setCategory(btn.dataset.category);$("#catalogo").scrollIntoView({behavior:"smooth",block:"start"});}));$("#searchInput").addEventListener("input",render);$("#providerFilter").addEventListener("change",render);$("#sortFilter").addEventListener("change",render);$("#clearFilters").addEventListener("click",()=>{$("#searchInput").value="";$("#providerFilter").value="";$("#sortFilter").value="featured";setCategory("Todos");});document.addEventListener("keydown",e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==="k") {e.preventDefault();$("#searchInput").focus();}});render();}
 init();
