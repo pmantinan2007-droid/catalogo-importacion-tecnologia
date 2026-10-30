@@ -2,7 +2,8 @@ name: Actualizar catálogo
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    # Todos los días a las 00:17 hora de Argentina (03:17 UTC).
+    - cron: "17 3 * * *"
 permissions:
   contents: write
 jobs:
@@ -24,6 +25,7 @@ jobs:
           ARS_PER_USD: ${{ vars.ARS_PER_USD }}
           MARGIN_PERCENT: "40"
           MAX_PAGES_PER_PROVIDER: "12"
+          MAX_PRODUCTS: "200"
           REQUEST_DELAY_SECONDS: "0.8"
         run: python importer/import_catalog.py
       - name: Guardar catálogo e informe
