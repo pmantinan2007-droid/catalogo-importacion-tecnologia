@@ -1,13 +1,16 @@
 {
-  "updated_at": "2026-10-29T23:05:15.824879+00:00",
+  "updated_at": "2026-10-30T01:09:11.800186+00:00",
   "exchange_rates": {
     "ARS": "1565",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "5808.852033",
-    "BRL_per_USD": "5.346831"
+    "PYG_per_USD": "5799.134138",
+    "BRL_per_USD": "5.362061"
   },
-  "total_products_extracted": 188,
+  "total_products_extracted": 165,
   "total_products_in_catalog": 198,
+  "max_products": 200,
+  "products_with_images": 189,
+  "products_without_images": 9,
   "providers": [
     {
       "provider": "Cellshop",
@@ -54,11 +57,13 @@
     {
       "provider": "Shopping China",
       "pages_checked": 12,
-      "pages_loaded": 12,
+      "pages_loaded": 11,
       "pages_blocked": 0,
-      "products_found": 188,
+      "products_found": 165,
       "status": "ok",
-      "details": []
+      "details": [
+        "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
     }
   ],
   "warnings": [
@@ -120,6 +125,56 @@
     {
       "provider": "Madrid Center",
       "url": "https://madridcenterimportados.com/es/informatica",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Shopping China",
+      "url": "https://www.shoppingchina.com.py/site/search?query=notebook",
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://cellshop.com.py/catalog/product/view/id/3579955/s/apple-iphone-17-256gb-black-mg464ll-esim/category/1012/",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://cellshop.com.py/catalog/product/view/id/3329802/s/apple-iphone-16-128gb-black-mye73hn-nano-sim-esim/category/658/",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://cellshop.com.py/5684267-adaptador-wireless-carplay-joog-ai-box-b11",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/celulares-accesorios/xiaomi-redmi-note-17-4g-dual-128-gb-4-gb-ram-negro",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://nissei.com/py/electronica/realme-p4-power-rmx5107-5g-dual-512-gb-silver",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://nissei.com/py/electronica/celulares-accesorios-telecomunicaciones/xiaomi-17t-5g-dual-512-gb-blue",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://madridcenterimportados.com/",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://madridcenterimportados.com/",
+      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Imagenes y actualización de fichas",
+      "url": "https://madridcenterimportados.com/",
       "error": "HTTP 403 (bloqueo/limitación del proveedor)"
     }
   ]
