@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]; OUT=ROOT/'data/products.json'; REPORT=ROOT/'data/import_report.json'
-MARGIN=Decimal(os.getenv('MARGIN_PERCENT','40')); MAX_PAGES=int(os.getenv('MAX_PAGES_PER_PROVIDER','18')); TIMEOUT=22; DELAY=float(os.getenv('REQUEST_DELAY_SECONDS','0.7'))
+MARGIN=Decimal(os.getenv('MARGIN_PERCENT','40')); MAX_PAGES=int(os.getenv('MAX_PAGES_PER_PROVIDER','18')); MAX_PRODUCTS=max(1,int(os.getenv('MAX_PRODUCTS','200'))); TIMEOUT=22; DELAY=float(os.getenv('REQUEST_DELAY_SECONDS','0.7'))
 HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8','Accept-Language':'es-PY,es;q=0.9,pt-BR;q=0.8,en;q=0.7','Cache-Control':'no-cache'}
 S=requests.Session();S.headers.update(HEADERS); WARNINGS=[]; FETCH_STATS={}; FX={'PYG':None,'BRL':None,'ARS':None,'ars_source':None}
 PROVIDERS=[
@@ -56,25 +56,30 @@ def fetch(url,provider='desconocido'):
   WARNINGS.append({'provider':provider,'url':url,'error':f'{type(e).__name__}: {str(e)[:180]}' });return None,url
 
 def exchange_rates():
+ # Tasas oficiales de referencia para convertir PYG/BRL a USD y USD a ARS.
  try:
-  d=S.get('https://open.er-api.com/v6/latest/USD',timeout=12).json();rates=d.get('rates',{})
-  for c in ('PYG','BRL','ARS'):
+  d=S.get('https://open.er-api.com/v6/latest/USD',timeout=15).json();rates=d.get('rates',{})
+  for c in ('PYG','BRL'):
    if rates.get(c):FX[c]=Decimal(str(rates[c]))
- except Exception as e:WARNINGS.append({'source':'tipo de cambio','error':str(e)[:160]})
- # Prefer dólar blue venta from DolarHoy, if page permits it.
+  if rates.get('ARS'):
+   FX['ARS']=Decimal(str(rates['ARS']));FX['ars_source']='API de cambio USD/ARS (respaldo; no es dólar blue)'
+ except Exception as e:WARNINGS.append({'source':'tipo de cambio API','error':str(e)[:160]})
+ # Prioridad al dólar blue vendedor de DolarHoy. El HTML puede variar, por eso se prueban varios patrones.
  try:
-  h,_=fetch('https://dolarhoy.com/','DolarHoy')
-  if h:
-   t=clean(h)
-   for pat in [r'D[oó]lar\s+Blue.{0,180}?Venta\s*\$?\s*([\d.]+,\d{2}|[\d.]+)',r'Blue.{0,100}?Venta\s*\$?\s*([\d.]+,\d{2}|[\d.]+)']:
-    m=re.search(pat,t,re.I)
-    if m:
-     n=number(m.group(1))
-     if n and n>100:FX['ARS']=n;FX['ars_source']='DolarHoy - dólar blue venta';break
+  r=S.get('https://dolarhoy.com/',timeout=15); r.raise_for_status(); soup=BeautifulSoup(r.text,'html.parser')
+  text=clean(soup.get_text(' ',strip=True))
+  patterns=[r'd[oó]lar\s+blue.{0,220}?venta\s*:?\s*\$?\s*([\d.]+(?:,\d{1,2})?)',r'blue.{0,140}?\$\s*([\d.]+(?:,\d{1,2})?)',r'd[oó]lar\s+blue.{0,100}?([1-9][\d.]{2,})']
+  for pat in patterns:
+   m=re.search(pat,text,re.I)
+   if m:
+    n=number(m.group(1))
+    if n and n>500:FX['ARS']=n;FX['ars_source']='DolarHoy - dólar blue venta';break
  except Exception as e:WARNINGS.append({'source':'DolarHoy','error':str(e)[:160]})
  if not FX['ARS']:
   fallback=number(os.getenv('ARS_PER_USD'))
-  if fallback and fallback>100:FX['ARS']=fallback;FX['ars_source']='ARS_PER_USD configurado en GitHub'
+  if fallback and fallback>500:FX['ARS']=fallback;FX['ars_source']='ARS_PER_USD configurado en GitHub (respaldo)'
+ if not FX['ARS']:
+  WARNINGS.append({'source':'tipo de cambio','error':'No se obtuvo dólar blue de DolarHoy ni variable ARS_PER_USD; los precios ARS quedan sin actualizar.'})
 
 def currency(text,explicit=''):
  c=str(explicit or '').upper().strip()
@@ -128,6 +133,66 @@ def walk_json(data):
   yield data
   for v in data.values():
    if isinstance(v,(dict,list)):yield from walk_json(v)
+def extract_product_image(soup, base_url):
+ # Preferencia: imagen de producto declarada por OpenGraph/Twitter, JSON-LD y galería principal.
+ for sel,attr in [('meta[property="og:image"]','content'),('meta[property="og:image:secure_url"]','content'),('meta[name="twitter:image"]','content'),('[itemprop="image"]','content'),('[itemprop="image"]','src')]:
+  el=soup.select_one(sel)
+  if el and el.get(attr):
+   u=absurl(el.get(attr),base_url)
+   if u and not u.startswith('data:'):return u
+ for sc in soup.select('script[type="application/ld+json"]'):
+  try: data=json.loads(sc.string or sc.get_text())
+  except Exception: continue
+  for obj in walk_json(data):
+   typ=obj.get('@type',[]);typ=[typ] if isinstance(typ,str) else typ
+   if any(str(x).lower()=='product' for x in typ):
+    im=obj.get('image') or []
+    if isinstance(im,str):im=[im]
+    if isinstance(im,dict):im=[im.get('url') or im.get('contentUrl')]
+    for raw in im:
+     if isinstance(raw,dict):raw=raw.get('url') or raw.get('contentUrl')
+     u=absurl(raw,base_url)
+     if u:return u
+ selectors=['.fotorama__stage img','.product-image-photo','.gallery-placeholder img','.product-image img','[data-gallery-role="gallery"] img','main img']
+ for sel in selectors:
+  for el in soup.select(sel):
+   raw=el.get('data-zoom-image') or el.get('data-src') or el.get('data-lazy-src') or el.get('data-original') or el.get('src')
+   if not raw and el.get('srcset'):raw=el.get('srcset').split(',')[-1].strip().split(' ')[0]
+   u=absurl(raw,base_url)
+   if u and not re.search(r'logo|icon|banner|pixel|placeholder',u,re.I):return u
+ return ''
+
+def enrich_existing_product(item):
+ # Relee cada ficha guardada para completar foto y actualizar precio solo con precio vigente detectado.
+ url=item.get('source_url','')
+ if not url:return item
+ raw,final=fetch(url,'Imagenes y actualización de fichas')
+ if not raw:return item
+ soup=BeautifulSoup(raw,'html.parser')
+ if not item.get('image_url'):
+  item['image_url']=extract_product_image(soup,final)
+ # Preferir precio del JSON-LD de la ficha; si no existe, buscar texto cercano al precio.
+ for sc in soup.select('script[type="application/ld+json"]'):
+  try:data=json.loads(sc.string or sc.get_text())
+  except Exception:continue
+  for obj in walk_json(data):
+   typ=obj.get('@type',[]);typ=[typ] if isinstance(typ,str) else typ
+   if not any(str(x).lower()=='product' for x in typ):continue
+   offer=obj.get('offers') or {};offer=offer[0] if isinstance(offer,list) and offer else offer
+   if isinstance(offer,dict):
+    amt=number(offer.get('price') or offer.get('lowPrice'));cur=currency('',offer.get('priceCurrency',''))
+    if amt and cur:
+     usd=usd_value(amt,cur)
+     if usd:
+      sale=(usd*(Decimal('1')+MARGIN/Decimal('100'))).quantize(Decimal('0.01'))
+      item.update({'source_price':float(amt),'source_currency':cur,'price_usd':float(sale),'price_ars':round(sale*FX['ARS']) if FX['ARS'] else 0,'price_is_snapshot':False,'price_checked_at':datetime.now(timezone.utc).isoformat()})
+   av=offer.get('availability','') if isinstance(offer,dict) else ''
+   st=in_stock(av,clean(soup.get_text(' ',strip=True)))
+   if st is not None:item['stock_available']=st
+   break
+ item['image_checked_at']=datetime.now(timezone.utc).isoformat()
+ return item
+
 def jsonld(soup,url,provider):
  out=[]
  for sc in soup.select('script[type="application/ld+json"]'):
@@ -197,6 +262,7 @@ def cards(soup,url,provider):
    pic=card.select_one('picture source[srcset]')
    if pic:image_raw=pic.get('srcset','').split(',')[0].strip().split(' ')[0]
   image=absurl(image_raw,url)
+  if not image:image=extract_product_image(soup,link)
   rec=product_record(name,link,provider,val,cur,image,desc=txt,stock=in_stock('',txt))
   if rec:out.append(rec);seen.add(link)
  return out
@@ -238,6 +304,9 @@ def scrape_provider(p):
 def main():
  exchange_rates();all_products=[];report=[]
  for p in PROVIDERS:
+  if len({x.get('source_url') for x in all_products if x.get('source_url')}) >= MAX_PRODUCTS:
+   report.append({'provider':p['name'],'pages_checked':0,'products_found':0,'status':'límite global alcanzado','details':[]})
+   continue
   try:
    products,pages=scrape_provider(p);all_products.extend(products)
    stat=FETCH_STATS.get(p['name'],{});blocked=stat.get('blocked',0);ok=stat.get('ok',0)
@@ -247,6 +316,8 @@ def main():
    WARNINGS.append({'provider':p['name'],'error':f'{type(e).__name__}: {str(e)[:250]}'})
    report.append({'provider':p['name'],'pages_checked':0,'products_found':0,'status':'error'})
  unique={x['source_url']:x for x in all_products if x.get('source_url') and x.get('price_usd')}
+ # Límite estricto: nunca publicar más de MAX_PRODUCTS productos.
+ unique=dict(list(unique.items())[:MAX_PRODUCTS])
  OUT.parent.mkdir(parents=True,exist_ok=True)
  # Fusionar: si un proveedor bloquea el scraping, no se borra el catálogo que ya se ve.
  previous={}
@@ -260,13 +331,25 @@ def main():
  for item in unique.values():
   k=(item.get('provider','')+'|'+item.get('name','')).lower()
   previous[k]=item
- merged=list(previous.values())
+ # Recalcular ARS con la cotización de esta ejecución y completar imágenes faltantes desde la ficha original.
+ for item in list(previous.values()):
+  cur=item.get('source_currency');amount=number(item.get('source_price'))
+  usd=usd_value(amount,cur) if amount and cur else None
+  if usd:
+   sale=(usd*(Decimal('1')+MARGIN/Decimal('100'))).quantize(Decimal('0.01'))
+   item['price_usd']=float(sale)
+   item['price_ars']=round(sale*FX['ARS']) if FX['ARS'] else 0
+  if not item.get('image_url') or item.get('price_is_snapshot'):
+   try:enrich_existing_product(item)
+   except Exception as e:WARNINGS.append({'provider':item.get('provider'),'url':item.get('source_url'),'error':'No se pudo completar ficha: '+str(e)[:120]})
+ merged=list(previous.values())[:MAX_PRODUCTS]
  if merged or not OUT.exists():
-  data={'updated_at':datetime.now(timezone.utc).isoformat(),'ars_per_usd':float(FX['ARS']) if FX['ARS'] else None,'ars_source':FX['ars_source'],'pyg_per_usd':float(FX['PYG']) if FX['PYG'] else None,'brl_per_usd':float(FX['BRL']) if FX['BRL'] else None,'markup_percent':float(MARGIN),'products':merged,'failures':WARNINGS,'note':'Catálogo combinado: los productos capturados se actualizan; los de referencia previos se conservan si un proveedor bloquea la extracción. Confirmar precio y stock antes de vender.'}
+  data={'updated_at':datetime.now(timezone.utc).isoformat(),'ars_per_usd':float(FX['ARS']) if FX['ARS'] else None,'ars_source':FX['ars_source'],'pyg_per_usd':float(FX['PYG']) if FX['PYG'] else None,'brl_per_usd':float(FX['BRL']) if FX['BRL'] else None,'markup_percent':float(MARGIN),'max_products':MAX_PRODUCTS,'products':merged,'failures':WARNINGS,'note':'Catálogo combinado: los productos capturados se actualizan; los de referencia previos se conservan si un proveedor bloquea la extracción. Confirmar precio y stock antes de vender.'}
   OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
  else:WARNINGS.append({'warning':'Sin resultados nuevos: se conservó el catálogo anterior.'})
- REPORT.write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'exchange_rates':{'ARS':str(FX['ARS']) if FX['ARS'] else None,'ARS_source':FX['ars_source'],'PYG_per_USD':str(FX['PYG']) if FX['PYG'] else None,'BRL_per_USD':str(FX['BRL']) if FX['BRL'] else None},'total_products_extracted':len(unique),'total_products_in_catalog':len(merged),'providers':report,'warnings':WARNINGS},ensure_ascii=False,indent=2),encoding='utf-8')
+ REPORT.write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'exchange_rates':{'ARS':str(FX['ARS']) if FX['ARS'] else None,'ARS_source':FX['ars_source'],'PYG_per_USD':str(FX['PYG']) if FX['PYG'] else None,'BRL_per_USD':str(FX['BRL']) if FX['BRL'] else None},'total_products_extracted':len(unique),'total_products_in_catalog':len(merged),'max_products':MAX_PRODUCTS,'products_with_images':sum(1 for x in merged if x.get('image_url')),'products_without_images':sum(1 for x in merged if not x.get('image_url')),'providers':report,'warnings':WARNINGS},ensure_ascii=False,indent=2),encoding='utf-8')
  print('PRODUCTOS REALES EXTRAÍDOS:',len(unique))
+ print('LÍMITE MÁXIMO DEL CATÁLOGO:',MAX_PRODUCTS)
  for r in report:print(f"- {r['provider']}: {r['products_found']} productos; {r.get('pages_loaded',0)} páginas leídas, {r.get('pages_blocked',0)} bloqueadas ({r['status']})")
  print('Informe escrito en data/import_report.json')
  if not FX['ARS']:print('AVISO: no se obtuvo cotización ARS; configurar la variable ARS_PER_USD en GitHub > Settings > Secrets and variables > Actions > Variables.')
