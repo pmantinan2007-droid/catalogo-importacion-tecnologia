@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-30T01:09:11.800186+00:00",
+  "updated_at": "2026-10-30T10:10:28.409636+00:00",
   "exchange_rates": {
     "ARS": "1565",
     "ARS_source": "DolarHoy - dólar blue venta",
     "PYG_per_USD": "5799.134138",
     "BRL_per_USD": "5.362061"
   },
-  "total_products_extracted": 165,
-  "total_products_in_catalog": 198,
+  "total_products_extracted": 189,
+  "total_products_in_catalog": 200,
   "max_products": 200,
-  "products_with_images": 189,
+  "products_with_images": 191,
   "products_without_images": 9,
   "providers": [
     {
@@ -57,13 +57,11 @@
     {
       "provider": "Shopping China",
       "pages_checked": 12,
-      "pages_loaded": 11,
+      "pages_loaded": 12,
       "pages_blocked": 0,
-      "products_found": 165,
+      "products_found": 189,
       "status": "ok",
-      "details": [
-        "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-      ]
+      "details": []
     }
   ],
   "warnings": [
@@ -126,11 +124,6 @@
       "provider": "Madrid Center",
       "url": "https://madridcenterimportados.com/es/informatica",
       "error": "HTTP 403 (bloqueo/limitación del proveedor)"
-    },
-    {
-      "provider": "Shopping China",
-      "url": "https://www.shoppingchina.com.py/site/search?query=notebook",
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "provider": "Imagenes y actualización de fichas",
