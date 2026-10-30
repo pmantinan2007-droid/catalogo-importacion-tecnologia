@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:10:28.405849+00:00",
+  "updated_at": "2026-10-30T19:54:51.461919+00:00",
   "ars_per_usd": 1565.0,
   "ars_source": "DolarHoy - dólar blue venta",
   "pyg_per_usd": 5799.134138,
@@ -229,7 +229,7 @@
       "price_ars": 3042172,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.033208+00:00"
+      "updated_at": "2026-10-30T19:54:19.060886+00:00"
     },
     {
       "id": "8033c5a9d7fe0922",
@@ -246,7 +246,7 @@
       "price_ars": 1771956,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.031039+00:00"
+      "updated_at": "2026-10-30T19:54:38.187253+00:00"
     },
     {
       "id": "e9bf9dadd41a46e8",
@@ -263,7 +263,7 @@
       "price_ars": 1394509,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.025022+00:00"
+      "updated_at": "2026-10-30T19:54:38.159889+00:00"
     },
     {
       "id": "f0b71e4a0798c029",
@@ -304,7 +304,7 @@
       "price_ars": 2231001,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.034226+00:00"
+      "updated_at": "2026-10-30T19:54:19.052314+00:00"
     },
     {
       "id": "0cbf6bf181a4abc5",
@@ -321,7 +321,7 @@
       "price_ars": 30596,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.795344+00:00"
+      "updated_at": "2026-10-30T19:54:19.052921+00:00"
     },
     {
       "id": "62615b592ec8c937",
@@ -338,7 +338,7 @@
       "price_ars": 38155,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.030065+00:00"
+      "updated_at": "2026-10-30T19:54:38.185427+00:00"
     },
     {
       "id": "4db130c2d91757db",
@@ -355,7 +355,7 @@
       "price_ars": 75934,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.033719+00:00"
+      "updated_at": "2026-10-30T19:54:19.054769+00:00"
     },
     {
       "id": "43b41d32f2914759",
@@ -372,7 +372,7 @@
       "price_ars": 1921570,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.797433+00:00"
+      "updated_at": "2026-10-30T19:54:19.055388+00:00"
     },
     {
       "id": "b61526edd609e061",
@@ -389,7 +389,7 @@
       "price_ars": 109190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.799060+00:00"
+      "updated_at": "2026-10-30T19:54:19.057917+00:00"
     },
     {
       "id": "fac11bb04058a7cb",
@@ -406,7 +406,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.800099+00:00"
+      "updated_at": "2026-10-30T19:54:19.059123+00:00"
     },
     {
       "id": "6d3ae4542e50499f",
@@ -440,7 +440,7 @@
       "price_ars": 106170,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.028046+00:00"
+      "updated_at": "2026-10-30T19:54:38.181585+00:00"
     },
     {
       "id": "d634dab55fbefb4a",
@@ -457,7 +457,7 @@
       "price_ars": 2738030,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.802073+00:00"
+      "updated_at": "2026-10-30T19:54:19.061498+00:00"
     },
     {
       "id": "abac51941a784466",
@@ -474,7 +474,7 @@
       "price_ars": 136014,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.802557+00:00"
+      "updated_at": "2026-10-30T19:54:19.062098+00:00"
     },
     {
       "id": "a146a44e20b67c74",
@@ -491,7 +491,7 @@
       "price_ars": 633966,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.026477+00:00"
+      "updated_at": "2026-10-30T19:54:38.179624+00:00"
     },
     {
       "id": "0e4ab5f4890a8f19",
@@ -508,7 +508,7 @@
       "price_ars": 772249,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.804148+00:00"
+      "updated_at": "2026-10-30T19:54:19.063958+00:00"
     },
     {
       "id": "d36390e878f88952",
@@ -525,7 +525,7 @@
       "price_ars": 834223,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.025978+00:00"
+      "updated_at": "2026-10-30T19:54:38.178907+00:00"
     },
     {
       "id": "74e492a63fc72238",
@@ -559,7 +559,7 @@
       "price_ars": 24179,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.307293+00:00"
+      "updated_at": "2026-10-30T19:54:26.155403+00:00"
     },
     {
       "id": "f9fd56bd9efd3cdc",
@@ -576,7 +576,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.308017+00:00"
+      "updated_at": "2026-10-30T19:54:26.156082+00:00"
     },
     {
       "id": "2c3ec2b99b0851d6",
@@ -593,7 +593,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.308562+00:00"
+      "updated_at": "2026-10-30T19:54:26.156708+00:00"
     },
     {
       "id": "1a946bf18071c38e",
@@ -610,7 +610,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.309100+00:00"
+      "updated_at": "2026-10-30T19:54:26.157468+00:00"
     },
     {
       "id": "175484791523a00e",
@@ -627,7 +627,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.309599+00:00"
+      "updated_at": "2026-10-30T19:54:26.158101+00:00"
     },
     {
       "id": "29b98b75e43aa3bc",
@@ -644,7 +644,7 @@
       "price_ars": 8686,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.310112+00:00"
+      "updated_at": "2026-10-30T19:54:26.158711+00:00"
     },
     {
       "id": "2a57b26d183b4c69",
@@ -661,7 +661,7 @@
       "price_ars": 6416,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.658697+00:00"
+      "updated_at": "2026-10-30T19:54:41.615894+00:00"
     },
     {
       "id": "4c0b2b63291ee3ae",
@@ -678,7 +678,7 @@
       "price_ars": 69142,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.312148+00:00"
+      "updated_at": "2026-10-30T19:54:26.161207+00:00"
     },
     {
       "id": "7536040c0f0f971e",
@@ -695,7 +695,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.661410+00:00"
+      "updated_at": "2026-10-30T19:54:41.618871+00:00"
     },
     {
       "id": "4ded98d35312e69f",
@@ -712,7 +712,7 @@
       "price_ars": 316991,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.312655+00:00"
+      "updated_at": "2026-10-30T19:54:26.161818+00:00"
     },
     {
       "id": "bd900d0ffc2c1267",
@@ -729,7 +729,7 @@
       "price_ars": 20408,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.313170+00:00"
+      "updated_at": "2026-10-30T19:54:26.162461+00:00"
     },
     {
       "id": "e08248db49d76ea2",
@@ -746,7 +746,7 @@
       "price_ars": 2002793,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.313796+00:00"
+      "updated_at": "2026-10-30T19:54:26.163094+00:00"
     },
     {
       "id": "b1bafcc7ec4de308",
@@ -763,7 +763,7 @@
       "price_ars": 24179,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.316338+00:00"
+      "updated_at": "2026-10-30T19:54:26.166296+00:00"
     },
     {
       "id": "5829b816e2a2f985",
@@ -780,7 +780,7 @@
       "price_ars": 24179,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.314830+00:00"
+      "updated_at": "2026-10-30T19:54:26.164467+00:00"
     },
     {
       "id": "20010920a8dd9b35",
@@ -797,7 +797,7 @@
       "price_ars": 17763,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.314319+00:00"
+      "updated_at": "2026-10-30T19:54:26.163817+00:00"
     },
     {
       "id": "7b20d029e319ae42",
@@ -814,7 +814,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.315350+00:00"
+      "updated_at": "2026-10-30T19:54:26.165115+00:00"
     },
     {
       "id": "e281bf77db48534f",
@@ -831,7 +831,7 @@
       "price_ars": 20408,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.317344+00:00"
+      "updated_at": "2026-10-30T19:54:26.167510+00:00"
     },
     {
       "id": "1f7510bff78c788a",
@@ -848,7 +848,7 @@
       "price_ars": 55917,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.317850+00:00"
+      "updated_at": "2026-10-30T19:54:26.168167+00:00"
     },
     {
       "id": "558a6892b90af4a5",
@@ -865,7 +865,7 @@
       "price_ars": 266363,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.318352+00:00"
+      "updated_at": "2026-10-30T19:54:26.168769+00:00"
     },
     {
       "id": "ce051d4158378e05",
@@ -882,7 +882,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:06.318966+00:00"
+      "updated_at": "2026-10-30T19:54:26.169409+00:00"
     },
     {
       "id": "f56228b27867ec08",
@@ -916,7 +916,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.255455+00:00"
+      "updated_at": "2026-10-30T19:54:29.327554+00:00"
     },
     {
       "id": "c194a86fc5ce8d32",
@@ -933,7 +933,7 @@
       "price_ars": 30596,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.431146+00:00"
+      "updated_at": "2026-10-30T19:54:49.326359+00:00"
     },
     {
       "id": "fa0a43357de08238",
@@ -950,7 +950,7 @@
       "price_ars": 20408,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.256595+00:00"
+      "updated_at": "2026-10-30T19:54:29.328863+00:00"
     },
     {
       "id": "f94384c26a891ca5",
@@ -967,7 +967,7 @@
       "price_ars": 35510,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.257126+00:00"
+      "updated_at": "2026-10-30T19:54:29.329500+00:00"
     },
     {
       "id": "3318bc812ac1d098",
@@ -984,7 +984,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.257631+00:00"
+      "updated_at": "2026-10-30T19:54:29.330120+00:00"
     },
     {
       "id": "b181cc9917099c76",
@@ -1001,7 +1001,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.258165+00:00"
+      "updated_at": "2026-10-30T19:54:29.330728+00:00"
     },
     {
       "id": "0f4fd3a9d0a2b11e",
@@ -1018,7 +1018,7 @@
       "price_ars": 25306,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.258652+00:00"
+      "updated_at": "2026-10-30T19:54:29.331471+00:00"
     },
     {
       "id": "41b0fd3a50f6cd21",
@@ -1035,7 +1035,7 @@
       "price_ars": 17763,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.259615+00:00"
+      "updated_at": "2026-10-30T19:54:29.332648+00:00"
     },
     {
       "id": "929ddb7b6aef3ef6",
@@ -1052,7 +1052,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.260260+00:00"
+      "updated_at": "2026-10-30T19:54:29.333277+00:00"
     },
     {
       "id": "c1dba845c44a25ae",
@@ -1069,7 +1069,7 @@
       "price_ars": 20408,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.430115+00:00"
+      "updated_at": "2026-10-30T19:54:49.325030+00:00"
     },
     {
       "id": "8f83a6d4e0b23ba1",
@@ -1086,7 +1086,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.261347+00:00"
+      "updated_at": "2026-10-30T19:54:29.334519+00:00"
     },
     {
       "id": "7cb3bb63e2dd7c4a",
@@ -1103,7 +1103,7 @@
       "price_ars": 25306,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.261855+00:00"
+      "updated_at": "2026-10-30T19:54:29.335151+00:00"
     },
     {
       "id": "98315989dd64106c",
@@ -1120,7 +1120,7 @@
       "price_ars": 30596,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.262378+00:00"
+      "updated_at": "2026-10-30T19:54:29.335751+00:00"
     },
     {
       "id": "f484b0189cdf05d5",
@@ -1137,7 +1137,7 @@
       "price_ars": 17763,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.262889+00:00"
+      "updated_at": "2026-10-30T19:54:29.336378+00:00"
     },
     {
       "id": "65adc3300811a79b",
@@ -1154,7 +1154,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.263406+00:00"
+      "updated_at": "2026-10-30T19:54:29.336994+00:00"
     },
     {
       "id": "67dd821e0c8f688c",
@@ -1171,7 +1171,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.264431+00:00"
+      "updated_at": "2026-10-30T19:54:29.338376+00:00"
     },
     {
       "id": "4eefa0936f7d5f10",
@@ -1188,7 +1188,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.263914+00:00"
+      "updated_at": "2026-10-30T19:54:29.337747+00:00"
     },
     {
       "id": "462bb70d11a05b55",
@@ -1205,7 +1205,7 @@
       "price_ars": 17763,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.264940+00:00"
+      "updated_at": "2026-10-30T19:54:29.338982+00:00"
     },
     {
       "id": "56effbbae233d4fc",
@@ -1222,7 +1222,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.265581+00:00"
+      "updated_at": "2026-10-30T19:54:29.339604+00:00"
     },
     {
       "id": "662529e0899d7404",
@@ -1239,7 +1239,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.266102+00:00"
+      "updated_at": "2026-10-30T19:54:29.340225+00:00"
     },
     {
       "id": "3d13c877e135e886",
@@ -1256,7 +1256,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.266600+00:00"
+      "updated_at": "2026-10-30T19:54:29.340905+00:00"
     },
     {
       "id": "4efe260d07cbf208",
@@ -1273,7 +1273,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.267112+00:00"
+      "updated_at": "2026-10-30T19:54:29.341546+00:00"
     },
     {
       "id": "5a48a02b91e4a962",
@@ -1290,7 +1290,7 @@
       "price_ars": 27951,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:09.267616+00:00"
+      "updated_at": "2026-10-30T19:54:29.342184+00:00"
     },
     {
       "id": "1658feb3909d6ea0",
@@ -1307,7 +1307,7 @@
       "price_ars": 215360,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.018147+00:00"
+      "updated_at": "2026-10-30T19:54:32.530645+00:00"
     },
     {
       "id": "f07ddf848f683065",
@@ -1324,7 +1324,7 @@
       "price_ars": 149990,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.018851+00:00"
+      "updated_at": "2026-10-30T19:54:32.531313+00:00"
     },
     {
       "id": "566705bfdbf72699",
@@ -1341,7 +1341,7 @@
       "price_ars": 293938,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.019387+00:00"
+      "updated_at": "2026-10-30T19:54:32.531909+00:00"
     },
     {
       "id": "0d860be0e51e0d2b",
@@ -1358,7 +1358,7 @@
       "price_ars": 2446345,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.019888+00:00"
+      "updated_at": "2026-10-30T19:54:32.532520+00:00"
     },
     {
       "id": "7fa1573160d0255a",
@@ -1375,7 +1375,7 @@
       "price_ars": 1863383,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.020399+00:00"
+      "updated_at": "2026-10-30T19:54:32.533121+00:00"
     },
     {
       "id": "693386391a2dfccd",
@@ -1392,7 +1392,7 @@
       "price_ars": 46089,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.020893+00:00"
+      "updated_at": "2026-10-30T19:54:32.533824+00:00"
     },
     {
       "id": "ee069d5ca2da64f1",
@@ -1409,7 +1409,7 @@
       "price_ars": 1749279,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.021389+00:00"
+      "updated_at": "2026-10-30T19:54:32.534440+00:00"
     },
     {
       "id": "8e3ba957ad2ae533",
@@ -1426,7 +1426,7 @@
       "price_ars": 1749279,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.021871+00:00"
+      "updated_at": "2026-10-30T19:54:32.535021+00:00"
     },
     {
       "id": "1c7bc5014b98e1cd",
@@ -1443,7 +1443,7 @@
       "price_ars": 2446345,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.022362+00:00"
+      "updated_at": "2026-10-30T19:54:32.535626+00:00"
     },
     {
       "id": "013386afbe3a5d1d",
@@ -1460,7 +1460,7 @@
       "price_ars": 1419831,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.022840+00:00"
+      "updated_at": "2026-10-30T19:54:32.536224+00:00"
     },
     {
       "id": "a3964826013b452d",
@@ -1477,7 +1477,7 @@
       "price_ars": 1343506,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.023329+00:00"
+      "updated_at": "2026-10-30T19:54:32.536803+00:00"
     },
     {
       "id": "6140f58da9b38161",
@@ -1494,7 +1494,7 @@
       "price_ars": 1343506,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.023923+00:00"
+      "updated_at": "2026-10-30T19:54:32.537406+00:00"
     },
     {
       "id": "fd05602e2cc098dd",
@@ -1511,7 +1511,7 @@
       "price_ars": 2446345,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.024421+00:00"
+      "updated_at": "2026-10-30T19:54:32.537980+00:00"
     },
     {
       "id": "af8d34edeb6100a2",
@@ -1528,7 +1528,7 @@
       "price_ars": 2446345,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.024900+00:00"
+      "updated_at": "2026-10-30T19:54:32.538576+00:00"
     },
     {
       "id": "62f2ebaa382a03c5",
@@ -1545,7 +1545,7 @@
       "price_ars": 2446345,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.025389+00:00"
+      "updated_at": "2026-10-30T19:54:32.539176+00:00"
     },
     {
       "id": "5f5ccb56468f95f8",
@@ -1562,7 +1562,7 @@
       "price_ars": 443552,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.025859+00:00"
+      "updated_at": "2026-10-30T19:54:32.539859+00:00"
     },
     {
       "id": "352c38959eebc4bd",
@@ -1579,7 +1579,7 @@
       "price_ars": 1533935,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.026360+00:00"
+      "updated_at": "2026-10-30T19:54:32.540479+00:00"
     },
     {
       "id": "f3f025287154cd7f",
@@ -1596,7 +1596,7 @@
       "price_ars": 1533935,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.026838+00:00"
+      "updated_at": "2026-10-30T19:54:32.541084+00:00"
     },
     {
       "id": "a968a2e428607330",
@@ -1613,7 +1613,7 @@
       "price_ars": 582962,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.027329+00:00"
+      "updated_at": "2026-10-30T19:54:32.541688+00:00"
     },
     {
       "id": "f1f5d5dc6a4f36dd",
@@ -1630,7 +1630,7 @@
       "price_ars": 456401,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.028270+00:00"
+      "updated_at": "2026-10-30T19:54:32.542828+00:00"
     },
     {
       "id": "7f2c08b011281073",
@@ -1647,7 +1647,7 @@
       "price_ars": 342297,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.028877+00:00"
+      "updated_at": "2026-10-30T19:54:32.543444+00:00"
     },
     {
       "id": "fc4ec3b1b50228fa",
@@ -1664,7 +1664,7 @@
       "price_ars": 1771956,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.029387+00:00"
+      "updated_at": "2026-10-30T19:54:32.544026+00:00"
     },
     {
       "id": "7838ccdda91c25fc",
@@ -1681,7 +1681,7 @@
       "price_ars": 2198121,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:12.029864+00:00"
+      "updated_at": "2026-10-30T19:54:32.544642+00:00"
     },
     {
       "id": "63a188d0b44402ae",
@@ -1698,7 +1698,7 @@
       "price_ars": 45714,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.721579+00:00"
+      "updated_at": "2026-10-30T19:54:35.344648+00:00"
     },
     {
       "id": "81e2e3afa38b6eed",
@@ -1715,7 +1715,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.722144+00:00"
+      "updated_at": "2026-10-30T19:54:35.345308+00:00"
     },
     {
       "id": "f1412cf5857c48c8",
@@ -1732,7 +1732,7 @@
       "price_ars": 45714,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.723121+00:00"
+      "updated_at": "2026-10-30T19:54:35.346456+00:00"
     },
     {
       "id": "dc4cd37400f4b5fd",
@@ -1749,7 +1749,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.723633+00:00"
+      "updated_at": "2026-10-30T19:54:35.347078+00:00"
     },
     {
       "id": "ee8c244f20c0e65e",
@@ -1766,7 +1766,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.724273+00:00"
+      "updated_at": "2026-10-30T19:54:35.347829+00:00"
     },
     {
       "id": "ea763356781caa15",
@@ -1783,7 +1783,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.724795+00:00"
+      "updated_at": "2026-10-30T19:54:35.348469+00:00"
     },
     {
       "id": "928e3a34e0029ff0",
@@ -1800,7 +1800,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.725325+00:00"
+      "updated_at": "2026-10-30T19:54:35.349109+00:00"
     },
     {
       "id": "d51ddb6eaf63f43d",
@@ -1817,7 +1817,7 @@
       "price_ars": 55917,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.725832+00:00"
+      "updated_at": "2026-10-30T19:54:35.349720+00:00"
     },
     {
       "id": "11f904d64ec076a5",
@@ -1834,7 +1834,7 @@
       "price_ars": 55917,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.726352+00:00"
+      "updated_at": "2026-10-30T19:54:35.350360+00:00"
     },
     {
       "id": "1e06bf374b641e07",
@@ -1868,7 +1868,7 @@
       "price_ars": 45714,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.726845+00:00"
+      "updated_at": "2026-10-30T19:54:35.350964+00:00"
     },
     {
       "id": "d793334c26a36fda",
@@ -1885,7 +1885,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.727882+00:00"
+      "updated_at": "2026-10-30T19:54:35.352235+00:00"
     },
     {
       "id": "8c61abda18fd8e01",
@@ -1902,7 +1902,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.728404+00:00"
+      "updated_at": "2026-10-30T19:54:35.352851+00:00"
     },
     {
       "id": "99a4231474de8905",
@@ -1919,7 +1919,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.728906+00:00"
+      "updated_at": "2026-10-30T19:54:35.353497+00:00"
     },
     {
       "id": "7466a8ba878bcb99",
@@ -1936,7 +1936,7 @@
       "price_ars": 68390,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.729547+00:00"
+      "updated_at": "2026-10-30T19:54:35.354233+00:00"
     },
     {
       "id": "322a0decc9037166",
@@ -1953,7 +1953,7 @@
       "price_ars": 88782,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.730071+00:00"
+      "updated_at": "2026-10-30T19:54:35.354840+00:00"
     },
     {
       "id": "4cc32ce0e581f11b",
@@ -1970,7 +1970,7 @@
       "price_ars": 68390,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.730578+00:00"
+      "updated_at": "2026-10-30T19:54:35.355490+00:00"
     },
     {
       "id": "7790788b4e9684ab",
@@ -1987,7 +1987,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.731096+00:00"
+      "updated_at": "2026-10-30T19:54:35.356115+00:00"
     },
     {
       "id": "4f2225ef9d137f11",
@@ -2004,7 +2004,7 @@
       "price_ars": 126953,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.731623+00:00"
+      "updated_at": "2026-10-30T19:54:35.356736+00:00"
     },
     {
       "id": "cb0a379ae6d167bf",
@@ -2021,7 +2021,7 @@
       "price_ars": 88782,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.732143+00:00"
+      "updated_at": "2026-10-30T19:54:35.357363+00:00"
     },
     {
       "id": "6b07fa7547929174",
@@ -2038,7 +2038,7 @@
       "price_ars": 57811,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.732648+00:00"
+      "updated_at": "2026-10-30T19:54:35.357968+00:00"
     },
     {
       "id": "9ba85a318a523cf4",
@@ -2055,7 +2055,7 @@
       "price_ars": 228193,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.733185+00:00"
+      "updated_at": "2026-10-30T19:54:35.358611+00:00"
     },
     {
       "id": "c42c9297b131f149",
@@ -2072,7 +2072,7 @@
       "price_ars": 62334,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:14.733691+00:00"
+      "updated_at": "2026-10-30T19:54:35.359229+00:00"
     },
     {
       "id": "c939e63d011b5bda",
@@ -2089,7 +2089,7 @@
       "price_ars": 126953,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.022392+00:00"
+      "updated_at": "2026-10-30T19:54:38.156936+00:00"
     },
     {
       "id": "1ed9df5a44d5a44a",
@@ -2106,7 +2106,7 @@
       "price_ars": 2155052,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.023074+00:00"
+      "updated_at": "2026-10-30T19:54:38.157580+00:00"
     },
     {
       "id": "0f7f64ab2e5f22f6",
@@ -2123,7 +2123,7 @@
       "price_ars": 220649,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.024042+00:00"
+      "updated_at": "2026-10-30T19:54:38.158703+00:00"
     },
     {
       "id": "40fe8dca407298f3",
@@ -2140,7 +2140,7 @@
       "price_ars": 261073,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.024526+00:00"
+      "updated_at": "2026-10-30T19:54:38.159308+00:00"
     },
     {
       "id": "9c8f8048b43dc9f4",
@@ -2157,7 +2157,7 @@
       "price_ars": 1749279,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.026940+00:00"
+      "updated_at": "2026-10-30T19:54:38.180259+00:00"
     },
     {
       "id": "399bed2e291e59c0",
@@ -2174,7 +2174,7 @@
       "price_ars": 88782,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.027447+00:00"
+      "updated_at": "2026-10-30T19:54:38.180870+00:00"
     },
     {
       "id": "81066fdd91704b7e",
@@ -2191,7 +2191,7 @@
       "price_ars": 126953,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.028555+00:00"
+      "updated_at": "2026-10-30T19:54:38.182825+00:00"
     },
     {
       "id": "0fb45a38277bc63d",
@@ -2208,7 +2208,7 @@
       "price_ars": 114104,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.029081+00:00"
+      "updated_at": "2026-10-30T19:54:38.184178+00:00"
     },
     {
       "id": "1078bdd57518ce33",
@@ -2225,7 +2225,7 @@
       "price_ars": 131851,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.029560+00:00"
+      "updated_at": "2026-10-30T19:54:38.184783+00:00"
     },
     {
       "id": "853d526ff5a050dc",
@@ -2242,7 +2242,7 @@
       "price_ars": 4183167,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.030549+00:00"
+      "updated_at": "2026-10-30T19:54:38.186643+00:00"
     },
     {
       "id": "236dcc29b7a81058",
@@ -2259,7 +2259,7 @@
       "price_ars": 405773,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.031518+00:00"
+      "updated_at": "2026-10-30T19:54:38.188448+00:00"
     },
     {
       "id": "c82cf3073d71d001",
@@ -2276,7 +2276,7 @@
       "price_ars": 4994338,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:17.031985+00:00"
+      "updated_at": "2026-10-30T19:54:38.189027+00:00"
     },
     {
       "id": "37dadb740c23c6f6",
@@ -2310,7 +2310,7 @@
       "price_ars": 101256,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.658161+00:00"
+      "updated_at": "2026-10-30T19:54:41.615284+00:00"
     },
     {
       "id": "fb86b1975b96ee67",
@@ -2327,7 +2327,7 @@
       "price_ars": 21534,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.659214+00:00"
+      "updated_at": "2026-10-30T19:54:41.616512+00:00"
     },
     {
       "id": "49519a7c90ce153e",
@@ -2344,7 +2344,7 @@
       "price_ars": 126953,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.659748+00:00"
+      "updated_at": "2026-10-30T19:54:41.617116+00:00"
     },
     {
       "id": "8a2b04b1dd0b5ac0",
@@ -2361,7 +2361,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.660282+00:00"
+      "updated_at": "2026-10-30T19:54:41.617694+00:00"
     },
     {
       "id": "ea5d3ce5540f347d",
@@ -2395,7 +2395,7 @@
       "price_ars": 21534,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.660899+00:00"
+      "updated_at": "2026-10-30T19:54:41.618298+00:00"
     },
     {
       "id": "5a52b0a16dd720bc",
@@ -2412,7 +2412,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.661896+00:00"
+      "updated_at": "2026-10-30T19:54:41.619592+00:00"
     },
     {
       "id": "30e4d8f963c9e8c9",
@@ -2429,7 +2429,7 @@
       "price_ars": 32865,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.662404+00:00"
+      "updated_at": "2026-10-30T19:54:41.620199+00:00"
     },
     {
       "id": "bf1d9705d7054de4",
@@ -2446,7 +2446,7 @@
       "price_ars": 32865,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.662883+00:00"
+      "updated_at": "2026-10-30T19:54:41.620780+00:00"
     },
     {
       "id": "ef4dffbf62da9020",
@@ -2463,7 +2463,7 @@
       "price_ars": 32865,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.663371+00:00"
+      "updated_at": "2026-10-30T19:54:41.621437+00:00"
     },
     {
       "id": "ecc04db9828214c3",
@@ -2480,7 +2480,7 @@
       "price_ars": 43069,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.663853+00:00"
+      "updated_at": "2026-10-30T19:54:41.622030+00:00"
     },
     {
       "id": "6aaf0e658d16e68a",
@@ -2497,7 +2497,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.664352+00:00"
+      "updated_at": "2026-10-30T19:54:41.622663+00:00"
     },
     {
       "id": "5715bc622182ad37",
@@ -2514,7 +2514,7 @@
       "price_ars": 45714,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.664832+00:00"
+      "updated_at": "2026-10-30T19:54:41.623272+00:00"
     },
     {
       "id": "8fd765d52b22ea7d",
@@ -2531,7 +2531,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.665328+00:00"
+      "updated_at": "2026-10-30T19:54:41.623860+00:00"
     },
     {
       "id": "95530b1732a8bc32",
@@ -2548,7 +2548,7 @@
       "price_ars": 43069,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.665946+00:00"
+      "updated_at": "2026-10-30T19:54:41.624465+00:00"
     },
     {
       "id": "b1812c844f4b13d3",
@@ -2565,7 +2565,7 @@
       "price_ars": 20408,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.666471+00:00"
+      "updated_at": "2026-10-30T19:54:41.625047+00:00"
     },
     {
       "id": "02fc7df7d9fa2396",
@@ -2582,7 +2582,7 @@
       "price_ars": 45714,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.666954+00:00"
+      "updated_at": "2026-10-30T19:54:41.625797+00:00"
     },
     {
       "id": "2868be23e08cd1b2",
@@ -2616,7 +2616,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.667452+00:00"
+      "updated_at": "2026-10-30T19:54:41.626437+00:00"
     },
     {
       "id": "43740c25998f08ac",
@@ -2633,7 +2633,7 @@
       "price_ars": 671761,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.668108+00:00"
+      "updated_at": "2026-10-30T19:54:41.627016+00:00"
     },
     {
       "id": "36c94b78e24eeabe",
@@ -2650,7 +2650,7 @@
       "price_ars": 38155,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.668802+00:00"
+      "updated_at": "2026-10-30T19:54:41.627620+00:00"
     },
     {
       "id": "75c4ed61b3458246",
@@ -2667,7 +2667,7 @@
       "price_ars": 63476,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:19.669363+00:00"
+      "updated_at": "2026-10-30T19:54:41.628226+00:00"
     },
     {
       "id": "13c6d8eb1526e559",
@@ -2684,7 +2684,7 @@
       "price_ars": 75934,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.713244+00:00"
+      "updated_at": "2026-10-30T19:54:44.113964+00:00"
     },
     {
       "id": "2e96125e8ac16cd8",
@@ -2701,24 +2701,24 @@
       "price_ars": 149614,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.713778+00:00"
+      "updated_at": "2026-10-30T19:54:44.114607+00:00"
     },
     {
       "id": "9957d781896cbc41",
       "name": "SMARTWATCH AMAZFIT A2568 BIP MAX CARBON",
       "brand": "",
-      "description": "SMARTWATCH AMAZFIT A2568 BIP MAX CARBON Gs. 584.000 Gs. 570.000",
+      "description": "SMARTWATCH AMAZFIT A2568 BIP MAX CARBON Gs. 570.000",
       "category": "Smartwatches",
       "provider": "Shopping China",
       "source_url": "https://www.shoppingchina.com.py/producto/smartwatch-amazfit-a2568-bip-max-carbon-1086045",
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2VoR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e801d2986e0bfe3a9d5987a74dd07cf1965a21e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1086045.jpg",
-      "source_price": 584000.0,
+      "source_price": 570000.0,
       "source_currency": "PYG",
-      "price_usd": 140.99,
-      "price_ars": 220649,
+      "price_usd": 137.61,
+      "price_ars": 215360,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.714315+00:00"
+      "updated_at": "2026-10-30T19:54:44.115223+00:00"
     },
     {
       "id": "83fb13bb06afc077",
@@ -2735,7 +2735,7 @@
       "price_ars": 75934,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.714802+00:00"
+      "updated_at": "2026-10-30T19:54:44.115801+00:00"
     },
     {
       "id": "29510161ae377bb7",
@@ -2752,7 +2752,7 @@
       "price_ars": 1964638,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.715306+00:00"
+      "updated_at": "2026-10-30T19:54:44.116421+00:00"
     },
     {
       "id": "623fe1c3beb10f46",
@@ -2769,7 +2769,7 @@
       "price_ars": 159818,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.715791+00:00"
+      "updated_at": "2026-10-30T19:54:44.117001+00:00"
     },
     {
       "id": "4e68ca7520479236",
@@ -2786,7 +2786,7 @@
       "price_ars": 925275,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.716309+00:00"
+      "updated_at": "2026-10-30T19:54:44.117605+00:00"
     },
     {
       "id": "87d3046b6a70fd34",
@@ -2803,7 +2803,7 @@
       "price_ars": 1989944,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.716908+00:00"
+      "updated_at": "2026-10-30T19:54:44.118313+00:00"
     },
     {
       "id": "1a5f37148ea8d91c",
@@ -2820,7 +2820,7 @@
       "price_ars": 925275,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.717426+00:00"
+      "updated_at": "2026-10-30T19:54:44.118906+00:00"
     },
     {
       "id": "419c5da64419cf41",
@@ -2837,7 +2837,7 @@
       "price_ars": 164732,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.717914+00:00"
+      "updated_at": "2026-10-30T19:54:44.119523+00:00"
     },
     {
       "id": "66e9f84b10703218",
@@ -2854,7 +2854,7 @@
       "price_ars": 935463,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.718411+00:00"
+      "updated_at": "2026-10-30T19:54:44.120124+00:00"
     },
     {
       "id": "a9fd8d8a21cf4aab",
@@ -2871,7 +2871,7 @@
       "price_ars": 950581,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.718890+00:00"
+      "updated_at": "2026-10-30T19:54:44.120708+00:00"
     },
     {
       "id": "4ce8e0909b76eba7",
@@ -2888,7 +2888,7 @@
       "price_ars": 30596,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.719416+00:00"
+      "updated_at": "2026-10-30T19:54:44.121339+00:00"
     },
     {
       "id": "6a0807b5fd8151c2",
@@ -2905,7 +2905,7 @@
       "price_ars": 925275,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.719911+00:00"
+      "updated_at": "2026-10-30T19:54:44.121919+00:00"
     },
     {
       "id": "af59984e89153b3e",
@@ -2922,7 +2922,7 @@
       "price_ars": 395569,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.720404+00:00"
+      "updated_at": "2026-10-30T19:54:44.122522+00:00"
     },
     {
       "id": "414ec7f999f9bc22",
@@ -2939,7 +2939,7 @@
       "price_ars": 1609869,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.720880+00:00"
+      "updated_at": "2026-10-30T19:54:44.123123+00:00"
     },
     {
       "id": "ff72d6fb34f89f2a",
@@ -2956,7 +2956,7 @@
       "price_ars": 697067,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.721379+00:00"
+      "updated_at": "2026-10-30T19:54:44.123709+00:00"
     },
     {
       "id": "9e3b0b1b7729f225",
@@ -2973,7 +2973,7 @@
       "price_ars": 580709,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.721972+00:00"
+      "updated_at": "2026-10-30T19:54:44.124423+00:00"
     },
     {
       "id": "34b98306fd02a910",
@@ -2990,7 +2990,7 @@
       "price_ars": 1204095,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.722487+00:00"
+      "updated_at": "2026-10-30T19:54:44.125022+00:00"
     },
     {
       "id": "c03c8d10dea0d96f",
@@ -3007,7 +3007,7 @@
       "price_ars": 1939317,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.722982+00:00"
+      "updated_at": "2026-10-30T19:54:44.125632+00:00"
     },
     {
       "id": "f55597ece84e1b75",
@@ -3024,7 +3024,7 @@
       "price_ars": 2563094,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.723493+00:00"
+      "updated_at": "2026-10-30T19:54:44.126248+00:00"
     },
     {
       "id": "7e723f480a06351d",
@@ -3041,7 +3041,7 @@
       "price_ars": 1011413,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.723980+00:00"
+      "updated_at": "2026-10-30T19:54:44.126842+00:00"
     },
     {
       "id": "76e2d93513b4e20b",
@@ -3058,7 +3058,7 @@
       "price_ars": 321905,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.724479+00:00"
+      "updated_at": "2026-10-30T19:54:44.127451+00:00"
     },
     {
       "id": "cd6d43d9dc8c4205",
@@ -3075,7 +3075,7 @@
       "price_ars": 86513,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:21.724950+00:00"
+      "updated_at": "2026-10-30T19:54:44.128034+00:00"
     },
     {
       "id": "9dec5efb88e30c11",
@@ -3092,7 +3092,7 @@
       "price_ars": 301497,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:24.408631+00:00"
+      "updated_at": "2026-10-30T19:54:46.859891+00:00"
     },
     {
       "id": "2b5e45f0e8ee2fe5",
@@ -3109,7 +3109,7 @@
       "price_ars": 1696006,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:24.409251+00:00"
+      "updated_at": "2026-10-30T19:54:46.860615+00:00"
     },
     {
       "id": "4c0b70dfc44f387c",
@@ -3126,7 +3126,7 @@
       "price_ars": 1025764,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:24.412343+00:00"
+      "updated_at": "2026-10-30T19:54:46.864294+00:00"
     },
     {
       "id": "2cb2b6df2602c345",
@@ -3143,7 +3143,7 @@
       "price_ars": 347211,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:24.410695+00:00"
+      "updated_at": "2026-10-30T19:54:46.862470+00:00"
     },
     {
       "id": "d0aa79f1ad6fd2ed",
@@ -3160,7 +3160,7 @@
       "price_ars": 73680,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:24.411697+00:00"
+      "updated_at": "2026-10-30T19:54:46.863660+00:00"
     },
     {
       "id": "6a06d4431256573b",
@@ -3177,7 +3177,7 @@
       "price_ars": 2786013,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:24.417016+00:00"
+      "updated_at": "2026-10-30T19:54:46.869850+00:00"
     },
     {
       "id": "c6cc3c92c7e0e355",
@@ -3194,7 +3194,7 @@
       "price_ars": 24179,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.431652+00:00"
+      "updated_at": "2026-10-30T19:54:49.326971+00:00"
     },
     {
       "id": "6ee7dda138203849",
@@ -3211,7 +3211,7 @@
       "price_ars": 27951,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.432168+00:00"
+      "updated_at": "2026-10-30T19:54:49.327618+00:00"
     },
     {
       "id": "f62b36189d8f9252",
@@ -3228,7 +3228,7 @@
       "price_ars": 25306,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.432654+00:00"
+      "updated_at": "2026-10-30T19:54:49.328316+00:00"
     },
     {
       "id": "b22a5ac2b92373c2",
@@ -3245,7 +3245,7 @@
       "price_ars": 22661,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.433157+00:00"
+      "updated_at": "2026-10-30T19:54:49.328926+00:00"
     },
     {
       "id": "f816bac1b2d719f5",
@@ -3262,7 +3262,7 @@
       "price_ars": 25306,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.433759+00:00"
+      "updated_at": "2026-10-30T19:54:49.329576+00:00"
     },
     {
       "id": "adb05b4f18a65107",
@@ -3279,7 +3279,7 @@
       "price_ars": 50628,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.434270+00:00"
+      "updated_at": "2026-10-30T19:54:49.330199+00:00"
     },
     {
       "id": "8a2cc28930d59480",
@@ -3296,7 +3296,7 @@
       "price_ars": 7559,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.434759+00:00"
+      "updated_at": "2026-10-30T19:54:49.330816+00:00"
     },
     {
       "id": "d2d50df84485994e",
@@ -3313,7 +3313,7 @@
       "price_ars": 12849,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.435695+00:00"
+      "updated_at": "2026-10-30T19:54:49.331958+00:00"
     },
     {
       "id": "8b81353288eba64d",
@@ -3330,7 +3330,7 @@
       "price_ars": 126953,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.436219+00:00"
+      "updated_at": "2026-10-30T19:54:49.332762+00:00"
     },
     {
       "id": "66b54d4c0e94d268",
@@ -3347,7 +3347,7 @@
       "price_ars": 139410,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.436709+00:00"
+      "updated_at": "2026-10-30T19:54:49.333408+00:00"
     },
     {
       "id": "8e03246c19da592a",
@@ -3364,7 +3364,7 @@
       "price_ars": 190038,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.437254+00:00"
+      "updated_at": "2026-10-30T19:54:49.334066+00:00"
     },
     {
       "id": "2013d5642e5d6773",
@@ -3381,7 +3381,7 @@
       "price_ars": 15118,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.438724+00:00"
+      "updated_at": "2026-10-30T19:54:49.335781+00:00"
     },
     {
       "id": "2f844d798133ffb0",
@@ -3398,7 +3398,7 @@
       "price_ars": 25306,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:10:26.439357+00:00"
+      "updated_at": "2026-10-30T19:54:49.336413+00:00"
     },
     {
       "id": "ce3d003ab2a88cb8",
@@ -3449,7 +3449,7 @@
       "price_ars": 1820690,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.795884+00:00"
+      "updated_at": "2026-10-30T19:54:19.053546+00:00"
     },
     {
       "id": "cff70ec17cc65988",
@@ -3466,7 +3466,7 @@
       "price_ars": 2243459,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-10-30T10:09:58.798053+00:00"
+      "updated_at": "2026-10-30T19:54:19.056580+00:00"
     }
   ],
   "failures": [
