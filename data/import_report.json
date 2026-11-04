@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T10:59:41.374796+00:00",
+  "updated_at": "2026-11-04T11:05:57.810321+00:00",
   "exchange_rates": {
-    "ARS": "1565",
+    "ARS": "1570",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "5842.877529",
-    "BRL_per_USD": "5.43751"
+    "PYG_per_USD": "5921.440394",
+    "BRL_per_USD": "5.48609"
   },
   "total_products_extracted": 189,
   "total_products_in_catalog": 200,
