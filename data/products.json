@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08T10:32:13.233004+00:00",
+  "updated_at": "2026-11-09T11:45:12.799867+00:00",
   "ars_per_usd": 1555.0,
   "ars_source": "DolarHoy - dólar blue venta",
-  "pyg_per_usd": 6107.599103,
-  "brl_per_usd": 5.502723,
+  "pyg_per_usd": 6239.966292,
+  "brl_per_usd": 5.504608,
   "markup_percent": 40.0,
   "max_products": 200,
   "products": [
@@ -18,8 +18,8 @@
       "image_url": "",
       "source_price": 6527976.0,
       "source_currency": "PYG",
-      "price_usd": 1496.36,
-      "price_ars": 2326840,
+      "price_usd": 1464.62,
+      "price_ars": 2277484,
       "stock_available": true,
       "featured": true,
       "price_is_snapshot": true,
@@ -41,8 +41,8 @@
       "image_url": "",
       "source_price": 5482070.0,
       "source_currency": "PYG",
-      "price_usd": 1256.61,
-      "price_ars": 1954029,
+      "price_usd": 1229.96,
+      "price_ars": 1912588,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -64,8 +64,8 @@
       "image_url": "",
       "source_price": 468846.0,
       "source_currency": "PYG",
-      "price_usd": 107.47,
-      "price_ars": 167116,
+      "price_usd": 105.19,
+      "price_ars": 163570,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -87,8 +87,8 @@
       "image_url": "",
       "source_price": 1690000.0,
       "source_currency": "PYG",
-      "price_usd": 387.39,
-      "price_ars": 602391,
+      "price_usd": 379.17,
+      "price_ars": 589609,
       "stock_available": true,
       "featured": true,
       "price_is_snapshot": true,
@@ -110,8 +110,8 @@
       "image_url": "",
       "source_price": 3978000.0,
       "source_currency": "PYG",
-      "price_usd": 911.85,
-      "price_ars": 1417927,
+      "price_usd": 892.5,
+      "price_ars": 1387838,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -133,8 +133,8 @@
       "image_url": "",
       "source_price": 4997000.0,
       "source_currency": "PYG",
-      "price_usd": 1145.43,
-      "price_ars": 1781144,
+      "price_usd": 1121.13,
+      "price_ars": 1743357,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -225,8 +225,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGU0RHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0134b5927e2fb681b202838e7d76eb77f3704cb2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/953327.jpg",
       "source_price": 8052000.0,
       "source_currency": "PYG",
-      "price_usd": 1845.7,
-      "price_ars": 2870064,
+      "price_usd": 1806.55,
+      "price_ars": 2809185,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-01T10:36:03.209632+00:00"
@@ -242,11 +242,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0RUR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--08c08d080f07ed5bcbf9b19b64ebba54c5bca68b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1031749.jpg",
       "source_price": 5152000.0,
       "source_currency": "PYG",
-      "price_usd": 1180.96,
-      "price_ars": 1836393,
+      "price_usd": 1155.9,
+      "price_ars": 1797424,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.988231+00:00"
+      "updated_at": "2026-11-09T11:45:00.273106+00:00"
     },
     {
       "id": "e9bf9dadd41a46e8",
@@ -259,11 +259,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejNxRXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8378a64102c3908565f1ef0dbcb85577cb7bcb0f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/991475.jpg",
       "source_price": 4054000.0,
       "source_currency": "PYG",
-      "price_usd": 929.27,
-      "price_ars": 1445015,
+      "price_usd": 909.56,
+      "price_ars": 1414366,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.977690+00:00"
+      "updated_at": "2026-11-09T11:45:00.266714+00:00"
     },
     {
       "id": "f0b71e4a0798c029",
@@ -276,8 +276,8 @@
       "image_url": "https://www.shoppingchina.com.py/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFJ6RkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba1f30af8b08efc4b4fde6ee5871139084d1986b/924669.jpg",
       "source_price": 7009000.0,
       "source_currency": "PYG",
-      "price_usd": 1606.62,
-      "price_ars": 2498294,
+      "price_usd": 1572.54,
+      "price_ars": 2445300,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": false,
@@ -300,11 +300,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0VFSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e9a6d1f5191d11712b6c4be4cb86fec7dfa0ec9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1119728.jpg",
       "source_price": 6486000.0,
       "source_currency": "PYG",
-      "price_usd": 1486.74,
-      "price_ars": 2311881,
+      "price_usd": 1455.2,
+      "price_ars": 2262836,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.452459+00:00"
+      "updated_at": "2026-11-09T11:44:44.292339+00:00"
     },
     {
       "id": "0cbf6bf181a4abc5",
@@ -317,11 +317,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0RrR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--924edda65422ff457f87584017130f7711006d11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1095761.jpg",
       "source_price": 88000.0,
       "source_currency": "PYG",
-      "price_usd": 20.17,
-      "price_ars": 31364,
+      "price_usd": 19.74,
+      "price_ars": 30696,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.453076+00:00"
+      "updated_at": "2026-11-09T11:44:44.292748+00:00"
     },
     {
       "id": "62615b592ec8c937",
@@ -334,11 +334,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1BYR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--880d127aa1ed38e1d3f78a744882c155726158f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1006057.jpg",
       "source_price": 111000.0,
       "source_currency": "PYG",
-      "price_usd": 25.44,
-      "price_ars": 39559,
+      "price_usd": 24.9,
+      "price_ars": 38720,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.986405+00:00"
+      "updated_at": "2026-11-09T11:45:00.271933+00:00"
     },
     {
       "id": "4db130c2d91757db",
@@ -351,11 +351,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODlCR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ddb532032b9405522d3e4a6b897f3125fe3d9d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034562.jpg",
       "source_price": 221000.0,
       "source_currency": "PYG",
-      "price_usd": 50.66,
-      "price_ars": 78776,
+      "price_usd": 49.58,
+      "price_ars": 77097,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.454348+00:00"
+      "updated_at": "2026-11-09T11:44:44.293522+00:00"
     },
     {
       "id": "43b41d32f2914759",
@@ -368,11 +368,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHl1R2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ded82771db95dfe04ed87469c22d703b4fd26a83/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1023981.jpg",
       "source_price": 5586000.0,
       "source_currency": "PYG",
-      "price_usd": 1280.44,
-      "price_ars": 1991084,
+      "price_usd": 1253.28,
+      "price_ars": 1948850,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.454963+00:00"
+      "updated_at": "2026-11-09T11:44:44.293930+00:00"
     },
     {
       "id": "b61526edd609e061",
@@ -385,11 +385,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUhTR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3b4553039dc5b9496d8c0e39effd55e9ba1be21a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1021049.jpg",
       "source_price": 332000.0,
       "source_currency": "PYG",
-      "price_usd": 76.1,
-      "price_ars": 118336,
+      "price_usd": 74.49,
+      "price_ars": 115832,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.458145+00:00"
+      "updated_at": "2026-11-09T11:44:44.296138+00:00"
     },
     {
       "id": "fac11bb04058a7cb",
@@ -402,11 +402,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2xBRlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c53daa45d8c4c73ca2995c1290d508a95da6afa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/983746.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.459412+00:00"
+      "updated_at": "2026-11-09T11:44:44.296935+00:00"
     },
     {
       "id": "6d3ae4542e50499f",
@@ -419,11 +419,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2VORXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--73c5c139e69d9f827fcb189d982ad56de83f20ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/976328.jpg",
       "source_price": 1843000.0,
       "source_currency": "PYG",
-      "price_usd": 422.46,
-      "price_ars": 656925,
+      "price_usd": 413.5,
+      "price_ars": 642992,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.979515+00:00"
+      "updated_at": "2026-11-09T11:45:00.267479+00:00"
     },
     {
       "id": "961c0e4c0b8a7bf2",
@@ -436,11 +436,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEo4RUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6280c21a48f1486d1c56990fbb861b0e3076e873/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/945497.jpg",
       "source_price": 308000.0,
       "source_currency": "PYG",
-      "price_usd": 70.6,
-      "price_ars": 109783,
+      "price_usd": 69.1,
+      "price_ars": 107450,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.982693+00:00"
+      "updated_at": "2026-11-09T11:45:00.269528+00:00"
     },
     {
       "id": "d634dab55fbefb4a",
@@ -453,8 +453,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFJ6RkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba1f30af8b08efc4b4fde6ee5871139084d1986b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/924669.jpg",
       "source_price": 8078000.0,
       "source_currency": "PYG",
-      "price_usd": 1851.66,
-      "price_ars": 2879331,
+      "price_usd": 1812.38,
+      "price_ars": 2818251,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:02:51.231284+00:00"
@@ -470,11 +470,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNndIREE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cd9acd002925089ea328ad7f56a3015c34b72d64/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/924626.jpg",
       "source_price": 395000.0,
       "source_currency": "PYG",
-      "price_usd": 90.54,
-      "price_ars": 140790,
+      "price_usd": 88.62,
+      "price_ars": 137804,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.461959+00:00"
+      "updated_at": "2026-11-09T11:44:44.298504+00:00"
     },
     {
       "id": "a146a44e20b67c74",
@@ -487,11 +487,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXZ1RHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--95031f2273df814406cd0b2375d88c31cdca04e6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/889781.jpg",
       "source_price": 1843000.0,
       "source_currency": "PYG",
-      "price_usd": 422.46,
-      "price_ars": 656925,
+      "price_usd": 413.5,
+      "price_ars": 642992,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.980744+00:00"
+      "updated_at": "2026-11-09T11:45:00.268264+00:00"
     },
     {
       "id": "0e4ab5f4890a8f19",
@@ -504,11 +504,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMStwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f2e6828cb6f4933699dc1299fd46095849f7ed8f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/812897.jpg",
       "source_price": 2245000.0,
       "source_currency": "PYG",
-      "price_usd": 514.6,
-      "price_ars": 800203,
+      "price_usd": 503.69,
+      "price_ars": 783238,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.463804+00:00"
+      "updated_at": "2026-11-09T11:44:44.299776+00:00"
     },
     {
       "id": "d36390e878f88952",
@@ -521,11 +521,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0dKQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--470ac4fb2f0a068797c58b1b2c8ea0a8458c65f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/788272.jpg",
       "source_price": 2425000.0,
       "source_currency": "PYG",
-      "price_usd": 555.86,
-      "price_ars": 864362,
+      "price_usd": 544.07,
+      "price_ars": 846029,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.980119+00:00"
+      "updated_at": "2026-11-09T11:45:00.267881+00:00"
     },
     {
       "id": "74e492a63fc72238",
@@ -538,11 +538,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVpMQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4f6f4c8d822cc870c791b47ba7ee5ea897f490bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/726225.jpg",
       "source_price": 1467000.0,
       "source_currency": "PYG",
-      "price_usd": 336.27,
-      "price_ars": 522900,
+      "price_usd": 329.14,
+      "price_ars": 511813,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.977070+00:00"
+      "updated_at": "2026-11-09T11:45:00.266309+00:00"
     },
     {
       "id": "52987a5f48e63ff0",
@@ -555,8 +555,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN01sRHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c90bd7aff614ecc8009d139b36e468c21fc42816/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/938654.jpg",
       "source_price": 71000.0,
       "source_currency": "PYG",
-      "price_usd": 16.27,
-      "price_ars": 25300,
+      "price_usd": 15.93,
+      "price_ars": 24771,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:02:58.686217+00:00"
@@ -572,11 +572,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL29vQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f765e2456cae707a3862ff5bf6f08b20998d105/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/752904.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.565321+00:00"
+      "updated_at": "2026-11-09T11:44:47.744414+00:00"
     },
     {
       "id": "2c3ec2b99b0851d6",
@@ -589,11 +589,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHgyRUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ea5b4a50055c477896464e96a2798ef65fc49b4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/751758.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.564014+00:00"
+      "updated_at": "2026-11-09T11:44:47.742232+00:00"
     },
     {
       "id": "1a946bf18071c38e",
@@ -606,11 +606,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUFiQ1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8c7fa3d6f4acd74499428ba9d85bd9f5fc620bba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/905572.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.564662+00:00"
+      "updated_at": "2026-11-09T11:44:47.742651+00:00"
     },
     {
       "id": "175484791523a00e",
@@ -623,11 +623,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejBiQ1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--96442f51888e88176738328b730c2d9c8961d06b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/905577.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.565946+00:00"
+      "updated_at": "2026-11-09T11:44:47.743216+00:00"
     },
     {
       "id": "29b98b75e43aa3bc",
@@ -640,11 +640,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkpmRkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87b5887cdd90c65d01147bf491c11e2d5922e96f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/239092.jpg",
       "source_price": 26000.0,
       "source_currency": "PYG",
-      "price_usd": 5.96,
-      "price_ars": 9268,
+      "price_usd": 5.83,
+      "price_ars": 9066,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.566582+00:00"
+      "updated_at": "2026-11-09T11:44:47.743861+00:00"
     },
     {
       "id": "2a57b26d183b4c69",
@@ -657,11 +657,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1FZQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--196d63296098d103be3b6cd77d752417d6426cc0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/222353.jpg",
       "source_price": 18000.0,
       "source_currency": "PYG",
-      "price_usd": 4.13,
-      "price_ars": 6422,
+      "price_usd": 4.04,
+      "price_ars": 6282,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.011808+00:00"
+      "updated_at": "2026-11-09T11:45:03.083495+00:00"
     },
     {
       "id": "4c0b2b63291ee3ae",
@@ -674,8 +674,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDh3RFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--03fc6e7dff6fc99ad9bfa3c8eedf38c9a4bb974a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/919544.jpg",
       "source_price": 201000.0,
       "source_currency": "PYG",
-      "price_usd": 46.07,
-      "price_ars": 71639,
+      "price_usd": 45.1,
+      "price_ars": 70130,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:36.018313+00:00"
@@ -691,11 +691,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmtaQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--639272880fcf96202a8afbfd88b86e8bbaf87b62/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/691097.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.014338+00:00"
+      "updated_at": "2026-11-09T11:45:03.085190+00:00"
     },
     {
       "id": "4ded98d35312e69f",
@@ -708,11 +708,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBME9KRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--568bf42b8e8c76eca9a77b9b04d7367da27553c4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/945167.jpg",
       "source_price": 921000.0,
       "source_currency": "PYG",
-      "price_usd": 211.11,
-      "price_ars": 328276,
+      "price_usd": 206.64,
+      "price_ars": 321325,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.571217+00:00"
+      "updated_at": "2026-11-09T11:44:47.747471+00:00"
     },
     {
       "id": "bd900d0ffc2c1267",
@@ -725,11 +725,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUdDR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1081eef57b580685dc246ee1f27ece8747ab5faa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1038279.jpg",
       "source_price": 59000.0,
       "source_currency": "PYG",
-      "price_usd": 13.52,
-      "price_ars": 21024,
+      "price_usd": 13.24,
+      "price_ars": 20588,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.573141+00:00"
+      "updated_at": "2026-11-09T11:44:47.748313+00:00"
     },
     {
       "id": "e08248db49d76ea2",
@@ -742,11 +742,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3pVRVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a92b1c205fb366bbc9e52d3075b50bbdc23af2d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/948624.jpg",
       "source_price": 5564000.0,
       "source_currency": "PYG",
-      "price_usd": 1275.39,
-      "price_ars": 1983231,
+      "price_usd": 1248.34,
+      "price_ars": 1941169,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:48.574471+00:00"
+      "updated_at": "2026-11-09T11:44:47.749528+00:00"
     },
     {
       "id": "b1bafcc7ec4de308",
@@ -759,8 +759,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDRqRUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c71cfcfcc89279654399dd23cd4cd4f1a5efc1c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/938660.jpg",
       "source_price": 64000.0,
       "source_currency": "PYG",
-      "price_usd": 14.67,
-      "price_ars": 22812,
+      "price_usd": 14.36,
+      "price_ars": 22330,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:19.607645+00:00"
@@ -776,8 +776,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXNqRUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--51561ec522631db799467f454d35779dfa60eb5a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/953376.jpg",
       "source_price": 64000.0,
       "source_currency": "PYG",
-      "price_usd": 14.67,
-      "price_ars": 22812,
+      "price_usd": 14.36,
+      "price_ars": 22330,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:19.604491+00:00"
@@ -793,8 +793,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnhJRmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--307c733a6986be513ea4f4914811389bdd89c330/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/994029.jpg",
       "source_price": 52000.0,
       "source_currency": "PYG",
-      "price_usd": 11.92,
-      "price_ars": 18536,
+      "price_usd": 11.67,
+      "price_ars": 18147,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:36.018608+00:00"
@@ -810,8 +810,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUtER0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--566ebcb6ec4e8c4afb76e16339f375f554f021a9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1038282.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:36.018901+00:00"
@@ -827,8 +827,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2FER0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9f072866a1a6ac56c1ec206d5d2d469ee3b97a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1038280.jpg",
       "source_price": 54000.0,
       "source_currency": "PYG",
-      "price_usd": 12.38,
-      "price_ars": 19251,
+      "price_usd": 12.12,
+      "price_ars": 18847,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-03T10:59:19.292259+00:00"
@@ -844,8 +844,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFhHQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ebae5ba3055b9a143511d61b7a7c3efe85c86b40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/784788.jpg",
       "source_price": 148000.0,
       "source_currency": "PYG",
-      "price_usd": 33.92,
-      "price_ars": 52746,
+      "price_usd": 33.21,
+      "price_ars": 51642,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:19.606364+00:00"
@@ -861,8 +861,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzJ5R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df32e7678d5349f1c1a532968d31996d4e256714/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1070346.jpg",
       "source_price": 705000.0,
       "source_currency": "PYG",
-      "price_usd": 161.6,
-      "price_ars": 251288,
+      "price_usd": 158.17,
+      "price_ars": 245954,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:28.704153+00:00"
@@ -878,8 +878,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWVDR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a77ef78e4f52b176a2ca7bf0241584100167b0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1037567.jpg",
       "source_price": 40000.0,
       "source_currency": "PYG",
-      "price_usd": 9.17,
-      "price_ars": 14259,
+      "price_usd": 8.97,
+      "price_ars": 13948,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T19:54:26.169409+00:00"
@@ -895,8 +895,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3JkRVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7248c146a56248c02d5499677259d4246636931f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/951778.jpg",
       "source_price": 62000.0,
       "source_currency": "PYG",
-      "price_usd": 14.21,
-      "price_ars": 22097,
+      "price_usd": 13.91,
+      "price_ars": 21630,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T01:08:46.854786+00:00"
@@ -912,11 +912,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOE9FR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--371643d9e54556d8feacf9e04999eb59fe36cbe0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034861.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.696462+00:00"
+      "updated_at": "2026-11-09T11:44:51.412961+00:00"
     },
     {
       "id": "c194a86fc5ce8d32",
@@ -929,11 +929,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzRGSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--845bdd122c8fbefe7058bccf6d316843673b985b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111828.jpg",
       "source_price": 88000.0,
       "source_currency": "PYG",
-      "price_usd": 20.17,
-      "price_ars": 31364,
+      "price_usd": 19.74,
+      "price_ars": 30696,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.443413+00:00"
+      "updated_at": "2026-11-09T11:45:10.786100+00:00"
     },
     {
       "id": "fa0a43357de08238",
@@ -946,11 +946,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3RLR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7b1ed656076720355c4b21f0d474b5c56d9b6c94/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034849.jpg",
       "source_price": 59000.0,
       "source_currency": "PYG",
-      "price_usd": 13.52,
-      "price_ars": 21024,
+      "price_usd": 13.24,
+      "price_ars": 20588,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.697765+00:00"
+      "updated_at": "2026-11-09T11:44:51.413937+00:00"
     },
     {
       "id": "f94384c26a891ca5",
@@ -963,11 +963,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEtCR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce5577ad9de322db570e5654b8955a9c05cf540a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034842.jpg",
       "source_price": 103000.0,
       "source_currency": "PYG",
-      "price_usd": 23.61,
-      "price_ars": 36714,
+      "price_usd": 23.11,
+      "price_ars": 35936,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.698507+00:00"
+      "updated_at": "2026-11-09T11:44:51.414355+00:00"
     },
     {
       "id": "3318bc812ac1d098",
@@ -980,11 +980,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1YvR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cd007c54c8d724426c979bc20870f11a52eee371/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034865.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.699130+00:00"
+      "updated_at": "2026-11-09T11:44:51.414818+00:00"
     },
     {
       "id": "b181cc9917099c76",
@@ -997,11 +997,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFNBR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af7154c84efa9fea97a6182dc4f27152f4fcc839/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034881.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.700967+00:00"
+      "updated_at": "2026-11-09T11:44:51.416056+00:00"
     },
     {
       "id": "0f4fd3a9d0a2b11e",
@@ -1014,11 +1014,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2QrR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9c8d51d04a22a064b81f91a1f63f66491d45652/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034846.jpg",
       "source_price": 74000.0,
       "source_currency": "PYG",
-      "price_usd": 16.96,
-      "price_ars": 26373,
+      "price_usd": 16.6,
+      "price_ars": 25813,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.699761+00:00"
+      "updated_at": "2026-11-09T11:44:51.415233+00:00"
     },
     {
       "id": "41b0fd3a50f6cd21",
@@ -1031,11 +1031,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBem1CR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7d39b295e2232678ec3637608f70884ce69a9ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034844.jpg",
       "source_price": 52000.0,
       "source_currency": "PYG",
-      "price_usd": 11.92,
-      "price_ars": 18536,
+      "price_usd": 11.67,
+      "price_ars": 18147,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.701612+00:00"
+      "updated_at": "2026-11-09T11:44:51.416469+00:00"
     },
     {
       "id": "929ddb7b6aef3ef6",
@@ -1048,11 +1048,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVdBR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5d0c1530e3aaace67f099f67a90656adf1fb23d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034879.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.702263+00:00"
+      "updated_at": "2026-11-09T11:44:51.416898+00:00"
     },
     {
       "id": "c1dba845c44a25ae",
@@ -1065,11 +1065,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0lHSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b399872596b41abaf29e82389e81f65c61bd35a3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111848.jpg",
       "source_price": 59000.0,
       "source_currency": "PYG",
-      "price_usd": 13.52,
-      "price_ars": 21024,
+      "price_usd": 13.24,
+      "price_ars": 20588,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.442188+00:00"
+      "updated_at": "2026-11-09T11:45:10.785158+00:00"
     },
     {
       "id": "8f83a6d4e0b23ba1",
@@ -1082,11 +1082,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOU9BR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--14fe98e1e46ed6f72723f3736814d6a8354e11f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1034876.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.704821+00:00"
+      "updated_at": "2026-11-09T11:44:51.418669+00:00"
     },
     {
       "id": "7cb3bb63e2dd7c4a",
@@ -1099,11 +1099,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEYvR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a9e3e3a382f41ff6da930ca00800aad4f67ba8e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1037691.jpg",
       "source_price": 74000.0,
       "source_currency": "PYG",
-      "price_usd": 16.96,
-      "price_ars": 26373,
+      "price_usd": 16.6,
+      "price_ars": 25813,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.705573+00:00"
+      "updated_at": "2026-11-09T11:44:51.419076+00:00"
     },
     {
       "id": "98315989dd64106c",
@@ -1116,11 +1116,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWc4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4344236da4d9a9a4d820540497ed726c4c14526/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/718246.jpg",
       "source_price": 88000.0,
       "source_currency": "PYG",
-      "price_usd": 20.17,
-      "price_ars": 31364,
+      "price_usd": 19.74,
+      "price_ars": 30696,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.708099+00:00"
+      "updated_at": "2026-11-09T11:44:51.420720+00:00"
     },
     {
       "id": "f484b0189cdf05d5",
@@ -1133,11 +1133,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXdDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c072136efb166cba087e2fb956c3dddbde0b5d16/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111835.jpg",
       "source_price": 52000.0,
       "source_currency": "PYG",
-      "price_usd": 11.92,
-      "price_ars": 18536,
+      "price_usd": 11.67,
+      "price_ars": 18147,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.709401+00:00"
+      "updated_at": "2026-11-09T11:44:51.421114+00:00"
     },
     {
       "id": "65adc3300811a79b",
@@ -1150,8 +1150,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1VDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3fe2db5342257bdb0d038fd0fb7f1155ef41cf71/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111808.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-08T10:31:51.708740+00:00"
@@ -1167,11 +1167,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWNDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b83ae305eccfad08f4177621f4a931424f308a6c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/716620.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.707467+00:00"
+      "updated_at": "2026-11-09T11:44:51.420311+00:00"
     },
     {
       "id": "4eefa0936f7d5f10",
@@ -1184,11 +1184,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzRDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94c160fa275ed5b2382f7d3de63b22e8b14aed94/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111850.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.706189+00:00"
+      "updated_at": "2026-11-09T11:44:51.419502+00:00"
     },
     {
       "id": "462bb70d11a05b55",
@@ -1201,11 +1201,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVVGSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d1edf6fa2b4854fe12cadfc6d4d88b25ab8512fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1112189.jpg",
       "source_price": 52000.0,
       "source_currency": "PYG",
-      "price_usd": 11.92,
-      "price_ars": 18536,
+      "price_usd": 11.67,
+      "price_ars": 18147,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.706832+00:00"
+      "updated_at": "2026-11-09T11:44:51.419915+00:00"
     },
     {
       "id": "56effbbae233d4fc",
@@ -1218,28 +1218,28 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeE01QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7cd6ebd5471df56bbc779c58e8db74b990544686/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/716616.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.710633+00:00"
+      "updated_at": "2026-11-09T11:44:51.421896+00:00"
     },
     {
       "id": "662529e0899d7404",
       "name": "MOUSE MAXELL MOWR-105 RED",
       "brand": "",
-      "description": "MOUSE MAXELL MOWR-105 RED Gs. 42.000",
+      "description": "MOUSE MAXELL MOWR-105 RED Gs. 44.000",
       "category": "Informática",
       "provider": "Shopping China",
       "source_url": "https://www.shoppingchina.com.py/producto/mouse-maxell-mowr-105-red-1111807",
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2NDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9df5bd7f3c1fb2a7820f7232f59cefe0bc18c091/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111807.jpg",
-      "source_price": 42000.0,
+      "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 9.63,
-      "price_ars": 14975,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-05T11:06:41.965176+00:00"
+      "updated_at": "2026-11-09T11:44:51.422371+00:00"
     },
     {
       "id": "3d13c877e135e886",
@@ -1252,8 +1252,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMThDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--faed096ed37ae2b06e614ff460fcc00a760ef2a5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/553256.jpg",
       "source_price": 35000.0,
       "source_currency": "PYG",
-      "price_usd": 8.02,
-      "price_ars": 12471,
+      "price_usd": 7.85,
+      "price_ars": 12207,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:41.964525+00:00"
@@ -1269,11 +1269,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXdDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e255ffe9874f9bb4db15a5805c8772628462c30/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/704241.jpg",
       "source_price": 37000.0,
       "source_currency": "PYG",
-      "price_usd": 8.48,
-      "price_ars": 13186,
+      "price_usd": 8.3,
+      "price_ars": 12906,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:51.710013+00:00"
+      "updated_at": "2026-11-09T11:44:51.421494+00:00"
     },
     {
       "id": "5a48a02b91e4a962",
@@ -1286,8 +1286,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUVDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9055ef53d15e72187c615f08f459af1f31268119/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1089248.jpg",
       "source_price": 76000.0,
       "source_currency": "PYG",
-      "price_usd": 17.42,
-      "price_ars": 27088,
+      "price_usd": 17.05,
+      "price_ars": 26513,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:41.965959+00:00"
@@ -1303,11 +1303,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenNORnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d7e0fefef63b6d673fd4ac30af6e10b16a59d219/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1011355.jpg",
       "source_price": 636000.0,
       "source_currency": "PYG",
-      "price_usd": 145.79,
-      "price_ars": 226703,
+      "price_usd": 142.69,
+      "price_ars": 221883,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.706873+00:00"
+      "updated_at": "2026-11-09T11:44:54.270927+00:00"
     },
     {
       "id": "f07ddf848f683065",
@@ -1320,11 +1320,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFN5QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccaf37beb0d1a2dfe3caa40d7e6f8f6b362925de/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/841062.jpg",
       "source_price": 436000.0,
       "source_currency": "PYG",
-      "price_usd": 99.94,
-      "price_ars": 155407,
+      "price_usd": 97.82,
+      "price_ars": 152110,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.707564+00:00"
+      "updated_at": "2026-11-09T11:44:54.271393+00:00"
     },
     {
       "id": "566705bfdbf72699",
@@ -1337,11 +1337,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelhWQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d700323ca58945d9b89eda36b18bafe3f769f935/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/792149.jpg",
       "source_price": 855000.0,
       "source_currency": "PYG",
-      "price_usd": 195.99,
-      "price_ars": 304764,
+      "price_usd": 191.83,
+      "price_ars": 298296,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.708212+00:00"
+      "updated_at": "2026-11-09T11:44:54.271819+00:00"
     },
     {
       "id": "0d860be0e51e0d2b",
@@ -1354,11 +1354,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzl2R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ce82b63ca45ea053ad8574ba44418ea6f250bc3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1019163.jpg",
       "source_price": 7112000.0,
       "source_currency": "PYG",
-      "price_usd": 1630.23,
-      "price_ars": 2535008,
+      "price_usd": 1595.65,
+      "price_ars": 2481236,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.708825+00:00"
+      "updated_at": "2026-11-09T11:44:54.272213+00:00"
     },
     {
       "id": "7fa1573160d0255a",
@@ -1371,11 +1371,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenVvR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--72adc330d813fe991d8b01eb5afc9c79237e1148/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1094208.jpg",
       "source_price": 5417000.0,
       "source_currency": "PYG",
-      "price_usd": 1241.7,
-      "price_ars": 1930844,
+      "price_usd": 1215.36,
+      "price_ars": 1889885,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.709557+00:00"
+      "updated_at": "2026-11-09T11:44:54.272607+00:00"
     },
     {
       "id": "693386391a2dfccd",
@@ -1388,11 +1388,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzA3RWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--63c086dc2f1ec8e6654d7d9cf42bd3b5efe00e51/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/935837.jpg",
       "source_price": 201000.0,
       "source_currency": "PYG",
-      "price_usd": 46.07,
-      "price_ars": 71639,
+      "price_usd": 45.1,
+      "price_ars": 70130,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.710168+00:00"
+      "updated_at": "2026-11-09T11:44:54.273026+00:00"
     },
     {
       "id": "ee069d5ca2da64f1",
@@ -1405,11 +1405,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3ltR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f71e06dbf4c3f81123a41ee1faf02a1524715538/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1088431.jpg",
       "source_price": 5085000.0,
       "source_currency": "PYG",
-      "price_usd": 1165.6,
-      "price_ars": 1812508,
+      "price_usd": 1140.87,
+      "price_ars": 1774053,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.710785+00:00"
+      "updated_at": "2026-11-09T11:44:54.273454+00:00"
     },
     {
       "id": "8e3ba957ad2ae533",
@@ -1422,11 +1422,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3VuR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--deeda2db0db7468931e5454661e61b61b6757d0c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1088417.jpg",
       "source_price": 5085000.0,
       "source_currency": "PYG",
-      "price_usd": 1165.6,
-      "price_ars": 1812508,
+      "price_usd": 1140.87,
+      "price_ars": 1774053,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.711397+00:00"
+      "updated_at": "2026-11-09T11:44:54.273883+00:00"
     },
     {
       "id": "1c7bc5014b98e1cd",
@@ -1439,11 +1439,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK09wR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ecb4a808ad71863f4e812a8951765d1b781a8e0d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1019168.jpg",
       "source_price": 7112000.0,
       "source_currency": "PYG",
-      "price_usd": 1630.23,
-      "price_ars": 2535008,
+      "price_usd": 1595.65,
+      "price_ars": 2481236,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.711996+00:00"
+      "updated_at": "2026-11-09T11:44:54.274282+00:00"
     },
     {
       "id": "013386afbe3a5d1d",
@@ -1456,11 +1456,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVBJQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e467297ce06572a5d897698de2b0bdccda218356/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/785702.jpg",
       "source_price": 4127000.0,
       "source_currency": "PYG",
-      "price_usd": 946.0,
-      "price_ars": 1471030,
+      "price_usd": 925.93,
+      "price_ars": 1439821,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.712618+00:00"
+      "updated_at": "2026-11-09T11:44:54.274681+00:00"
     },
     {
       "id": "a3964826013b452d",
@@ -1473,11 +1473,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEdwR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e844f567de9faf582f272307c9ecde5b33fe1b6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1087127.jpg",
       "source_price": 3906000.0,
       "source_currency": "PYG",
-      "price_usd": 895.34,
-      "price_ars": 1392254,
+      "price_usd": 876.35,
+      "price_ars": 1362724,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.713240+00:00"
+      "updated_at": "2026-11-09T11:44:54.275160+00:00"
     },
     {
       "id": "6140f58da9b38161",
@@ -1490,11 +1490,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzJwR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac0505e49f1b36a747ac4e59582ca4b953d9cf9b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1087128.jpg",
       "source_price": 3906000.0,
       "source_currency": "PYG",
-      "price_usd": 895.34,
-      "price_ars": 1392254,
+      "price_usd": 876.35,
+      "price_ars": 1362724,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.713829+00:00"
+      "updated_at": "2026-11-09T11:44:54.275550+00:00"
     },
     {
       "id": "fd05602e2cc098dd",
@@ -1507,11 +1507,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGVwR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--db4086d71079e7400a61e0169d958b4a21b5b047/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1019170.jpg",
       "source_price": 7112000.0,
       "source_currency": "PYG",
-      "price_usd": 1630.23,
-      "price_ars": 2535008,
+      "price_usd": 1595.65,
+      "price_ars": 2481236,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.714451+00:00"
+      "updated_at": "2026-11-09T11:44:54.275950+00:00"
     },
     {
       "id": "af8d34edeb6100a2",
@@ -1524,8 +1524,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEtwR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d52f313a356e7c1e8056513b070259f4487cc930/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1019166.jpg",
       "source_price": 6475000.0,
       "source_currency": "PYG",
-      "price_usd": 1484.22,
-      "price_ars": 2307962,
+      "price_usd": 1452.73,
+      "price_ars": 2258995,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T19:54:32.538576+00:00"
@@ -1541,11 +1541,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVNxR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a156f14717e5a195c71bf50a3941c60f3d58d9d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1019172.jpg",
       "source_price": 7112000.0,
       "source_currency": "PYG",
-      "price_usd": 1630.23,
-      "price_ars": 2535008,
+      "price_usd": 1595.65,
+      "price_ars": 2481236,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.715044+00:00"
+      "updated_at": "2026-11-09T11:44:54.276337+00:00"
     },
     {
       "id": "5f5ccb56468f95f8",
@@ -1558,11 +1558,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3NCR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5036d4a61fddd6bae05a87edd2004638d4791aaa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1007066.jpg",
       "source_price": 1290000.0,
       "source_currency": "PYG",
-      "price_usd": 295.7,
-      "price_ars": 459814,
+      "price_usd": 289.42,
+      "price_ars": 450048,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.715757+00:00"
+      "updated_at": "2026-11-09T11:44:54.276736+00:00"
     },
     {
       "id": "352c38959eebc4bd",
@@ -1575,11 +1575,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMktqR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e31b2952b14960988118edb2680a01465526ce24/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1092232.jpg",
       "source_price": 4459000.0,
       "source_currency": "PYG",
-      "price_usd": 1022.1,
-      "price_ars": 1589366,
+      "price_usd": 1000.42,
+      "price_ars": 1555653,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.716964+00:00"
+      "updated_at": "2026-11-09T11:44:54.277506+00:00"
     },
     {
       "id": "f3f025287154cd7f",
@@ -1592,11 +1592,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEtqR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a98138982bf8a5ba717842d6bbeac7630fc0200d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1092145.jpg",
       "source_price": 4459000.0,
       "source_currency": "PYG",
-      "price_usd": 1022.1,
-      "price_ars": 1589366,
+      "price_usd": 1000.42,
+      "price_ars": 1555653,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.717620+00:00"
+      "updated_at": "2026-11-09T11:44:54.277912+00:00"
     },
     {
       "id": "a968a2e428607330",
@@ -1609,11 +1609,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzdsQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--48aaf9c5efffe610c66dc6eea30d5f748dd0de85/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/850919.jpg",
       "source_price": 1695000.0,
       "source_currency": "PYG",
-      "price_usd": 388.53,
-      "price_ars": 604164,
+      "price_usd": 380.29,
+      "price_ars": 591351,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.718235+00:00"
+      "updated_at": "2026-11-09T11:44:54.278296+00:00"
     },
     {
       "id": "f1f5d5dc6a4f36dd",
@@ -1626,11 +1626,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzh5R2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf4a843e9f5d94c8147f71a4126f569e88b7fbb8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1062008.jpg",
       "source_price": 1327000.0,
       "source_currency": "PYG",
-      "price_usd": 304.18,
-      "price_ars": 473000,
+      "price_usd": 297.73,
+      "price_ars": 462970,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.719393+00:00"
+      "updated_at": "2026-11-09T11:44:54.279049+00:00"
     },
     {
       "id": "7f2c08b011281073",
@@ -1643,8 +1643,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUEzR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--534a7570338e15d1652d4a2357c90cca9fb2d4b7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1066501.jpg",
       "source_price": 906000.0,
       "source_currency": "PYG",
-      "price_usd": 207.68,
-      "price_ars": 322942,
+      "price_usd": 203.27,
+      "price_ars": 316085,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-01T10:36:15.317659+00:00"
@@ -1660,11 +1660,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenhIR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef4b1fc8aabb656c8a691b11cd2206cb0a1c371a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1066365.jpg",
       "source_price": 5152000.0,
       "source_currency": "PYG",
-      "price_usd": 1180.96,
-      "price_ars": 1836393,
+      "price_usd": 1155.9,
+      "price_ars": 1797424,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:54.719992+00:00"
+      "updated_at": "2026-11-09T11:44:54.279549+00:00"
     },
     {
       "id": "7838ccdda91c25fc",
@@ -1677,8 +1677,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHRLR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b7531fb9038f97b7389a4921b3627437139a4ce0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1059729.jpg",
       "source_price": 6018000.0,
       "source_currency": "PYG",
-      "price_usd": 1379.46,
-      "price_ars": 2145060,
+      "price_usd": 1350.2,
+      "price_ars": 2099561,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:44.944589+00:00"
@@ -1694,8 +1694,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0xZR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--12f63ddb3d0d2b81f512da84c0e78ff12d9d8f2d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036325.jpg",
       "source_price": 135000.0,
       "source_currency": "PYG",
-      "price_usd": 30.95,
-      "price_ars": 48127,
+      "price_usd": 30.29,
+      "price_ars": 47101,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:03:07.796574+00:00"
@@ -1711,11 +1711,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkhtR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccf2e9f5f42f25f18c8019e70ab3959e36587823/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1023958.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.466992+00:00"
+      "updated_at": "2026-11-09T11:44:57.455192+00:00"
     },
     {
       "id": "f1412cf5857c48c8",
@@ -1728,11 +1728,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1BZR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3af2279fc1e08ecf12e5100dbdfa766ff95be982/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036281.jpg",
       "source_price": 133000.0,
       "source_currency": "PYG",
-      "price_usd": 30.49,
-      "price_ars": 47412,
+      "price_usd": 29.84,
+      "price_ars": 46401,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.468186+00:00"
+      "updated_at": "2026-11-09T11:44:57.456118+00:00"
     },
     {
       "id": "dc4cd37400f4b5fd",
@@ -1745,11 +1745,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNG5ZR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8e124339a057e24ba1f4e7e13c61e0bccacfadda/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036060.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.468822+00:00"
+      "updated_at": "2026-11-09T11:44:57.456536+00:00"
     },
     {
       "id": "ee8c244f20c0e65e",
@@ -1762,11 +1762,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0haR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9683025071779fb96056e49d4cc0db48115b3fce/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036292.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.469457+00:00"
+      "updated_at": "2026-11-09T11:44:57.456968+00:00"
     },
     {
       "id": "ea763356781caa15",
@@ -1779,8 +1779,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHZtR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--378399b50e219fbbfdfb00ce1da0b0c0a438edf1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1023956.jpg",
       "source_price": 134000.0,
       "source_currency": "PYG",
-      "price_usd": 30.72,
-      "price_ars": 47770,
+      "price_usd": 30.06,
+      "price_ars": 46743,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:29.119573+00:00"
@@ -1796,11 +1796,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3BUQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d1c4dd36cf544bdf668910c267bbbf2173643064/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/859219.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.470066+00:00"
+      "updated_at": "2026-11-09T11:44:57.457402+00:00"
     },
     {
       "id": "d51ddb6eaf63f43d",
@@ -1813,11 +1813,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWV3R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--484000c5c629a92f669d8fe30292a4dab49f7f99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036822.jpg",
       "source_price": 162000.0,
       "source_currency": "PYG",
-      "price_usd": 37.13,
-      "price_ars": 57737,
+      "price_usd": 36.35,
+      "price_ars": 56524,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.470714+00:00"
+      "updated_at": "2026-11-09T11:44:57.457853+00:00"
     },
     {
       "id": "11f904d64ec076a5",
@@ -1830,8 +1830,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEN3R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f14041936fdbd288980088243327cd132eece401/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1023970.jpg",
       "source_price": 148000.0,
       "source_currency": "PYG",
-      "price_usd": 33.92,
-      "price_ars": 52746,
+      "price_usd": 33.21,
+      "price_ars": 51642,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:29.121532+00:00"
@@ -1847,8 +1847,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnhTR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4389ae87999d020f5ccdd6263858651dd51f69a7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1069302.jpg",
       "source_price": 143000.0,
       "source_currency": "PYG",
-      "price_usd": 32.78,
-      "price_ars": 50973,
+      "price_usd": 32.08,
+      "price_ars": 49884,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-29T23:05:01.814605+00:00"
@@ -1864,11 +1864,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3ZaR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f0209e477ffe10064533a60c512785b7dd596b1c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036787.jpg",
       "source_price": 133000.0,
       "source_currency": "PYG",
-      "price_usd": 30.49,
-      "price_ars": 47412,
+      "price_usd": 29.84,
+      "price_ars": 46401,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.471447+00:00"
+      "updated_at": "2026-11-09T11:44:57.458265+00:00"
     },
     {
       "id": "d793334c26a36fda",
@@ -1881,8 +1881,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejhTR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--81428ab89da7839f2be68561ce01732d67fb5229/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1015081.jpg",
       "source_price": 134000.0,
       "source_currency": "PYG",
-      "price_usd": 30.72,
-      "price_ars": 47770,
+      "price_usd": 30.06,
+      "price_ars": 46743,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:29.123700+00:00"
@@ -1898,11 +1898,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFJSR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--29de8874725b87ea51a859eca174f8f7310ef70e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1069298.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.472695+00:00"
+      "updated_at": "2026-11-09T11:44:57.459113+00:00"
     },
     {
       "id": "99a4231474de8905",
@@ -1915,11 +1915,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHBSR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--01d1804c19e1bb260919b1d51cc3dbcc1f4b9ccf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1069295.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.473328+00:00"
+      "updated_at": "2026-11-09T11:44:57.459529+00:00"
     },
     {
       "id": "7466a8ba878bcb99",
@@ -1932,11 +1932,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL05SR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c79ba1b9f8ad77ff54b04168c3012dd7574f434/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1069309.jpg",
       "source_price": 199000.0,
       "source_currency": "PYG",
-      "price_usd": 45.62,
-      "price_ars": 70939,
+      "price_usd": 44.65,
+      "price_ars": 69431,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.473934+00:00"
+      "updated_at": "2026-11-09T11:44:57.459951+00:00"
     },
     {
       "id": "322a0decc9037166",
@@ -1949,11 +1949,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHphR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--de702aa1fdaac94c83919747eed599ee661193d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036838.jpg",
       "source_price": 258000.0,
       "source_currency": "PYG",
-      "price_usd": 59.14,
-      "price_ars": 91963,
+      "price_usd": 57.88,
+      "price_ars": 90003,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.474588+00:00"
+      "updated_at": "2026-11-09T11:44:57.460457+00:00"
     },
     {
       "id": "4cc32ce0e581f11b",
@@ -1966,11 +1966,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFJTR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d0cd196dcf4983d62aab3e6fcf1ccd56fa0172f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1069306.jpg",
       "source_price": 199000.0,
       "source_currency": "PYG",
-      "price_usd": 45.62,
-      "price_ars": 70939,
+      "price_usd": 44.65,
+      "price_ars": 69431,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.475212+00:00"
+      "updated_at": "2026-11-09T11:44:57.460883+00:00"
     },
     {
       "id": "7790788b4e9684ab",
@@ -1983,11 +1983,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEtXR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f58dc1458b99bba0929e139883293fc9db8bd41/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1076685.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.475846+00:00"
+      "updated_at": "2026-11-09T11:44:57.461299+00:00"
     },
     {
       "id": "4f2225ef9d137f11",
@@ -2000,11 +2000,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMitTRlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2935ec64a666141358d0d9cce63a0ea28157c353/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1003326.jpg",
       "source_price": 369000.0,
       "source_currency": "PYG",
-      "price_usd": 84.58,
-      "price_ars": 131522,
+      "price_usd": 82.79,
+      "price_ars": 128738,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.476491+00:00"
+      "updated_at": "2026-11-09T11:44:57.461731+00:00"
     },
     {
       "id": "cb0a379ae6d167bf",
@@ -2017,11 +2017,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelRhR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0826888ea7f92b54d027f9862e22e34c4f32c31c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1036802.jpg",
       "source_price": 258000.0,
       "source_currency": "PYG",
-      "price_usd": 59.14,
-      "price_ars": 91963,
+      "price_usd": 57.88,
+      "price_ars": 90003,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.477106+00:00"
+      "updated_at": "2026-11-09T11:44:57.462139+00:00"
     },
     {
       "id": "6b07fa7547929174",
@@ -2034,11 +2034,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDRlR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ea51d26c062ed87897b2c9af07fe4b1bb6d74176/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1040480.jpg",
       "source_price": 168000.0,
       "source_currency": "PYG",
-      "price_usd": 38.51,
-      "price_ars": 59883,
+      "price_usd": 37.69,
+      "price_ars": 58608,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.477845+00:00"
+      "updated_at": "2026-11-09T11:44:57.462540+00:00"
     },
     {
       "id": "9ba85a318a523cf4",
@@ -2051,11 +2051,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeE12Rnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3baa116e244f765a1d10e6f8d888a86b7a129dc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1015731.jpg",
       "source_price": 663000.0,
       "source_currency": "PYG",
-      "price_usd": 151.97,
-      "price_ars": 236313,
+      "price_usd": 148.75,
+      "price_ars": 231306,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.478486+00:00"
+      "updated_at": "2026-11-09T11:44:57.462962+00:00"
     },
     {
       "id": "c42c9297b131f149",
@@ -2068,11 +2068,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeEdvR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--44ff2d3183c3de108ab9e3e427b632f9eb01ca63/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/800743.jpg",
       "source_price": 181000.0,
       "source_currency": "PYG",
-      "price_usd": 41.49,
-      "price_ars": 64517,
+      "price_usd": 40.61,
+      "price_ars": 63149,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:57.479102+00:00"
+      "updated_at": "2026-11-09T11:44:57.463354+00:00"
     },
     {
       "id": "c939e63d011b5bda",
@@ -2085,11 +2085,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM20yR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0705093d6bcfe3cab8b11c2039e232f34e65a906/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1092295.jpg",
       "source_price": 369000.0,
       "source_currency": "PYG",
-      "price_usd": 84.58,
-      "price_ars": 131522,
+      "price_usd": 82.79,
+      "price_ars": 128738,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.973921+00:00"
+      "updated_at": "2026-11-09T11:45:00.264198+00:00"
     },
     {
       "id": "1ed9df5a44d5a44a",
@@ -2102,11 +2102,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXo2QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--42b0ddc729f25876c4679d4850f58735bf5e6afd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/727738.jpg",
       "source_price": 6265000.0,
       "source_currency": "PYG",
-      "price_usd": 1436.08,
-      "price_ars": 2233104,
+      "price_usd": 1405.62,
+      "price_ars": 2185739,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.974597+00:00"
+      "updated_at": "2026-11-09T11:45:00.264620+00:00"
     },
     {
       "id": "0f7f64ab2e5f22f6",
@@ -2119,11 +2119,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODg4R2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5bf4ca165d0f00d19274efb23339cfbbb905ec4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/882679.jpg",
       "source_price": 641000.0,
       "source_currency": "PYG",
-      "price_usd": 146.93,
-      "price_ars": 228476,
+      "price_usd": 143.81,
+      "price_ars": 223625,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.975737+00:00"
+      "updated_at": "2026-11-09T11:45:00.265377+00:00"
     },
     {
       "id": "40fe8dca407298f3",
@@ -2136,11 +2136,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2c4R2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c7831c2d961753f430355c4d031b74342e3af17/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/882678.jpg",
       "source_price": 759000.0,
       "source_currency": "PYG",
-      "price_usd": 173.98,
-      "price_ars": 270539,
+      "price_usd": 170.29,
+      "price_ars": 264801,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.976462+00:00"
+      "updated_at": "2026-11-09T11:45:00.265908+00:00"
     },
     {
       "id": "9c8f8048b43dc9f4",
@@ -2153,11 +2153,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTdWR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--729e41277c0daf5766b8817b32799d8ae601c092/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1100197.jpg",
       "source_price": 5085000.0,
       "source_currency": "PYG",
-      "price_usd": 1165.6,
-      "price_ars": 1812508,
+      "price_usd": 1140.87,
+      "price_ars": 1774053,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.981356+00:00"
+      "updated_at": "2026-11-09T11:45:00.268649+00:00"
     },
     {
       "id": "399bed2e291e59c0",
@@ -2170,11 +2170,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM09zR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--68130a1ca910c9ae7ae2512edba523bb26192914/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1059271.jpg",
       "source_price": 258000.0,
       "source_currency": "PYG",
-      "price_usd": 59.14,
-      "price_ars": 91963,
+      "price_usd": 57.88,
+      "price_ars": 90003,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.981975+00:00"
+      "updated_at": "2026-11-09T11:45:00.269050+00:00"
     },
     {
       "id": "81066fdd91704b7e",
@@ -2187,11 +2187,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjQ5R2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e63ea87ff1d91d5af5211c57551a4b510596ff7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1068596.jpg",
       "source_price": 369000.0,
       "source_currency": "PYG",
-      "price_usd": 84.58,
-      "price_ars": 131522,
+      "price_usd": 82.79,
+      "price_ars": 128738,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.983918+00:00"
+      "updated_at": "2026-11-09T11:45:00.270332+00:00"
     },
     {
       "id": "0fb45a38277bc63d",
@@ -2204,11 +2204,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVlLQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c1c5e4e8af34bad968cebf4dcaa390ce5e529e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/770823.jpg",
       "source_price": 332000.0,
       "source_currency": "PYG",
-      "price_usd": 76.1,
-      "price_ars": 118336,
+      "price_usd": 74.49,
+      "price_ars": 115832,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.985171+00:00"
+      "updated_at": "2026-11-09T11:45:00.271146+00:00"
     },
     {
       "id": "1078bdd57518ce33",
@@ -2221,11 +2221,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXlvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef695f682a16d1f653b4f855a49e8285b756eb84/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/754918.jpg",
       "source_price": 383000.0,
       "source_currency": "PYG",
-      "price_usd": 87.79,
-      "price_ars": 136513,
+      "price_usd": 85.93,
+      "price_ars": 133621,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.985783+00:00"
+      "updated_at": "2026-11-09T11:45:00.271533+00:00"
     },
     {
       "id": "853d526ff5a050dc",
@@ -2238,11 +2238,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1Y3R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af164794f1963045e52dd9841ce2b6e74e9f270f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1038912.jpg",
       "source_price": 12161000.0,
       "source_currency": "PYG",
-      "price_usd": 2787.58,
-      "price_ars": 4334687,
+      "price_usd": 2728.44,
+      "price_ars": 4242724,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:59.987619+00:00"
+      "updated_at": "2026-11-09T11:45:00.272715+00:00"
     },
     {
       "id": "236dcc29b7a81058",
@@ -2255,8 +2255,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1o0R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb9e681ef1b9054f8819228fea59482742b01b40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1039485.jpg",
       "source_price": 1111000.0,
       "source_currency": "PYG",
-      "price_usd": 254.67,
-      "price_ars": 396012,
+      "price_usd": 249.26,
+      "price_ars": 387599,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:50.821908+00:00"
@@ -2272,8 +2272,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnV0R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be1507b6f894682c8e78e53911db8a24030f2e6a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1096201.jpg",
       "source_price": 13219000.0,
       "source_currency": "PYG",
-      "price_usd": 3030.09,
-      "price_ars": 4711790,
+      "price_usd": 2965.82,
+      "price_ars": 4611850,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:31.808626+00:00"
@@ -2289,8 +2289,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1k1RkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5afe5abd42f585e1ef501a6464d531d8a2206efc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/935575.jpg",
       "source_price": 101000.0,
       "source_currency": "PYG",
-      "price_usd": 23.15,
-      "price_ars": 35998,
+      "price_usd": 22.66,
+      "price_ars": 35236,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T10:10:17.032578+00:00"
@@ -2306,11 +2306,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUx1QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--023173bc29c97e68089fe188bfc4835ac2b661fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/633220.jpg",
       "source_price": 295000.0,
       "source_currency": "PYG",
-      "price_usd": 67.62,
-      "price_ars": 105149,
+      "price_usd": 66.19,
+      "price_ars": 102925,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.011158+00:00"
+      "updated_at": "2026-11-09T11:45:03.083076+00:00"
     },
     {
       "id": "fb86b1975b96ee67",
@@ -2323,8 +2323,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalByIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e9ec2b2cfdd839fa0d73c679a4086eda42a51f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/638408.jpg",
       "source_price": 63000.0,
       "source_currency": "PYG",
-      "price_usd": 14.44,
-      "price_ars": 22454,
+      "price_usd": 14.13,
+      "price_ars": 21972,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:48.034260+00:00"
@@ -2340,11 +2340,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0drQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dcb29b7dedbdcf18772385ba5e9ea353e574e26e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/621569.jpg",
       "source_price": 369000.0,
       "source_currency": "PYG",
-      "price_usd": 84.58,
-      "price_ars": 131522,
+      "price_usd": 82.79,
+      "price_ars": 128738,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.012426+00:00"
+      "updated_at": "2026-11-09T11:45:03.083902+00:00"
     },
     {
       "id": "8a2b04b1dd0b5ac0",
@@ -2357,11 +2357,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0hQQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--753f56ad8683f15d1f8e7ecc619147fbf7596288/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/527783.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.013023+00:00"
+      "updated_at": "2026-11-09T11:45:03.084297+00:00"
     },
     {
       "id": "ea5d3ce5540f347d",
@@ -2374,8 +2374,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW5vIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc50f278e9b178caf02dd6a1a7271c32a53f90b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/633685.jpg",
       "source_price": 55000.0,
       "source_currency": "PYG",
-      "price_usd": 12.61,
-      "price_ars": 19609,
+      "price_usd": 12.34,
+      "price_ars": 19189,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T01:09:00.768973+00:00"
@@ -2391,11 +2391,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0xyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ac2989cc60cc3b47585a920040b4d61ca21699f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/638409.jpg",
       "source_price": 63000.0,
       "source_currency": "PYG",
-      "price_usd": 14.44,
-      "price_ars": 22454,
+      "price_usd": 14.13,
+      "price_ars": 21972,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.013689+00:00"
+      "updated_at": "2026-11-09T11:45:03.084693+00:00"
     },
     {
       "id": "5a52b0a16dd720bc",
@@ -2408,8 +2408,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVJxQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a84ba465b9055a9386973570aa27102b06edd3c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/741911.jpg",
       "source_price": 187000.0,
       "source_currency": "PYG",
-      "price_usd": 42.86,
-      "price_ars": 66647,
+      "price_usd": 41.96,
+      "price_ars": 65248,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:03:13.700855+00:00"
@@ -2425,11 +2425,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFhqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8537ad8b98a184a0d267ffe50ac62805375e2c19/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/624288.jpg",
       "source_price": 96000.0,
       "source_currency": "PYG",
-      "price_usd": 22.01,
-      "price_ars": 34226,
+      "price_usd": 21.54,
+      "price_ars": 33495,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.015081+00:00"
+      "updated_at": "2026-11-09T11:45:03.085597+00:00"
     },
     {
       "id": "bf1d9705d7054de4",
@@ -2442,11 +2442,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGZRIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5bc5218ea0bf4fb58371206ed3bd39970622f5b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/579706.jpg",
       "source_price": 96000.0,
       "source_currency": "PYG",
-      "price_usd": 22.01,
-      "price_ars": 34226,
+      "price_usd": 21.54,
+      "price_ars": 33495,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.016403+00:00"
+      "updated_at": "2026-11-09T11:45:03.086459+00:00"
     },
     {
       "id": "ef4dffbf62da9020",
@@ -2459,11 +2459,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd020982a736e9b812d9b86775061300077f72f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/604300.jpg",
       "source_price": 96000.0,
       "source_currency": "PYG",
-      "price_usd": 22.01,
-      "price_ars": 34226,
+      "price_usd": 21.54,
+      "price_ars": 33495,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.016992+00:00"
+      "updated_at": "2026-11-09T11:45:03.086881+00:00"
     },
     {
       "id": "ecc04db9828214c3",
@@ -2476,11 +2476,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckxtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1289342c2af662ccf670d31bdd0c718d1851b99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/630920.jpg",
       "source_price": 125000.0,
       "source_currency": "PYG",
-      "price_usd": 28.65,
-      "price_ars": 44551,
+      "price_usd": 28.05,
+      "price_ars": 43618,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.017614+00:00"
+      "updated_at": "2026-11-09T11:45:03.087268+00:00"
     },
     {
       "id": "6aaf0e658d16e68a",
@@ -2493,11 +2493,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3ZQQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5d08c42a17272d8b75eb821108e32dc584caa4c6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/801047.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.018221+00:00"
+      "updated_at": "2026-11-09T11:45:03.087672+00:00"
     },
     {
       "id": "5715bc622182ad37",
@@ -2510,8 +2510,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajc4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eaa78b95df633935ff78d313ed240188e99cf102/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/663795.jpg",
       "source_price": 121000.0,
       "source_currency": "PYG",
-      "price_usd": 27.74,
-      "price_ars": 43136,
+      "price_usd": 27.15,
+      "price_ars": 42218,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-01T10:36:22.715529+00:00"
@@ -2527,11 +2527,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVJ2QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ef80ea87ff85de8b4fe67128c0d3934c59006ff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/837514.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.019458+00:00"
+      "updated_at": "2026-11-09T11:45:03.088440+00:00"
     },
     {
       "id": "95530b1732a8bc32",
@@ -2544,11 +2544,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXpiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--699cf1be3ae57e0b1e37e88f469d02abd65d6d70/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/611443.jpg",
       "source_price": 125000.0,
       "source_currency": "PYG",
-      "price_usd": 28.65,
-      "price_ars": 44551,
+      "price_usd": 28.05,
+      "price_ars": 43618,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.020051+00:00"
+      "updated_at": "2026-11-09T11:45:03.088852+00:00"
     },
     {
       "id": "b1812c844f4b13d3",
@@ -2561,11 +2561,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMThUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--56fc8b7faebacb5b7453d332ad6ec2f2b1ed2b45/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/641255.jpg",
       "source_price": 59000.0,
       "source_currency": "PYG",
-      "price_usd": 13.52,
-      "price_ars": 21024,
+      "price_usd": 13.24,
+      "price_ars": 20588,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.020660+00:00"
+      "updated_at": "2026-11-09T11:45:03.089340+00:00"
     },
     {
       "id": "02fc7df7d9fa2396",
@@ -2578,11 +2578,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjlCQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--79411defd053764ae32b0ad8ff066d8285a5a35e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/721297.jpg",
       "source_price": 133000.0,
       "source_currency": "PYG",
-      "price_usd": 30.49,
-      "price_ars": 47412,
+      "price_usd": 29.84,
+      "price_ars": 46401,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.021381+00:00"
+      "updated_at": "2026-11-09T11:45:03.089752+00:00"
     },
     {
       "id": "2868be23e08cd1b2",
@@ -2595,11 +2595,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWh2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a6a835db7e709dbe8b0bec1362e6a5fe487a63d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/739473.jpg",
       "source_price": 1621000.0,
       "source_currency": "PYG",
-      "price_usd": 371.57,
-      "price_ars": 577791,
+      "price_usd": 363.69,
+      "price_ars": 565538,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.021987+00:00"
+      "updated_at": "2026-11-09T11:45:03.090157+00:00"
     },
     {
       "id": "b43ac8cbcb5d11f3",
@@ -2612,11 +2612,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMk52QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0d61704f4744f1dee4d3fe545d8767c4af2690ff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/837515.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.022598+00:00"
+      "updated_at": "2026-11-09T11:45:03.090562+00:00"
     },
     {
       "id": "43740c25998f08ac",
@@ -2629,11 +2629,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2hqQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad37fcd80d8f5c65661f29f860d9b8f78627ab2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/812190.jpg",
       "source_price": 1953000.0,
       "source_currency": "PYG",
-      "price_usd": 447.67,
-      "price_ars": 696127,
+      "price_usd": 438.18,
+      "price_ars": 681370,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.023181+00:00"
+      "updated_at": "2026-11-09T11:45:03.090965+00:00"
     },
     {
       "id": "36c94b78e24eeabe",
@@ -2646,11 +2646,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXZWR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d82a5313f311aa91d763fa17a3808a3be92fea8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1065425.jpg",
       "source_price": 111000.0,
       "source_currency": "PYG",
-      "price_usd": 25.44,
-      "price_ars": 39559,
+      "price_usd": 24.9,
+      "price_ars": 38720,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.023794+00:00"
+      "updated_at": "2026-11-09T11:45:03.091359+00:00"
     },
     {
       "id": "75c4ed61b3458246",
@@ -2663,11 +2663,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEJ2QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3abb7e49b4b854c051a98dee0742b69b2c41d491/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/837513.jpg",
       "source_price": 184000.0,
       "source_currency": "PYG",
-      "price_usd": 42.18,
-      "price_ars": 65590,
+      "price_usd": 41.28,
+      "price_ars": 64190,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:03.024426+00:00"
+      "updated_at": "2026-11-09T11:45:03.091757+00:00"
     },
     {
       "id": "13c6d8eb1526e559",
@@ -2680,11 +2680,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1QyQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d67a353bbdd2f29c84bccb7974678b972063d9b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/841855.jpg",
       "source_price": 221000.0,
       "source_currency": "PYG",
-      "price_usd": 50.66,
-      "price_ars": 78776,
+      "price_usd": 49.58,
+      "price_ars": 77097,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.492386+00:00"
+      "updated_at": "2026-11-09T11:45:05.658046+00:00"
     },
     {
       "id": "2e96125e8ac16cd8",
@@ -2697,11 +2697,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHV3R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--861bc639dcd6fb2e2dfd8295784689a220447021/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/981735.jpg",
       "source_price": 472000.0,
       "source_currency": "PYG",
-      "price_usd": 108.19,
-      "price_ars": 168235,
+      "price_usd": 105.9,
+      "price_ars": 164674,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.493133+00:00"
+      "updated_at": "2026-11-09T11:45:05.658477+00:00"
     },
     {
       "id": "9957d781896cbc41",
@@ -2714,11 +2714,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2VoR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e801d2986e0bfe3a9d5987a74dd07cf1965a21e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1086045.jpg",
       "source_price": 626000.0,
       "source_currency": "PYG",
-      "price_usd": 143.49,
-      "price_ars": 223127,
+      "price_usd": 140.45,
+      "price_ars": 218400,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.494369+00:00"
+      "updated_at": "2026-11-09T11:45:05.659281+00:00"
     },
     {
       "id": "83fb13bb06afc077",
@@ -2731,11 +2731,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlBXR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8e1e184101ebda4f16fbca7270aa90d5711d5194/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1083024.jpg",
       "source_price": 221000.0,
       "source_currency": "PYG",
-      "price_usd": 50.66,
-      "price_ars": 78776,
+      "price_usd": 49.58,
+      "price_ars": 77097,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.494955+00:00"
+      "updated_at": "2026-11-09T11:45:05.659677+00:00"
     },
     {
       "id": "29510161ae377bb7",
@@ -2748,11 +2748,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTd0R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f29ffa2a34f94e7151b7e6fd4033d74618ca762/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1047750.jpg",
       "source_price": 5712000.0,
       "source_currency": "PYG",
-      "price_usd": 1309.32,
-      "price_ars": 2035993,
+      "price_usd": 1281.55,
+      "price_ars": 1992810,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.495568+00:00"
+      "updated_at": "2026-11-09T11:45:05.660065+00:00"
     },
     {
       "id": "623fe1c3beb10f46",
@@ -2765,11 +2765,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUlDR2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--84d5f7e292cd042ecb17932fecdc59c0c4edb5bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1017979.jpg",
       "source_price": 464000.0,
       "source_currency": "PYG",
-      "price_usd": 106.36,
-      "price_ars": 165390,
+      "price_usd": 104.1,
+      "price_ars": 161876,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.496153+00:00"
+      "updated_at": "2026-11-09T11:45:05.660558+00:00"
     },
     {
       "id": "4e68ca7520479236",
@@ -2782,11 +2782,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWRTQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b747352fa19455baa32b6d7bd200b2e3fbcc4d39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/880328.jpg",
       "source_price": 2690000.0,
       "source_currency": "PYG",
-      "price_usd": 616.61,
-      "price_ars": 958829,
+      "price_usd": 603.53,
+      "price_ars": 938489,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.497373+00:00"
+      "updated_at": "2026-11-09T11:45:05.661340+00:00"
     },
     {
       "id": "87d3046b6a70fd34",
@@ -2799,11 +2799,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMG50R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c32511b4bd2d248be74c8c7c67e14503701c5474/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1024695.jpg",
       "source_price": 5785000.0,
       "source_currency": "PYG",
-      "price_usd": 1326.05,
-      "price_ars": 2062008,
+      "price_usd": 1297.92,
+      "price_ars": 2018266,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.497981+00:00"
+      "updated_at": "2026-11-09T11:45:05.661732+00:00"
     },
     {
       "id": "1a5f37148ea8d91c",
@@ -2816,11 +2816,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzlSQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d63b26d847b1614e1d98093ef139249e7efe3d75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/892628.jpg",
       "source_price": 2690000.0,
       "source_currency": "PYG",
-      "price_usd": 616.61,
-      "price_ars": 958829,
+      "price_usd": 603.53,
+      "price_ars": 938489,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.498587+00:00"
+      "updated_at": "2026-11-09T11:45:05.662114+00:00"
     },
     {
       "id": "419c5da64419cf41",
@@ -2833,8 +2833,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekQxQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--317776188bad8c8e9f4ec6a806df6605c10684df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/879062.jpg",
       "source_price": 486000.0,
       "source_currency": "PYG",
-      "price_usd": 111.4,
-      "price_ars": 173227,
+      "price_usd": 109.04,
+      "price_ars": 169557,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:03:15.985931+00:00"
@@ -2850,11 +2850,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3hTQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b8b1ecac47bc83e0ac6fb4bbad72d28582082c67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/880321.jpg",
       "source_price": 2720000.0,
       "source_currency": "PYG",
-      "price_usd": 623.49,
-      "price_ars": 969527,
+      "price_usd": 610.26,
+      "price_ars": 948954,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.499297+00:00"
+      "updated_at": "2026-11-09T11:45:05.662489+00:00"
     },
     {
       "id": "a9fd8d8a21cf4aab",
@@ -2867,11 +2867,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzNkRVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bff2b91c9fee99656cc0a7fb4bbaad9072d26da6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/902990.jpg",
       "source_price": 2764000.0,
       "source_currency": "PYG",
-      "price_usd": 633.57,
-      "price_ars": 985201,
+      "price_usd": 620.13,
+      "price_ars": 964302,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.499887+00:00"
+      "updated_at": "2026-11-09T11:45:05.662884+00:00"
     },
     {
       "id": "4ce8e0909b76eba7",
@@ -2884,11 +2884,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHpXR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c779925628093d37b4fba2eecdace552ede4ef4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1081512.jpg",
       "source_price": 88000.0,
       "source_currency": "PYG",
-      "price_usd": 20.17,
-      "price_ars": 31364,
+      "price_usd": 19.74,
+      "price_ars": 30696,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.500514+00:00"
+      "updated_at": "2026-11-09T11:45:05.663294+00:00"
     },
     {
       "id": "6a0807b5fd8151c2",
@@ -2901,11 +2901,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNk1oRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c6f697dc1413004bf2c51d0aa6c20e849bd2fe46/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/892616.jpg",
       "source_price": 2690000.0,
       "source_currency": "PYG",
-      "price_usd": 616.61,
-      "price_ars": 958829,
+      "price_usd": 603.53,
+      "price_ars": 938489,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.501104+00:00"
+      "updated_at": "2026-11-09T11:45:05.663699+00:00"
     },
     {
       "id": "af59984e89153b3e",
@@ -2918,11 +2918,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWJ0Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c020831c1fee3f74ba8ede32b4778eeea6dd681/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/789353.jpg",
       "source_price": 1150000.0,
       "source_currency": "PYG",
-      "price_usd": 263.61,
-      "price_ars": 409914,
+      "price_usd": 258.01,
+      "price_ars": 401206,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.501702+00:00"
+      "updated_at": "2026-11-09T11:45:05.664172+00:00"
     },
     {
       "id": "414ec7f999f9bc22",
@@ -2935,11 +2935,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWMzR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f0c2d2fb51b63ab49488c728400a1706f0e1cd95/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1004538.jpg",
       "source_price": 4680000.0,
       "source_currency": "PYG",
-      "price_usd": 1072.76,
-      "price_ars": 1668142,
+      "price_usd": 1050.01,
+      "price_ars": 1632766,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.502900+00:00"
+      "updated_at": "2026-11-09T11:45:05.664996+00:00"
     },
     {
       "id": "ff72d6fb34f89f2a",
@@ -2952,11 +2952,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3BJR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--979a246056e2492e78897832b0d5d23abb1b1aba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1026567.jpg",
       "source_price": 2027000.0,
       "source_currency": "PYG",
-      "price_usd": 464.63,
-      "price_ars": 722500,
+      "price_usd": 454.78,
+      "price_ars": 707183,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.503518+00:00"
+      "updated_at": "2026-11-09T11:45:05.665390+00:00"
     },
     {
       "id": "9e3b0b1b7729f225",
@@ -2969,11 +2969,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzc3R0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6da42f8a58887d530199b1a0b55a999429fe91e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/969715.jpg",
       "source_price": 1688000.0,
       "source_currency": "PYG",
-      "price_usd": 386.93,
-      "price_ars": 601676,
+      "price_usd": 378.72,
+      "price_ars": 588910,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.504710+00:00"
+      "updated_at": "2026-11-09T11:45:05.666187+00:00"
     },
     {
       "id": "34b98306fd02a910",
@@ -2986,11 +2986,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3c2R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c7dab2d5383ca0d041fda3b96d969bd8700d5bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1021160.jpg",
       "source_price": 3501000.0,
       "source_currency": "PYG",
-      "price_usd": 802.51,
-      "price_ars": 1247903,
+      "price_usd": 785.49,
+      "price_ars": 1221437,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.505459+00:00"
+      "updated_at": "2026-11-09T11:45:05.666569+00:00"
     },
     {
       "id": "c03c8d10dea0d96f",
@@ -3003,11 +3003,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2I2R0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b8281d2a39917f5eee2c784c1960085e5c7bd246/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1014337.jpg",
       "source_price": 5638000.0,
       "source_currency": "PYG",
-      "price_usd": 1292.36,
-      "price_ars": 2009620,
+      "price_usd": 1264.94,
+      "price_ars": 1966982,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.506049+00:00"
+      "updated_at": "2026-11-09T11:45:05.666979+00:00"
     },
     {
       "id": "f55597ece84e1b75",
@@ -3020,11 +3020,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFFaSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5df74434fd217a97f97967d4e28951fea63ec7a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1120733.jpg",
       "source_price": 7451000.0,
       "source_currency": "PYG",
-      "price_usd": 1707.94,
-      "price_ars": 2655847,
+      "price_usd": 1671.71,
+      "price_ars": 2599509,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:05.506659+00:00"
+      "updated_at": "2026-11-09T11:45:05.667367+00:00"
     },
     {
       "id": "7e723f480a06351d",
@@ -3037,8 +3037,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVU0R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5cde68820eb9a9ad243681c1f29179c3018ff1b3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1021154.jpg",
       "source_price": 2677000.0,
       "source_currency": "PYG",
-      "price_usd": 613.63,
-      "price_ars": 954195,
+      "price_usd": 600.61,
+      "price_ars": 933949,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:44.194193+00:00"
@@ -3054,8 +3054,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2l4R1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4ee2d8b0b0d662aa260612f32746445c7283b82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1011503.jpg",
       "source_price": 852000.0,
       "source_currency": "PYG",
-      "price_usd": 195.3,
-      "price_ars": 303692,
+      "price_usd": 191.15,
+      "price_ars": 297238,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:44.194907+00:00"
@@ -3071,8 +3071,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejZQR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98d15e3aa18bad7668817d10fcc98e4ff5a68e32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1072637.jpg",
       "source_price": 229000.0,
       "source_currency": "PYG",
-      "price_usd": 52.49,
-      "price_ars": 81622,
+      "price_usd": 51.38,
+      "price_ars": 79896,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:44.195526+00:00"
@@ -3088,11 +3088,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMW42R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--55ced23abcde9df6da26f7376482aa1da5e6e54c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1098378.jpg",
       "source_price": 877000.0,
       "source_currency": "PYG",
-      "price_usd": 201.03,
-      "price_ars": 312602,
+      "price_usd": 196.76,
+      "price_ars": 305962,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:08.081167+00:00"
+      "updated_at": "2026-11-09T11:45:08.581953+00:00"
     },
     {
       "id": "2b5e45f0e8ee2fe5",
@@ -3105,11 +3105,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXowR1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af9e9227eaae7252468afa0ec53ee984550c3a15/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1064476.jpg",
       "source_price": 4931000.0,
       "source_currency": "PYG",
-      "price_usd": 1130.3,
-      "price_ars": 1757616,
+      "price_usd": 1106.32,
+      "price_ars": 1720328,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:08.085039+00:00"
+      "updated_at": "2026-11-09T11:45:08.583951+00:00"
     },
     {
       "id": "4c0b70dfc44f387c",
@@ -3122,11 +3122,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK08wRnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dc29219829706fe685b366a63275e298bcaae47b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1021078.jpg",
       "source_price": 3049000.0,
       "source_currency": "PYG",
-      "price_usd": 698.9,
-      "price_ars": 1086790,
+      "price_usd": 684.07,
+      "price_ars": 1063729,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:08.078487+00:00"
+      "updated_at": "2026-11-09T11:45:08.580738+00:00"
     },
     {
       "id": "2cb2b6df2602c345",
@@ -3139,11 +3139,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNi83R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf1b70f1020ec0bfaf751ba2219cb522b25ec563/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1098585.jpg",
       "source_price": 1010000.0,
       "source_currency": "PYG",
-      "price_usd": 231.51,
-      "price_ars": 359998,
+      "price_usd": 226.6,
+      "price_ars": 352363,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:08.083058+00:00"
+      "updated_at": "2026-11-09T11:45:08.582734+00:00"
     },
     {
       "id": "d0aa79f1ad6fd2ed",
@@ -3156,8 +3156,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenI3R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b5399cf7e297d25d07b75067f7daaac30e6f0abe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1098386.jpg",
       "source_price": 201000.0,
       "source_currency": "PYG",
-      "price_usd": 46.07,
-      "price_ars": 71639,
+      "price_usd": 45.1,
+      "price_ars": 70130,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-04T11:05:53.266240+00:00"
@@ -3173,11 +3173,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVJ4R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3b08e57252c6b4a8d9c8a21fe6c50de702dc6760/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1064478.jpg",
       "source_price": 8100000.0,
       "source_currency": "PYG",
-      "price_usd": 1856.7,
-      "price_ars": 2887168,
+      "price_usd": 1817.32,
+      "price_ars": 2825933,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:08.090701+00:00"
+      "updated_at": "2026-11-09T11:45:08.587153+00:00"
     },
     {
       "id": "c6cc3c92c7e0e355",
@@ -3190,11 +3190,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2tGSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--06fd2c072790824c105d2a3983a19a92a959adaf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111825.jpg",
       "source_price": 70000.0,
       "source_currency": "PYG",
-      "price_usd": 16.05,
-      "price_ars": 24958,
+      "price_usd": 15.71,
+      "price_ars": 24429,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.444022+00:00"
+      "updated_at": "2026-11-09T11:45:10.786508+00:00"
     },
     {
       "id": "6ee7dda138203849",
@@ -3207,11 +3207,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnNGSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fbb52dfdfc510169021d1da8c7e352abccc65a83/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111715.jpg",
       "source_price": 81000.0,
       "source_currency": "PYG",
-      "price_usd": 18.57,
-      "price_ars": 28876,
+      "price_usd": 18.17,
+      "price_ars": 28254,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.444773+00:00"
+      "updated_at": "2026-11-09T11:45:10.786930+00:00"
     },
     {
       "id": "f62b36189d8f9252",
@@ -3224,11 +3224,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmtGSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad761735dc5599b2a143f62c2b12ab561fdc5dab/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111700.jpg",
       "source_price": 74000.0,
       "source_currency": "PYG",
-      "price_usd": 16.96,
-      "price_ars": 26373,
+      "price_usd": 16.6,
+      "price_ars": 25813,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.445401+00:00"
+      "updated_at": "2026-11-09T11:45:10.787326+00:00"
     },
     {
       "id": "b22a5ac2b92373c2",
@@ -3241,11 +3241,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMllGSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--52957f78d0db05150856cf43e381aa1b1e0b06e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111703.jpg",
       "source_price": 66000.0,
       "source_currency": "PYG",
-      "price_usd": 15.13,
-      "price_ars": 23527,
+      "price_usd": 14.81,
+      "price_ars": 23030,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.446007+00:00"
+      "updated_at": "2026-11-09T11:45:10.787731+00:00"
     },
     {
       "id": "f816bac1b2d719f5",
@@ -3258,11 +3258,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEFFSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ca5f50fd4510f31737ca1790b98cd07fdaf4014/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1112192.jpg",
       "source_price": 74000.0,
       "source_currency": "PYG",
-      "price_usd": 16.96,
-      "price_ars": 26373,
+      "price_usd": 16.6,
+      "price_ars": 25813,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.446633+00:00"
+      "updated_at": "2026-11-09T11:45:10.788135+00:00"
     },
     {
       "id": "adb05b4f18a65107",
@@ -3275,11 +3275,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNllDSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f39339e5986af733cfeb7fa55206725d4b3f8f3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/707842.jpg",
       "source_price": 147000.0,
       "source_currency": "PYG",
-      "price_usd": 33.7,
-      "price_ars": 52404,
+      "price_usd": 32.98,
+      "price_ars": 51284,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.447246+00:00"
+      "updated_at": "2026-11-09T11:45:10.788518+00:00"
     },
     {
       "id": "8a2cc28930d59480",
@@ -3292,11 +3292,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMk1DSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--834a44c46e7a47e5ba066d1c754626831ed03965/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1111867.jpg",
       "source_price": 22000.0,
       "source_currency": "PYG",
-      "price_usd": 5.04,
-      "price_ars": 7837,
+      "price_usd": 4.94,
+      "price_ars": 7682,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.447854+00:00"
+      "updated_at": "2026-11-09T11:45:10.788932+00:00"
     },
     {
       "id": "d2d50df84485994e",
@@ -3309,8 +3309,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUxnR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf98ccdc7b4a0875c9364515642ca8f2d4a0779e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1063700.jpg",
       "source_price": 34000.0,
       "source_currency": "PYG",
-      "price_usd": 7.79,
-      "price_ars": 12113,
+      "price_usd": 7.63,
+      "price_ars": 11865,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-01T10:36:29.388575+00:00"
@@ -3326,11 +3326,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEMxR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fbe96f336f3f06db596266d7db5a956bca13817a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1091713.jpg",
       "source_price": 369000.0,
       "source_currency": "PYG",
-      "price_usd": 84.58,
-      "price_ars": 131522,
+      "price_usd": 82.79,
+      "price_ars": 128738,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.449033+00:00"
+      "updated_at": "2026-11-09T11:45:10.789697+00:00"
     },
     {
       "id": "66b54d4c0e94d268",
@@ -3343,8 +3343,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWExR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2bba62369e9acf478f060b629f4227d0b65791b5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1091714.jpg",
       "source_price": 405000.0,
       "source_currency": "PYG",
-      "price_usd": 92.84,
-      "price_ars": 144366,
+      "price_usd": 90.87,
+      "price_ars": 141303,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:54.007951+00:00"
@@ -3360,11 +3360,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeG16R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--488b31976098787a6c8cdef3ee26f0dce80f053e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1091716.jpg",
       "source_price": 516000.0,
       "source_currency": "PYG",
-      "price_usd": 118.28,
-      "price_ars": 183925,
+      "price_usd": 115.77,
+      "price_ars": 180022,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.449706+00:00"
+      "updated_at": "2026-11-09T11:45:10.790281+00:00"
     },
     {
       "id": "2013d5642e5d6773",
@@ -3377,11 +3377,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnV4R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2bc9a62c059b0573da016a4104980ab27bed00fc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1083145.jpg",
       "source_price": 44000.0,
       "source_currency": "PYG",
-      "price_usd": 10.09,
-      "price_ars": 15690,
+      "price_usd": 9.87,
+      "price_ars": 15348,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.451558+00:00"
+      "updated_at": "2026-11-09T11:45:10.791487+00:00"
     },
     {
       "id": "2f844d798133ffb0",
@@ -3394,11 +3394,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMG14R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f3c64306dd94c294882bacedfd64e70c1c912e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1083146.jpg",
       "source_price": 74000.0,
       "source_currency": "PYG",
-      "price_usd": 16.96,
-      "price_ars": 26373,
+      "price_usd": 16.6,
+      "price_ars": 25813,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.452169+00:00"
+      "updated_at": "2026-11-09T11:45:10.791907+00:00"
     },
     {
       "id": "ce3d003ab2a88cb8",
@@ -3411,11 +3411,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0d4R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e4493d49787bfa376c12b03215f52fa7274d4bfe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1083150.jpg",
       "source_price": 81000.0,
       "source_currency": "PYG",
-      "price_usd": 18.57,
-      "price_ars": 28876,
+      "price_usd": 18.17,
+      "price_ars": 28254,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.452815+00:00"
+      "updated_at": "2026-11-09T11:45:10.792301+00:00"
     },
     {
       "id": "f2c2b9d729e52ef5",
@@ -3428,11 +3428,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL213R3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--620bb278eaaad7fb4d5d2173312265c5ed4b093b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1083149.jpg",
       "source_price": 81000.0,
       "source_currency": "PYG",
-      "price_usd": 18.57,
-      "price_ars": 28876,
+      "price_usd": 18.17,
+      "price_ars": 28254,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:32:10.453439+00:00"
+      "updated_at": "2026-11-09T11:45:10.792703+00:00"
     },
     {
       "id": "e8c15e120c35882e",
@@ -3445,8 +3445,8 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3pZR3c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b9ef5f64d7101022b506fe5770ac0ed8ec67340/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/1028864.jpg",
       "source_price": 4985000.0,
       "source_currency": "PYG",
-      "price_usd": 1142.67,
-      "price_ars": 1776852,
+      "price_usd": 1118.44,
+      "price_ars": 1739174,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:31.307032+00:00"
@@ -3462,11 +3462,11 @@
       "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKy9VR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--792e87d597919291881a398d80f2fbfadadee639/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/951141.jpg",
       "source_price": 6522000.0,
       "source_currency": "PYG",
-      "price_usd": 1494.99,
-      "price_ars": 2324709,
+      "price_usd": 1463.28,
+      "price_ars": 2275400,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-08T10:31:41.456918+00:00"
+      "updated_at": "2026-11-09T11:44:44.295296+00:00"
     }
   ],
   "failures": [
@@ -3529,6 +3529,11 @@
       "provider": "Madrid Center",
       "url": "https://madridcenterimportados.com/es/informatica",
       "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Shopping China",
+      "url": "https://www.shoppingchina.com.py/electronicos.auriculares?page=1",
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "provider": "Imagenes y actualización de fichas",
