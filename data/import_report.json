@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09T11:45:12.803116+00:00",
+  "updated_at": "2026-11-10T11:22:27.488174+00:00",
   "exchange_rates": {
     "ARS": "1555",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "6239.966292",
-    "BRL_per_USD": "5.504608"
+    "PYG_per_USD": "6266.410847",
+    "BRL_per_USD": "5.512234"
   },
   "total_products_extracted": 192,
   "total_products_in_catalog": 200,
@@ -57,13 +57,11 @@
     {
       "provider": "Shopping China",
       "pages_checked": 12,
-      "pages_loaded": 11,
+      "pages_loaded": 12,
       "pages_blocked": 0,
       "products_found": 192,
       "status": "ok",
-      "details": [
-        "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-      ]
+      "details": []
     }
   ],
   "warnings": [
@@ -126,11 +124,6 @@
       "provider": "Madrid Center",
       "url": "https://madridcenterimportados.com/es/informatica",
       "error": "HTTP 403 (bloqueo/limitación del proveedor)"
-    },
-    {
-      "provider": "Shopping China",
-      "url": "https://www.shoppingchina.com.py/electronicos.auriculares?page=1",
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "provider": "Imagenes y actualización de fichas",
