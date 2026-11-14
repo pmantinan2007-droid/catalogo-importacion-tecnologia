@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-13T11:10:45.365239+00:00",
+  "updated_at": "2026-11-14T10:37:11.136617+00:00",
   "exchange_rates": {
-    "ARS": "1565",
+    "ARS": "1575",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "6221.473933",
-    "BRL_per_USD": "5.610238"
+    "PYG_per_USD": "6204.967082",
+    "BRL_per_USD": "5.648277"
   },
-  "total_products_extracted": 190,
+  "total_products_extracted": 197,
   "total_products_in_catalog": 200,
   "max_products": 200,
   "products_with_images": 191,
@@ -59,7 +59,7 @@
       "pages_checked": 12,
       "pages_loaded": 12,
       "pages_blocked": 0,
-      "products_found": 190,
+      "products_found": 197,
       "status": "ok",
       "details": []
     }
