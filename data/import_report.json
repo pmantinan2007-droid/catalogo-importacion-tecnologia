@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18T11:53:53.019783+00:00",
+  "updated_at": "2026-11-19T11:50:23.993595+00:00",
   "exchange_rates": {
-    "ARS": "1605",
+    "ARS": "1630",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "6201.196113",
-    "BRL_per_USD": "5.781701"
+    "PYG_per_USD": "6251.825119",
+    "BRL_per_USD": "5.809843"
   },
   "total_products_extracted": 0,
   "total_products_in_catalog": 200,
@@ -57,11 +57,13 @@
     {
       "provider": "Shopping China",
       "pages_checked": 12,
-      "pages_loaded": 12,
+      "pages_loaded": 11,
       "pages_blocked": 0,
       "products_found": 0,
       "status": "sin productos extraídos",
-      "details": []
+      "details": [
+        "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
     }
   ],
   "warnings": [
@@ -124,6 +126,11 @@
       "provider": "Madrid Center",
       "url": "https://madridcenterimportados.com/es/informatica",
       "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+    },
+    {
+      "provider": "Shopping China",
+      "url": "https://www.shoppingchina.com.py/electronicos.celulares?page=1",
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "provider": "Imagenes y actualización de fichas",
