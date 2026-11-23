@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22T11:37:11.316012+00:00",
+  "updated_at": "2026-11-23T13:04:02.604039+00:00",
   "exchange_rates": {
     "ARS": "1675",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "6271.058356",
-    "BRL_per_USD": "5.937879"
+    "PYG_per_USD": "6326.700243",
+    "BRL_per_USD": "5.945309"
   },
   "total_products_extracted": 0,
   "total_products_in_catalog": 200,
@@ -56,8 +56,8 @@
     },
     {
       "provider": "Shopping China",
-      "pages_checked": 12,
-      "pages_loaded": 12,
+      "pages_checked": 9,
+      "pages_loaded": 9,
       "pages_blocked": 0,
       "products_found": 0,
       "status": "sin productos extraídos",
