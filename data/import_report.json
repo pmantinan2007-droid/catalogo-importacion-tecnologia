@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-23T13:04:02.604039+00:00",
+  "updated_at": "2026-11-24T13:53:34.418837+00:00",
   "exchange_rates": {
     "ARS": "1675",
     "ARS_source": "DolarHoy - dólar blue venta",
-    "PYG_per_USD": "6326.700243",
-    "BRL_per_USD": "5.945309"
+    "PYG_per_USD": "6349.505212",
+    "BRL_per_USD": "5.958461"
   },
   "total_products_extracted": 0,
   "total_products_in_catalog": 200,
@@ -128,7 +128,7 @@
     {
       "provider": "Imagenes y actualización de fichas",
       "url": "https://cellshop.com.py/catalog/product/view/id/3579955/s/apple-iphone-17-256gb-black-mg464ll-esim/category/1012/",
-      "error": "HTTP 403 (bloqueo/limitación del proveedor)"
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "provider": "Imagenes y actualización de fichas",
