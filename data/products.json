@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T13:08:45.760730+00:00",
-  "ars_per_usd": 1700.0,
+  "updated_at": "2026-11-26T12:47:33.105992+00:00",
+  "ars_per_usd": 1710.0,
   "ars_source": "DolarHoy - dólar blue venta",
   "pyg_per_usd": 6403.898532,
   "brl_per_usd": 5.894422,
@@ -19,7 +19,7 @@
       "source_price": 6527976.0,
       "source_currency": "PYG",
       "price_usd": 1427.13,
-      "price_ars": 2426121,
+      "price_ars": 2440392,
       "stock_available": true,
       "featured": true,
       "price_is_snapshot": true,
@@ -42,7 +42,7 @@
       "source_price": 5482070.0,
       "source_currency": "PYG",
       "price_usd": 1198.47,
-      "price_ars": 2037399,
+      "price_ars": 2049384,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -65,7 +65,7 @@
       "source_price": 468846.0,
       "source_currency": "PYG",
       "price_usd": 102.5,
-      "price_ars": 174250,
+      "price_ars": 175275,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -88,7 +88,7 @@
       "source_price": 1690000.0,
       "source_currency": "PYG",
       "price_usd": 369.46,
-      "price_ars": 628082,
+      "price_ars": 631777,
       "stock_available": true,
       "featured": true,
       "price_is_snapshot": true,
@@ -111,7 +111,7 @@
       "source_price": 3978000.0,
       "source_currency": "PYG",
       "price_usd": 869.66,
-      "price_ars": 1478422,
+      "price_ars": 1487119,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -134,7 +134,7 @@
       "source_price": 4997000.0,
       "source_currency": "PYG",
       "price_usd": 1092.43,
-      "price_ars": 1857131,
+      "price_ars": 1868055,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": true,
@@ -157,7 +157,7 @@
       "source_price": 202.0,
       "source_currency": "USD",
       "price_usd": 282.8,
-      "price_ars": 480760,
+      "price_ars": 483588,
       "stock_available": null,
       "featured": false,
       "price_is_snapshot": true,
@@ -180,7 +180,7 @@
       "source_price": 760.0,
       "source_currency": "USD",
       "price_usd": 1064.0,
-      "price_ars": 1808800,
+      "price_ars": 1819440,
       "stock_available": null,
       "featured": false,
       "price_is_snapshot": true,
@@ -203,7 +203,7 @@
       "source_price": 770.0,
       "source_currency": "USD",
       "price_usd": 1078.0,
-      "price_ars": 1832600,
+      "price_ars": 1843380,
       "stock_available": null,
       "featured": false,
       "price_is_snapshot": true,
@@ -226,7 +226,7 @@
       "source_price": 8052000.0,
       "source_currency": "PYG",
       "price_usd": 1760.3,
-      "price_ars": 2992510,
+      "price_ars": 3010113,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-01T10:36:03.209632+00:00"
@@ -243,7 +243,7 @@
       "source_price": 4959000.0,
       "source_currency": "PYG",
       "price_usd": 1084.12,
-      "price_ars": 1843004,
+      "price_ars": 1853845,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-13T11:10:33.525761+00:00"
@@ -260,7 +260,7 @@
       "source_price": 4054000.0,
       "source_currency": "PYG",
       "price_usd": 886.27,
-      "price_ars": 1506659,
+      "price_ars": 1515522,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.700602+00:00"
@@ -277,7 +277,7 @@
       "source_price": 7009000.0,
       "source_currency": "PYG",
       "price_usd": 1532.29,
-      "price_ars": 2604893,
+      "price_ars": 2620216,
       "stock_available": true,
       "featured": false,
       "price_is_snapshot": false,
@@ -301,7 +301,7 @@
       "source_price": 6244000.0,
       "source_currency": "PYG",
       "price_usd": 1365.04,
-      "price_ars": 2320568,
+      "price_ars": 2334218,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:29.617636+00:00"
@@ -318,10 +318,10 @@
       "source_price": 85000.0,
       "source_currency": "PYG",
       "price_usd": 18.58,
-      "price_ars": 31586,
+      "price_ars": 31772,
       "stock_available": true,
       "featured": false,
-      "updated_at": "2026-11-25T13:08:21.948701+00:00"
+      "updated_at": "2026-11-26T12:47:11.825568+00:00"
     },
     {
       "id": "62615b592ec8c937",
@@ -335,7 +335,7 @@
       "source_price": 106000.0,
       "source_currency": "PYG",
       "price_usd": 23.17,
-      "price_ars": 39389,
+      "price_ars": 39621,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.705115+00:00"
@@ -352,7 +352,7 @@
       "source_price": 213000.0,
       "source_currency": "PYG",
       "price_usd": 46.57,
-      "price_ars": 79169,
+      "price_ars": 79635,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:29.619149+00:00"
@@ -369,7 +369,7 @@
       "source_price": 5378000.0,
       "source_currency": "PYG",
       "price_usd": 1175.72,
-      "price_ars": 1998724,
+      "price_ars": 2010481,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:37.779302+00:00"
@@ -386,7 +386,7 @@
       "source_price": 319000.0,
       "source_currency": "PYG",
       "price_usd": 69.74,
-      "price_ars": 118558,
+      "price_ars": 119255,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:37.780367+00:00"
@@ -403,10 +403,10 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": true,
       "featured": false,
-      "updated_at": "2026-11-25T13:08:21.962714+00:00"
+      "updated_at": "2026-11-26T12:47:11.836518+00:00"
     },
     {
       "id": "6d3ae4542e50499f",
@@ -420,10 +420,10 @@
       "source_price": 1645000.0,
       "source_currency": "PYG",
       "price_usd": 359.62,
-      "price_ars": 611354,
+      "price_ars": 614950,
       "stock_available": true,
       "featured": false,
-      "updated_at": "2026-11-25T13:08:21.966654+00:00"
+      "updated_at": "2026-11-26T12:47:11.839697+00:00"
     },
     {
       "id": "0019d4397e5b1d9b",
@@ -437,7 +437,7 @@
       "source_price": 490000.0,
       "source_currency": "PYG",
       "price_usd": 107.12,
-      "price_ars": 182104,
+      "price_ars": 183175,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.703129+00:00"
@@ -454,7 +454,7 @@
       "source_price": 8078000.0,
       "source_currency": "PYG",
       "price_usd": 1765.99,
-      "price_ars": 3002183,
+      "price_ars": 3019843,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:02:51.231284+00:00"
@@ -471,7 +471,7 @@
       "source_price": 395000.0,
       "source_currency": "PYG",
       "price_usd": 86.35,
-      "price_ars": 146795,
+      "price_ars": 147658,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-11T11:08:25.004287+00:00"
@@ -488,7 +488,7 @@
       "source_price": 1774000.0,
       "source_currency": "PYG",
       "price_usd": 387.83,
-      "price_ars": 659311,
+      "price_ars": 663189,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.702039+00:00"
@@ -505,7 +505,7 @@
       "source_price": 2161000.0,
       "source_currency": "PYG",
       "price_usd": 472.43,
-      "price_ars": 803131,
+      "price_ars": 807855,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:37.783074+00:00"
@@ -522,7 +522,7 @@
       "source_price": 2334000.0,
       "source_currency": "PYG",
       "price_usd": 510.25,
-      "price_ars": 867425,
+      "price_ars": 872528,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.701669+00:00"
@@ -539,7 +539,7 @@
       "source_price": 1412000.0,
       "source_currency": "PYG",
       "price_usd": 308.69,
-      "price_ars": 524773,
+      "price_ars": 527860,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.700203+00:00"
@@ -556,7 +556,7 @@
       "source_price": 71000.0,
       "source_currency": "PYG",
       "price_usd": 15.52,
-      "price_ars": 26384,
+      "price_ars": 26539,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:02:58.686217+00:00"
@@ -573,7 +573,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:44.563606+00:00"
@@ -590,7 +590,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:44.564477+00:00"
@@ -607,7 +607,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:44.564855+00:00"
@@ -624,7 +624,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:44.565232+00:00"
@@ -641,7 +641,7 @@
       "source_price": 25000.0,
       "source_currency": "PYG",
       "price_usd": 5.47,
-      "price_ars": 9299,
+      "price_ars": 9354,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:44.565589+00:00"
@@ -658,10 +658,10 @@
       "source_price": 18000.0,
       "source_currency": "PYG",
       "price_usd": 3.94,
-      "price_ars": 6698,
+      "price_ars": 6737,
       "stock_available": true,
       "featured": false,
-      "updated_at": "2026-11-25T13:08:26.266079+00:00"
+      "updated_at": "2026-11-26T12:47:15.656594+00:00"
     },
     {
       "id": "4c0b2b63291ee3ae",
@@ -675,7 +675,7 @@
       "source_price": 201000.0,
       "source_currency": "PYG",
       "price_usd": 43.94,
-      "price_ars": 74698,
+      "price_ars": 75137,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:36.018313+00:00"
@@ -692,7 +692,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.252945+00:00"
@@ -709,7 +709,7 @@
       "source_price": 887000.0,
       "source_currency": "PYG",
       "price_usd": 193.91,
-      "price_ars": 329647,
+      "price_ars": 331586,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:44.562826+00:00"
@@ -726,7 +726,7 @@
       "source_price": 59000.0,
       "source_currency": "PYG",
       "price_usd": 12.9,
-      "price_ars": 21930,
+      "price_ars": 22059,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-11T11:08:32.319584+00:00"
@@ -743,7 +743,7 @@
       "source_price": 5564000.0,
       "source_currency": "PYG",
       "price_usd": 1216.38,
-      "price_ars": 2067846,
+      "price_ars": 2080010,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-10T11:22:02.351273+00:00"
@@ -760,7 +760,7 @@
       "source_price": 64000.0,
       "source_currency": "PYG",
       "price_usd": 13.99,
-      "price_ars": 23783,
+      "price_ars": 23923,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:19.607645+00:00"
@@ -777,7 +777,7 @@
       "source_price": 64000.0,
       "source_currency": "PYG",
       "price_usd": 13.99,
-      "price_ars": 23783,
+      "price_ars": 23923,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:19.604491+00:00"
@@ -794,7 +794,7 @@
       "source_price": 52000.0,
       "source_currency": "PYG",
       "price_usd": 11.37,
-      "price_ars": 19329,
+      "price_ars": 19443,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:36.018608+00:00"
@@ -811,7 +811,7 @@
       "source_price": 37000.0,
       "source_currency": "PYG",
       "price_usd": 8.09,
-      "price_ars": 13753,
+      "price_ars": 13834,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:36.018901+00:00"
@@ -828,7 +828,7 @@
       "source_price": 54000.0,
       "source_currency": "PYG",
       "price_usd": 11.81,
-      "price_ars": 20077,
+      "price_ars": 20195,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-03T10:59:19.292259+00:00"
@@ -845,7 +845,7 @@
       "source_price": 148000.0,
       "source_currency": "PYG",
       "price_usd": 32.36,
-      "price_ars": 55012,
+      "price_ars": 55336,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:19.606364+00:00"
@@ -862,7 +862,7 @@
       "source_price": 705000.0,
       "source_currency": "PYG",
       "price_usd": 154.12,
-      "price_ars": 262004,
+      "price_ars": 263545,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:28.704153+00:00"
@@ -879,7 +879,7 @@
       "source_price": 40000.0,
       "source_currency": "PYG",
       "price_usd": 8.74,
-      "price_ars": 14858,
+      "price_ars": 14945,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T19:54:26.169409+00:00"
@@ -896,7 +896,7 @@
       "source_price": 62000.0,
       "source_currency": "PYG",
       "price_usd": 13.55,
-      "price_ars": 23035,
+      "price_ars": 23170,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T01:08:46.854786+00:00"
@@ -913,7 +913,7 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.307542+00:00"
@@ -930,7 +930,7 @@
       "source_price": 85000.0,
       "source_currency": "PYG",
       "price_usd": 18.58,
-      "price_ars": 31586,
+      "price_ars": 31772,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.733006+00:00"
@@ -947,7 +947,7 @@
       "source_price": 57000.0,
       "source_currency": "PYG",
       "price_usd": 12.46,
-      "price_ars": 21182,
+      "price_ars": 21307,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.308477+00:00"
@@ -964,7 +964,7 @@
       "source_price": 99000.0,
       "source_currency": "PYG",
       "price_usd": 21.64,
-      "price_ars": 36788,
+      "price_ars": 37004,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.308863+00:00"
@@ -981,7 +981,7 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.310000+00:00"
@@ -998,7 +998,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.310396+00:00"
@@ -1015,7 +1015,7 @@
       "source_price": 71000.0,
       "source_currency": "PYG",
       "price_usd": 15.52,
-      "price_ars": 26384,
+      "price_ars": 26539,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.309266+00:00"
@@ -1032,7 +1032,7 @@
       "source_price": 50000.0,
       "source_currency": "PYG",
       "price_usd": 10.93,
-      "price_ars": 18581,
+      "price_ars": 18690,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.310769+00:00"
@@ -1049,7 +1049,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.311160+00:00"
@@ -1066,7 +1066,7 @@
       "source_price": 57000.0,
       "source_currency": "PYG",
       "price_usd": 12.46,
-      "price_ars": 21182,
+      "price_ars": 21307,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.732255+00:00"
@@ -1083,7 +1083,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.312771+00:00"
@@ -1100,7 +1100,7 @@
       "source_price": 71000.0,
       "source_currency": "PYG",
       "price_usd": 15.52,
-      "price_ars": 26384,
+      "price_ars": 26539,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.313152+00:00"
@@ -1117,7 +1117,7 @@
       "source_price": 88000.0,
       "source_currency": "PYG",
       "price_usd": 19.24,
-      "price_ars": 32708,
+      "price_ars": 32900,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-09T11:44:51.420720+00:00"
@@ -1134,7 +1134,7 @@
       "source_price": 50000.0,
       "source_currency": "PYG",
       "price_usd": 10.93,
-      "price_ars": 18581,
+      "price_ars": 18690,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.315330+00:00"
@@ -1151,7 +1151,7 @@
       "source_price": 44000.0,
       "source_currency": "PYG",
       "price_usd": 9.62,
-      "price_ars": 16354,
+      "price_ars": 16450,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-08T10:31:51.708740+00:00"
@@ -1168,7 +1168,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.313871+00:00"
@@ -1185,7 +1185,7 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.313515+00:00"
@@ -1202,7 +1202,7 @@
       "source_price": 50000.0,
       "source_currency": "PYG",
       "price_usd": 10.93,
-      "price_ars": 18581,
+      "price_ars": 18690,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.314251+00:00"
@@ -1219,7 +1219,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.314956+00:00"
@@ -1236,7 +1236,7 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.316158+00:00"
@@ -1253,7 +1253,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.315684+00:00"
@@ -1270,7 +1270,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:47.314603+00:00"
@@ -1287,7 +1287,7 @@
       "source_price": 76000.0,
       "source_currency": "PYG",
       "price_usd": 16.61,
-      "price_ars": 28237,
+      "price_ars": 28403,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:41.965959+00:00"
@@ -1304,7 +1304,7 @@
       "source_price": 561000.0,
       "source_currency": "PYG",
       "price_usd": 122.64,
-      "price_ars": 208488,
+      "price_ars": 209714,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.980457+00:00"
@@ -1321,7 +1321,7 @@
       "source_price": 419000.0,
       "source_currency": "PYG",
       "price_usd": 91.6,
-      "price_ars": 155720,
+      "price_ars": 156636,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.980876+00:00"
@@ -1338,7 +1338,7 @@
       "source_price": 823000.0,
       "source_currency": "PYG",
       "price_usd": 179.92,
-      "price_ars": 305864,
+      "price_ars": 307663,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.981248+00:00"
@@ -1355,7 +1355,7 @@
       "source_price": 6847000.0,
       "source_currency": "PYG",
       "price_usd": 1496.87,
-      "price_ars": 2544679,
+      "price_ars": 2559648,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.981963+00:00"
@@ -1372,7 +1372,7 @@
       "source_price": 5215000.0,
       "source_currency": "PYG",
       "price_usd": 1140.09,
-      "price_ars": 1938153,
+      "price_ars": 1949554,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.982339+00:00"
@@ -1389,7 +1389,7 @@
       "source_price": 194000.0,
       "source_currency": "PYG",
       "price_usd": 42.41,
-      "price_ars": 72097,
+      "price_ars": 72521,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.982696+00:00"
@@ -1406,7 +1406,7 @@
       "source_price": 4896000.0,
       "source_currency": "PYG",
       "price_usd": 1070.35,
-      "price_ars": 1819595,
+      "price_ars": 1830298,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.983057+00:00"
@@ -1423,7 +1423,7 @@
       "source_price": 4896000.0,
       "source_currency": "PYG",
       "price_usd": 1070.35,
-      "price_ars": 1819595,
+      "price_ars": 1830298,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.983401+00:00"
@@ -1440,7 +1440,7 @@
       "source_price": 6847000.0,
       "source_currency": "PYG",
       "price_usd": 1496.87,
-      "price_ars": 2544679,
+      "price_ars": 2559648,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.983829+00:00"
@@ -1457,7 +1457,7 @@
       "source_price": 3973000.0,
       "source_currency": "PYG",
       "price_usd": 868.56,
-      "price_ars": 1476552,
+      "price_ars": 1485238,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.984221+00:00"
@@ -1474,7 +1474,7 @@
       "source_price": 3760000.0,
       "source_currency": "PYG",
       "price_usd": 822.0,
-      "price_ars": 1397400,
+      "price_ars": 1405620,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.984579+00:00"
@@ -1491,7 +1491,7 @@
       "source_price": 3760000.0,
       "source_currency": "PYG",
       "price_usd": 822.0,
-      "price_ars": 1397400,
+      "price_ars": 1405620,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.984929+00:00"
@@ -1508,7 +1508,7 @@
       "source_price": 6847000.0,
       "source_currency": "PYG",
       "price_usd": 1496.87,
-      "price_ars": 2544679,
+      "price_ars": 2559648,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.985300+00:00"
@@ -1525,7 +1525,7 @@
       "source_price": 6847000.0,
       "source_currency": "PYG",
       "price_usd": 1496.87,
-      "price_ars": 2544679,
+      "price_ars": 2559648,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:41.305604+00:00"
@@ -1542,7 +1542,7 @@
       "source_price": 6847000.0,
       "source_currency": "PYG",
       "price_usd": 1496.87,
-      "price_ars": 2544679,
+      "price_ars": 2559648,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.985651+00:00"
@@ -1559,7 +1559,7 @@
       "source_price": 1242000.0,
       "source_currency": "PYG",
       "price_usd": 271.52,
-      "price_ars": 461584,
+      "price_ars": 464299,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.986009+00:00"
@@ -1576,7 +1576,7 @@
       "source_price": 4292000.0,
       "source_currency": "PYG",
       "price_usd": 938.3,
-      "price_ars": 1595110,
+      "price_ars": 1604493,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.986363+00:00"
@@ -1593,7 +1593,7 @@
       "source_price": 4292000.0,
       "source_currency": "PYG",
       "price_usd": 938.3,
-      "price_ars": 1595110,
+      "price_ars": 1604493,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.986708+00:00"
@@ -1610,7 +1610,7 @@
       "source_price": 1632000.0,
       "source_currency": "PYG",
       "price_usd": 356.78,
-      "price_ars": 606526,
+      "price_ars": 610094,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.987885+00:00"
@@ -1627,7 +1627,7 @@
       "source_price": 1277000.0,
       "source_currency": "PYG",
       "price_usd": 279.17,
-      "price_ars": 474589,
+      "price_ars": 477381,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.988586+00:00"
@@ -1644,7 +1644,7 @@
       "source_price": 993000.0,
       "source_currency": "PYG",
       "price_usd": 217.09,
-      "price_ars": 369053,
+      "price_ars": 371224,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:49.988939+00:00"
@@ -1661,7 +1661,7 @@
       "source_price": 4959000.0,
       "source_currency": "PYG",
       "price_usd": 1084.12,
-      "price_ars": 1843004,
+      "price_ars": 1853845,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-13T11:10:27.762566+00:00"
@@ -1678,7 +1678,7 @@
       "source_price": 6018000.0,
       "source_currency": "PYG",
       "price_usd": 1315.64,
-      "price_ars": 2236588,
+      "price_ars": 2249744,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:44.944589+00:00"
@@ -1695,7 +1695,7 @@
       "source_price": 135000.0,
       "source_currency": "PYG",
       "price_usd": 29.51,
-      "price_ars": 50167,
+      "price_ars": 50462,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:03:07.796574+00:00"
@@ -1712,7 +1712,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:43.924908+00:00"
@@ -1729,7 +1729,7 @@
       "source_price": 128000.0,
       "source_currency": "PYG",
       "price_usd": 27.98,
-      "price_ars": 47566,
+      "price_ars": 47846,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:43.925866+00:00"
@@ -1746,7 +1746,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.481264+00:00"
@@ -1763,7 +1763,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.481687+00:00"
@@ -1780,7 +1780,7 @@
       "source_price": 134000.0,
       "source_currency": "PYG",
       "price_usd": 29.29,
-      "price_ars": 49793,
+      "price_ars": 50086,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:29.119573+00:00"
@@ -1797,7 +1797,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.482087+00:00"
@@ -1814,7 +1814,7 @@
       "source_price": 162000.0,
       "source_currency": "PYG",
       "price_usd": 35.42,
-      "price_ars": 60214,
+      "price_ars": 60568,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-10T11:22:11.191467+00:00"
@@ -1831,7 +1831,7 @@
       "source_price": 148000.0,
       "source_currency": "PYG",
       "price_usd": 32.36,
-      "price_ars": 55012,
+      "price_ars": 55336,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:29.121532+00:00"
@@ -1848,7 +1848,7 @@
       "source_price": 143000.0,
       "source_currency": "PYG",
       "price_usd": 31.26,
-      "price_ars": 53142,
+      "price_ars": 53455,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-29T23:05:01.814605+00:00"
@@ -1865,7 +1865,7 @@
       "source_price": 128000.0,
       "source_currency": "PYG",
       "price_usd": 27.98,
-      "price_ars": 47566,
+      "price_ars": 47846,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.482466+00:00"
@@ -1882,7 +1882,7 @@
       "source_price": 134000.0,
       "source_currency": "PYG",
       "price_usd": 29.29,
-      "price_ars": 49793,
+      "price_ars": 50086,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:29.123700+00:00"
@@ -1899,7 +1899,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.483238+00:00"
@@ -1916,7 +1916,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:43.929457+00:00"
@@ -1933,7 +1933,7 @@
       "source_price": 192000.0,
       "source_currency": "PYG",
       "price_usd": 41.97,
-      "price_ars": 71349,
+      "price_ars": 71769,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.483605+00:00"
@@ -1950,7 +1950,7 @@
       "source_price": 248000.0,
       "source_currency": "PYG",
       "price_usd": 54.22,
-      "price_ars": 92174,
+      "price_ars": 92716,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.483978+00:00"
@@ -1967,7 +1967,7 @@
       "source_price": 192000.0,
       "source_currency": "PYG",
       "price_usd": 41.97,
-      "price_ars": 71349,
+      "price_ars": 71769,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.484368+00:00"
@@ -1984,7 +1984,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.484834+00:00"
@@ -2001,7 +2001,7 @@
       "source_price": 355000.0,
       "source_currency": "PYG",
       "price_usd": 77.61,
-      "price_ars": 131937,
+      "price_ars": 132713,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.485296+00:00"
@@ -2018,7 +2018,7 @@
       "source_price": 248000.0,
       "source_currency": "PYG",
       "price_usd": 54.22,
-      "price_ars": 92174,
+      "price_ars": 92716,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:43.932548+00:00"
@@ -2035,7 +2035,7 @@
       "source_price": 161000.0,
       "source_currency": "PYG",
       "price_usd": 35.2,
-      "price_ars": 59840,
+      "price_ars": 60192,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.485676+00:00"
@@ -2052,7 +2052,7 @@
       "source_price": 639000.0,
       "source_currency": "PYG",
       "price_usd": 139.7,
-      "price_ars": 237490,
+      "price_ars": 238887,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:52.486064+00:00"
@@ -2069,7 +2069,7 @@
       "source_price": 174000.0,
       "source_currency": "PYG",
       "price_usd": 38.04,
-      "price_ars": 64668,
+      "price_ars": 65048,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-12T11:26:43.934011+00:00"
@@ -2086,7 +2086,7 @@
       "source_price": 355000.0,
       "source_currency": "PYG",
       "price_usd": 77.61,
-      "price_ars": 131937,
+      "price_ars": 132713,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.698283+00:00"
@@ -2103,7 +2103,7 @@
       "source_price": 6031000.0,
       "source_currency": "PYG",
       "price_usd": 1318.48,
-      "price_ars": 2241416,
+      "price_ars": 2254601,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.698672+00:00"
@@ -2120,7 +2120,7 @@
       "source_price": 617000.0,
       "source_currency": "PYG",
       "price_usd": 134.89,
-      "price_ars": 229313,
+      "price_ars": 230662,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.699370+00:00"
@@ -2137,7 +2137,7 @@
       "source_price": 731000.0,
       "source_currency": "PYG",
       "price_usd": 159.81,
-      "price_ars": 271677,
+      "price_ars": 273275,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.699720+00:00"
@@ -2154,7 +2154,7 @@
       "source_price": 4896000.0,
       "source_currency": "PYG",
       "price_usd": 1070.35,
-      "price_ars": 1819595,
+      "price_ars": 1830298,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.702390+00:00"
@@ -2171,7 +2171,7 @@
       "source_price": 248000.0,
       "source_currency": "PYG",
       "price_usd": 54.22,
-      "price_ars": 92174,
+      "price_ars": 92716,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.702754+00:00"
@@ -2188,7 +2188,7 @@
       "source_price": 355000.0,
       "source_currency": "PYG",
       "price_usd": 77.61,
-      "price_ars": 131937,
+      "price_ars": 132713,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.703587+00:00"
@@ -2205,7 +2205,7 @@
       "source_price": 319000.0,
       "source_currency": "PYG",
       "price_usd": 69.74,
-      "price_ars": 118558,
+      "price_ars": 119255,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.704361+00:00"
@@ -2222,7 +2222,7 @@
       "source_price": 369000.0,
       "source_currency": "PYG",
       "price_usd": 80.67,
-      "price_ars": 137139,
+      "price_ars": 137946,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.704713+00:00"
@@ -2239,7 +2239,7 @@
       "source_price": 11707000.0,
       "source_currency": "PYG",
       "price_usd": 2559.35,
-      "price_ars": 4350895,
+      "price_ars": 4376488,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.705885+00:00"
@@ -2256,7 +2256,7 @@
       "source_price": 1135000.0,
       "source_currency": "PYG",
       "price_usd": 248.13,
-      "price_ars": 421821,
+      "price_ars": 424302,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:54.706956+00:00"
@@ -2273,7 +2273,7 @@
       "source_price": 13219000.0,
       "source_currency": "PYG",
       "price_usd": 2889.9,
-      "price_ars": 4912830,
+      "price_ars": 4941729,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-31T09:46:31.808626+00:00"
@@ -2290,7 +2290,7 @@
       "source_price": 101000.0,
       "source_currency": "PYG",
       "price_usd": 22.08,
-      "price_ars": 37536,
+      "price_ars": 37757,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-10-30T10:10:17.032578+00:00"
@@ -2307,7 +2307,7 @@
       "source_price": 284000.0,
       "source_currency": "PYG",
       "price_usd": 62.09,
-      "price_ars": 105553,
+      "price_ars": 106174,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.250637+00:00"
@@ -2324,7 +2324,7 @@
       "source_price": 60000.0,
       "source_currency": "PYG",
       "price_usd": 13.12,
-      "price_ars": 22304,
+      "price_ars": 22435,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.251521+00:00"
@@ -2341,7 +2341,7 @@
       "source_price": 355000.0,
       "source_currency": "PYG",
       "price_usd": 77.61,
-      "price_ars": 131937,
+      "price_ars": 132713,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.251873+00:00"
@@ -2358,7 +2358,7 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.252250+00:00"
@@ -2375,7 +2375,7 @@
       "source_price": 60000.0,
       "source_currency": "PYG",
       "price_usd": 13.12,
-      "price_ars": 22304,
+      "price_ars": 22435,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-11T11:08:45.844449+00:00"
@@ -2392,7 +2392,7 @@
       "source_price": 60000.0,
       "source_currency": "PYG",
       "price_usd": 13.12,
-      "price_ars": 22304,
+      "price_ars": 22435,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-25T13:08:37.596521+00:00"
@@ -2409,7 +2409,7 @@
       "source_price": 187000.0,
       "source_currency": "PYG",
       "price_usd": 40.88,
-      "price_ars": 69496,
+      "price_ars": 69905,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:03:13.700855+00:00"
@@ -2426,7 +2426,7 @@
       "source_price": 92000.0,
       "source_currency": "PYG",
       "price_usd": 20.11,
-      "price_ars": 34187,
+      "price_ars": 34388,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.253316+00:00"
@@ -2443,7 +2443,7 @@
       "source_price": 92000.0,
       "source_currency": "PYG",
       "price_usd": 20.11,
-      "price_ars": 34187,
+      "price_ars": 34388,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.254017+00:00"
@@ -2460,7 +2460,7 @@
       "source_price": 92000.0,
       "source_currency": "PYG",
       "price_usd": 20.11,
-      "price_ars": 34187,
+      "price_ars": 34388,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.254370+00:00"
@@ -2477,7 +2477,7 @@
       "source_price": 121000.0,
       "source_currency": "PYG",
       "price_usd": 26.45,
-      "price_ars": 44965,
+      "price_ars": 45230,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.254806+00:00"
@@ -2494,27 +2494,27 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.255187+00:00"
     },
     {
-      "id": "5715bc622182ad37",
+      "id": "67543959023f7ec7",
       "name": "Auricular Sony MDR-ZX310 Blue",
       "brand": "",
-      "description": "Auricular Sony MDR-ZX310 Blue Gs. 128.000",
+      "description": "Más vendido en Electrónicos Auricular Sony MDR-ZX310 Blue Gs. 128.000",
       "category": "Audio",
       "provider": "Shopping China",
-      "source_url": "https://www.shoppingchina.com.py/producto/auricular-sony-mdr-zx310-blue-663795",
-      "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajc4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eaa78b95df633935ff78d313ed240188e99cf102/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSWFRSElhUUhJZXdZNkRHZHlZWFpwZEhsSklndERaVzUwWlhJR09nWkZWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f8dd758c181ad66deae2936e69fa86c8f746658/663795.jpg",
+      "source_url": "https://www.shoppingchina.com.py/mas-vendidos?sectors=%5B%22electronica%22%5D",
+      "image_url": "https://shoppingchina.b-cdn.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ1NzQsInB1ciI6ImJsb2JfaWQifX0=--79aa84a7bb280fa5394aa59516771968f42a956b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsyMDAsMjAwLHsiZ3Jhdml0eSI6IkNlbnRlciJ9XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--1e2f07a1a5de31ddba7e3c89e847790f7c2f664f/663795.jpg",
       "source_price": 128000.0,
       "source_currency": "PYG",
       "price_usd": 27.98,
-      "price_ars": 47566,
+      "price_ars": 47846,
       "stock_available": null,
       "featured": false,
-      "updated_at": "2026-11-15T11:07:57.255880+00:00"
+      "updated_at": "2026-11-26T12:47:25.958350+00:00"
     },
     {
       "id": "8fd765d52b22ea7d",
@@ -2528,7 +2528,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.256242+00:00"
@@ -2545,7 +2545,7 @@
       "source_price": 121000.0,
       "source_currency": "PYG",
       "price_usd": 26.45,
-      "price_ars": 44965,
+      "price_ars": 45230,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.256591+00:00"
@@ -2562,7 +2562,7 @@
       "source_price": 57000.0,
       "source_currency": "PYG",
       "price_usd": 12.46,
-      "price_ars": 21182,
+      "price_ars": 21307,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.256931+00:00"
@@ -2579,7 +2579,7 @@
       "source_price": 128000.0,
       "source_currency": "PYG",
       "price_usd": 27.98,
-      "price_ars": 47566,
+      "price_ars": 47846,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.257288+00:00"
@@ -2596,7 +2596,7 @@
       "source_price": 1561000.0,
       "source_currency": "PYG",
       "price_usd": 341.26,
-      "price_ars": 580142,
+      "price_ars": 583555,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.257642+00:00"
@@ -2613,7 +2613,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.257981+00:00"
@@ -2630,7 +2630,7 @@
       "source_price": 1880000.0,
       "source_currency": "PYG",
       "price_usd": 411.0,
-      "price_ars": 698700,
+      "price_ars": 702810,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.258434+00:00"
@@ -2647,7 +2647,7 @@
       "source_price": 106000.0,
       "source_currency": "PYG",
       "price_usd": 23.17,
-      "price_ars": 39389,
+      "price_ars": 39621,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-14T10:37:02.336719+00:00"
@@ -2664,7 +2664,7 @@
       "source_price": 177000.0,
       "source_currency": "PYG",
       "price_usd": 38.7,
-      "price_ars": 65790,
+      "price_ars": 66177,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:57.258802+00:00"
@@ -2681,7 +2681,7 @@
       "source_price": 213000.0,
       "source_currency": "PYG",
       "price_usd": 46.57,
-      "price_ars": 79169,
+      "price_ars": 79635,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.406865+00:00"
@@ -2698,7 +2698,7 @@
       "source_price": 454000.0,
       "source_currency": "PYG",
       "price_usd": 99.25,
-      "price_ars": 168725,
+      "price_ars": 169718,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.407306+00:00"
@@ -2715,7 +2715,7 @@
       "source_price": 626000.0,
       "source_currency": "PYG",
       "price_usd": 136.85,
-      "price_ars": 232645,
+      "price_ars": 234014,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-11T11:08:48.281630+00:00"
@@ -2732,7 +2732,7 @@
       "source_price": 213000.0,
       "source_currency": "PYG",
       "price_usd": 46.57,
-      "price_ars": 79169,
+      "price_ars": 79635,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.408152+00:00"
@@ -2749,7 +2749,7 @@
       "source_price": 5499000.0,
       "source_currency": "PYG",
       "price_usd": 1202.17,
-      "price_ars": 2043689,
+      "price_ars": 2055711,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.408515+00:00"
@@ -2766,7 +2766,7 @@
       "source_price": 447000.0,
       "source_currency": "PYG",
       "price_usd": 97.72,
-      "price_ars": 166124,
+      "price_ars": 167101,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.408857+00:00"
@@ -2783,7 +2783,7 @@
       "source_price": 2590000.0,
       "source_currency": "PYG",
       "price_usd": 566.22,
-      "price_ars": 962574,
+      "price_ars": 968236,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.409584+00:00"
@@ -2800,7 +2800,7 @@
       "source_price": 5570000.0,
       "source_currency": "PYG",
       "price_usd": 1217.7,
-      "price_ars": 2070090,
+      "price_ars": 2082267,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.409928+00:00"
@@ -2817,7 +2817,7 @@
       "source_price": 2590000.0,
       "source_currency": "PYG",
       "price_usd": 566.22,
-      "price_ars": 962574,
+      "price_ars": 968236,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.410289+00:00"
@@ -2834,7 +2834,7 @@
       "source_price": 486000.0,
       "source_currency": "PYG",
       "price_usd": 106.25,
-      "price_ars": 180625,
+      "price_ars": 181688,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-06T11:03:15.985931+00:00"
@@ -2851,7 +2851,7 @@
       "source_price": 2618000.0,
       "source_currency": "PYG",
       "price_usd": 572.34,
-      "price_ars": 972978,
+      "price_ars": 978701,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.410634+00:00"
@@ -2868,7 +2868,7 @@
       "source_price": 2661000.0,
       "source_currency": "PYG",
       "price_usd": 581.74,
-      "price_ars": 988958,
+      "price_ars": 994775,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.410973+00:00"
@@ -2885,7 +2885,7 @@
       "source_price": 85000.0,
       "source_currency": "PYG",
       "price_usd": 18.58,
-      "price_ars": 31586,
+      "price_ars": 31772,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.411442+00:00"
@@ -2902,7 +2902,7 @@
       "source_price": 2590000.0,
       "source_currency": "PYG",
       "price_usd": 566.22,
-      "price_ars": 962574,
+      "price_ars": 968236,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.411818+00:00"
@@ -2919,7 +2919,7 @@
       "source_price": 1107000.0,
       "source_currency": "PYG",
       "price_usd": 242.01,
-      "price_ars": 411417,
+      "price_ars": 413837,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.412189+00:00"
@@ -2936,7 +2936,7 @@
       "source_price": 4505000.0,
       "source_currency": "PYG",
       "price_usd": 984.87,
-      "price_ars": 1674279,
+      "price_ars": 1684128,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.412879+00:00"
@@ -2953,7 +2953,7 @@
       "source_price": 1951000.0,
       "source_currency": "PYG",
       "price_usd": 426.52,
-      "price_ars": 725084,
+      "price_ars": 729349,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.413235+00:00"
@@ -2970,7 +2970,7 @@
       "source_price": 1625000.0,
       "source_currency": "PYG",
       "price_usd": 355.25,
-      "price_ars": 603925,
+      "price_ars": 607478,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.413913+00:00"
@@ -2987,7 +2987,7 @@
       "source_price": 3370000.0,
       "source_currency": "PYG",
       "price_usd": 736.74,
-      "price_ars": 1252458,
+      "price_ars": 1259825,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.414274+00:00"
@@ -3004,7 +3004,7 @@
       "source_price": 5428000.0,
       "source_currency": "PYG",
       "price_usd": 1186.65,
-      "price_ars": 2017305,
+      "price_ars": 2029172,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.414621+00:00"
@@ -3021,7 +3021,7 @@
       "source_price": 7173000.0,
       "source_currency": "PYG",
       "price_usd": 1568.14,
-      "price_ars": 2665838,
+      "price_ars": 2681519,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.415069+00:00"
@@ -3038,7 +3038,7 @@
       "source_price": 2831000.0,
       "source_currency": "PYG",
       "price_usd": 618.9,
-      "price_ars": 1052130,
+      "price_ars": 1058319,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:07:59.415438+00:00"
@@ -3055,7 +3055,7 @@
       "source_price": 852000.0,
       "source_currency": "PYG",
       "price_usd": 186.26,
-      "price_ars": 316642,
+      "price_ars": 318505,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:44.194907+00:00"
@@ -3072,7 +3072,7 @@
       "source_price": 229000.0,
       "source_currency": "PYG",
       "price_usd": 50.06,
-      "price_ars": 85102,
+      "price_ars": 85603,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-02T11:22:44.195526+00:00"
@@ -3089,7 +3089,7 @@
       "source_price": 844000.0,
       "source_currency": "PYG",
       "price_usd": 184.51,
-      "price_ars": 313667,
+      "price_ars": 315512,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:01.663334+00:00"
@@ -3106,7 +3106,7 @@
       "source_price": 4747000.0,
       "source_currency": "PYG",
       "price_usd": 1037.77,
-      "price_ars": 1764209,
+      "price_ars": 1774587,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:01.668045+00:00"
@@ -3123,7 +3123,7 @@
       "source_price": 2896000.0,
       "source_currency": "PYG",
       "price_usd": 633.11,
-      "price_ars": 1076287,
+      "price_ars": 1082618,
       "stock_available": true,
       "featured": false,
       "updated_at": "2026-11-25T13:08:41.274048+00:00"
@@ -3140,7 +3140,7 @@
       "source_price": 972000.0,
       "source_currency": "PYG",
       "price_usd": 212.5,
-      "price_ars": 361250,
+      "price_ars": 363375,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:01.664045+00:00"
@@ -3157,7 +3157,7 @@
       "source_price": 206000.0,
       "source_currency": "PYG",
       "price_usd": 45.04,
-      "price_ars": 76568,
+      "price_ars": 77018,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:01.665539+00:00"
@@ -3174,7 +3174,7 @@
       "source_price": 7797000.0,
       "source_currency": "PYG",
       "price_usd": 1704.56,
-      "price_ars": 2897752,
+      "price_ars": 2914798,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-14T10:37:06.926070+00:00"
@@ -3191,7 +3191,7 @@
       "source_price": 67000.0,
       "source_currency": "PYG",
       "price_usd": 14.65,
-      "price_ars": 24905,
+      "price_ars": 25052,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.733375+00:00"
@@ -3208,7 +3208,7 @@
       "source_price": 78000.0,
       "source_currency": "PYG",
       "price_usd": 17.05,
-      "price_ars": 28985,
+      "price_ars": 29156,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.733734+00:00"
@@ -3225,7 +3225,7 @@
       "source_price": 71000.0,
       "source_currency": "PYG",
       "price_usd": 15.52,
-      "price_ars": 26384,
+      "price_ars": 26539,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.734108+00:00"
@@ -3242,7 +3242,7 @@
       "source_price": 64000.0,
       "source_currency": "PYG",
       "price_usd": 13.99,
-      "price_ars": 23783,
+      "price_ars": 23923,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.734462+00:00"
@@ -3259,7 +3259,7 @@
       "source_price": 71000.0,
       "source_currency": "PYG",
       "price_usd": 15.52,
-      "price_ars": 26384,
+      "price_ars": 26539,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.734819+00:00"
@@ -3276,7 +3276,7 @@
       "source_price": 142000.0,
       "source_currency": "PYG",
       "price_usd": 31.04,
-      "price_ars": 52768,
+      "price_ars": 53078,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.735280+00:00"
@@ -3293,7 +3293,7 @@
       "source_price": 21000.0,
       "source_currency": "PYG",
       "price_usd": 4.59,
-      "price_ars": 7803,
+      "price_ars": 7849,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.735666+00:00"
@@ -3310,7 +3310,7 @@
       "source_price": 35000.0,
       "source_currency": "PYG",
       "price_usd": 7.65,
-      "price_ars": 13005,
+      "price_ars": 13082,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.736731+00:00"
@@ -3327,7 +3327,7 @@
       "source_price": 355000.0,
       "source_currency": "PYG",
       "price_usd": 77.61,
-      "price_ars": 131937,
+      "price_ars": 132713,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.737117+00:00"
@@ -3344,7 +3344,7 @@
       "source_price": 405000.0,
       "source_currency": "PYG",
       "price_usd": 88.54,
-      "price_ars": 150518,
+      "price_ars": 151403,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-07T10:23:54.007951+00:00"
@@ -3361,7 +3361,7 @@
       "source_price": 497000.0,
       "source_currency": "PYG",
       "price_usd": 108.65,
-      "price_ars": 184705,
+      "price_ars": 185792,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.737519+00:00"
@@ -3378,7 +3378,7 @@
       "source_price": 43000.0,
       "source_currency": "PYG",
       "price_usd": 9.4,
-      "price_ars": 15980,
+      "price_ars": 16074,
       "stock_available": true,
       "featured": false,
       "updated_at": "2026-11-25T13:08:43.301286+00:00"
@@ -3395,7 +3395,7 @@
       "source_price": 71000.0,
       "source_currency": "PYG",
       "price_usd": 15.52,
-      "price_ars": 26384,
+      "price_ars": 26539,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-15T11:08:03.738946+00:00"
@@ -3412,7 +3412,7 @@
       "source_price": 81000.0,
       "source_currency": "PYG",
       "price_usd": 17.71,
-      "price_ars": 30107,
+      "price_ars": 30284,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-11T11:08:52.939669+00:00"
@@ -3429,7 +3429,7 @@
       "source_price": 81000.0,
       "source_currency": "PYG",
       "price_usd": 17.71,
-      "price_ars": 30107,
+      "price_ars": 30284,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-11T11:08:52.940289+00:00"
@@ -3446,7 +3446,7 @@
       "source_price": 4985000.0,
       "source_currency": "PYG",
       "price_usd": 1089.8,
-      "price_ars": 1852660,
+      "price_ars": 1863558,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-05T11:06:31.307032+00:00"
@@ -3463,7 +3463,7 @@
       "source_price": 6279000.0,
       "source_currency": "PYG",
       "price_usd": 1372.7,
-      "price_ars": 2333590,
+      "price_ars": 2347317,
       "stock_available": null,
       "featured": false,
       "updated_at": "2026-11-14T10:36:45.358747+00:00"
